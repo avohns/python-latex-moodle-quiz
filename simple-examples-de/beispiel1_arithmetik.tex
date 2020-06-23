@@ -1,0 +1,36 @@
+\documentclass[ngerman,a4paper,10pt]{article}
+\usepackage{moodle}
+\usepackage{python}
+\begin{document}
+\begin{quiz}{Arithmetik-Quiz}
+\begin{python}
+for x in range(2,10):
+  for y in range(2,10):
+    if x > y:
+      if x/y == x//y:
+        points=4
+      else:
+        points=3  
+      print(r"\begin{cloze}[points=", points ,r"]{Arithmetik-Quiz ",(x,y),r"}")
+      print(r"L\"ose die folgenden Aufgaben!\\")
+      print(r"\begin{numerical}")
+      print(x," + ",y,"=")
+      print(r"\item ", x+y) 
+      print(r"\end{numerical}\\")
+      print(r"\begin{numerical}")
+      print(x," - ",y,"=")
+      print(r"\item ", x-y) 
+      print(r"\end{numerical}\\")
+      print(r"\begin{numerical}")
+      print(x,r"*",y,"=")
+      print(r"\item ", x*y) 
+      print(r"\end{numerical}\\")
+      if x/y == x//y:
+        print(r"\begin{numerical}")
+        print(x,r" : ",y,"=")
+        print(r"\item ", x//y) 
+        print(r"\end{numerical}\\")
+      print(r"\end{cloze} ")
+\end{python}	
+\end{quiz}
+\end{document}
