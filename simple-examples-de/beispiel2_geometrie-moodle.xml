@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+ 
+<question type="category">
+  <category>
+    <text>$module$/Geometrie-Quiz</text>
+  </category>
+</question>
+ 
+<question type="essay">
+  <name>
+    <text>Vierecke definieren ( Trapez )</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Definiere den Begriff: Trapez </p>]]></text>
+  </questiontext>
+  <defaultgrade>2</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <responserequired>0</responserequired>
+  <responseformat>editor</responseformat>
+  <responsefieldlines>15</responsefieldlines>
+  <attachments>0</attachments>
+  <attachmentsrequired>0</attachmentsrequired>
+  <graderinfo format="html"><text><![CDATA[
+    ein Paar paralleler Seiten
+  ]]></text></graderinfo>
+  <responsetemplate format="html"><text/></responsetemplate>
+</question>
+<question type="essay">
+  <name>
+    <text>Vierecke definieren ( Parallelogramm )</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Definiere den Begriff: Parallelogramm </p>]]></text>
+  </questiontext>
+  <defaultgrade>2</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <responserequired>0</responserequired>
+  <responseformat>editor</responseformat>
+  <responsefieldlines>15</responsefieldlines>
+  <attachments>0</attachments>
+  <attachmentsrequired>0</attachmentsrequired>
+  <graderinfo format="html"><text><![CDATA[
+    gegen&uuml;berliegende Seiten sind parallel
+  ]]></text></graderinfo>
+  <responsetemplate format="html"><text/></responsetemplate>
+</question>
+<question type="essay">
+  <name>
+    <text>Vierecke definieren ( Rechteck )</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Definiere den Begriff: Rechteck </p>]]></text>
+  </questiontext>
+  <defaultgrade>2</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <responserequired>0</responserequired>
+  <responseformat>editor</responseformat>
+  <responsefieldlines>15</responsefieldlines>
+  <attachments>0</attachments>
+  <attachmentsrequired>0</attachmentsrequired>
+  <graderinfo format="html"><text><![CDATA[
+    hat drei rechte Winkel
+  ]]></text></graderinfo>
+  <responsetemplate format="html"><text/></responsetemplate>
+</question>
+<question type="essay">
+  <name>
+    <text>Vierecke definieren ( Raute )</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Definiere den Begriff: Raute </p>]]></text>
+  </questiontext>
+  <defaultgrade>2</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <responserequired>0</responserequired>
+  <responseformat>editor</responseformat>
+  <responsefieldlines>15</responsefieldlines>
+  <attachments>0</attachments>
+  <attachmentsrequired>0</attachmentsrequired>
+  <graderinfo format="html"><text><![CDATA[
+    alle Seiten gleich lang
+  ]]></text></graderinfo>
+  <responsetemplate format="html"><text/></responsetemplate>
+</question>
+<question type="essay">
+  <name>
+    <text>Vierecke definieren ( Deltoid )</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Definiere den Begriff: Deltoid </p>]]></text>
+  </questiontext>
+  <defaultgrade>2</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <responserequired>0</responserequired>
+  <responseformat>editor</responseformat>
+  <responsefieldlines>15</responsefieldlines>
+  <attachments>0</attachments>
+  <attachmentsrequired>0</attachmentsrequired>
+  <graderinfo format="html"><text><![CDATA[
+    eine Diagonale ist Symmetrieachse
+  ]]></text></graderinfo>
+  <responsetemplate format="html"><text/></responsetemplate>
+</question>
+<question type="essay">
+  <name>
+    <text>Vierecke definieren ( Quadrat )</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Definiere den Begriff: Quadrat </p>]]></text>
+  </questiontext>
+  <defaultgrade>2</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <responserequired>0</responserequired>
+  <responseformat>editor</responseformat>
+  <responsefieldlines>15</responsefieldlines>
+  <attachments>0</attachments>
+  <attachmentsrequired>0</attachmentsrequired>
+  <graderinfo format="html"><text><![CDATA[
+    Rechteck, das eine Raute ist
+  ]]></text></graderinfo>
+  <responsetemplate format="html"><text/></responsetemplate>
+</question>
+ 
+</quiz>
