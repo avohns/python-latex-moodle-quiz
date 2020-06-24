@@ -12,7 +12,7 @@
     <text>Arithmetik-Quiz (3, 2)</text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> 3 + 2 = {1:NUMERICAL:=5:0}<BR/> 3 - 2 = {1:NUMERICAL:=1:0}<BR/> 3 * 2 = {1:NUMERICAL:=6:0}<BR/></p>]]></text>
+    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> \(3 + 2 =\) {1:NUMERICAL:=5:0}<BR/> \(3 - 2 =\) {1:NUMERICAL:=1:0}<BR/> \(3 \cdot 2 =\) {1:NUMERICAL:=6:0}<BR/></p>]]></text>
   </questiontext>
   <defaultgrade>3</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
@@ -24,7 +24,7 @@
     <text>Arithmetik-Quiz (4, 2)</text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> 4 + 2 = {1:NUMERICAL:=6:0}<BR/> 4 - 2 = {1:NUMERICAL:=2:0}<BR/> 4 * 2 = {1:NUMERICAL:=8:0}<BR/> 4 : 2 = {1:NUMERICAL:=2:0}<BR/></p>]]></text>
+    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> \(4 + 2 =\) {1:NUMERICAL:=6:0}<BR/> \(4 - 2 =\) {1:NUMERICAL:=2:0}<BR/> \(4 \cdot 2 =\) {1:NUMERICAL:=8:0}<BR/> \(4 : 2 =\) {1:NUMERICAL:=2:0}<BR/></p>]]></text>
   </questiontext>
   <defaultgrade>4</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
@@ -36,7 +36,7 @@
     <text>Arithmetik-Quiz (4, 3)</text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> 4 + 3 = {1:NUMERICAL:=7:0}<BR/> 4 - 3 = {1:NUMERICAL:=1:0}<BR/> 4 * 3 = {1:NUMERICAL:=12:0}<BR/></p>]]></text>
+    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> \(4 + 3 =\) {1:NUMERICAL:=7:0}<BR/> \(4 - 3 =\) {1:NUMERICAL:=1:0}<BR/> \(4 \cdot 3 =\) {1:NUMERICAL:=12:0}<BR/></p>]]></text>
   </questiontext>
   <defaultgrade>3</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
@@ -48,7 +48,7 @@
     <text>Arithmetik-Quiz (5, 2)</text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> 5 + 2 = {1:NUMERICAL:=7:0}<BR/> 5 - 2 = {1:NUMERICAL:=3:0}<BR/> 5 * 2 = {1:NUMERICAL:=10:0}<BR/></p>]]></text>
+    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> \(5 + 2 =\) {1:NUMERICAL:=7:0}<BR/> \(5 - 2 =\) {1:NUMERICAL:=3:0}<BR/> \(5 \cdot 2 =\) {1:NUMERICAL:=10:0}<BR/></p>]]></text>
   </questiontext>
   <defaultgrade>3</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
@@ -60,7 +60,7 @@
     <text>Arithmetik-Quiz (5, 3)</text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> 5 + 3 = {1:NUMERICAL:=8:0}<BR/> 5 - 3 = {1:NUMERICAL:=2:0}<BR/> 5 * 3 = {1:NUMERICAL:=15:0}<BR/></p>]]></text>
+    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> \(5 + 3 =\) {1:NUMERICAL:=8:0}<BR/> \(5 - 3 =\) {1:NUMERICAL:=2:0}<BR/> \(5 \cdot 3 =\) {1:NUMERICAL:=15:0}<BR/></p>]]></text>
   </questiontext>
   <defaultgrade>3</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
@@ -72,7 +72,7 @@
     <text>Arithmetik-Quiz (5, 4)</text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> 5 + 4 = {1:NUMERICAL:=9:0}<BR/> 5 - 4 = {1:NUMERICAL:=1:0}<BR/> 5 * 4 = {1:NUMERICAL:=20:0}<BR/></p>]]></text>
+    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> \(5 + 4 =\) {1:NUMERICAL:=9:0}<BR/> \(5 - 4 =\) {1:NUMERICAL:=1:0}<BR/> \(5 \cdot 4 =\) {1:NUMERICAL:=20:0}<BR/></p>]]></text>
   </questiontext>
   <defaultgrade>3</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
@@ -84,7 +84,7 @@
     <text>Arithmetik-Quiz (6, 2)</text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> 6 + 2 = {1:NUMERICAL:=8:0}<BR/> 6 - 2 = {1:NUMERICAL:=4:0}<BR/> 6 * 2 = {1:NUMERICAL:=12:0}<BR/> 6 : 2 = {1:NUMERICAL:=3:0}<BR/></p>]]></text>
+    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> \(6 + 2 =\) {1:NUMERICAL:=8:0}<BR/> \(6 - 2 =\) {1:NUMERICAL:=4:0}<BR/> \(6 \cdot 2 =\) {1:NUMERICAL:=12:0}<BR/> \(6 : 2 =\) {1:NUMERICAL:=3:0}<BR/></p>]]></text>
   </questiontext>
   <defaultgrade>4</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
@@ -96,7 +96,7 @@
     <text>Arithmetik-Quiz (6, 3)</text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> 6 + 3 = {1:NUMERICAL:=9:0}<BR/> 6 - 3 = {1:NUMERICAL:=3:0}<BR/> 6 * 3 = {1:NUMERICAL:=18:0}<BR/> 6 : 3 = {1:NUMERICAL:=2:0}<BR/></p>]]></text>
+    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> \(6 + 3 =\) {1:NUMERICAL:=9:0}<BR/> \(6 - 3 =\) {1:NUMERICAL:=3:0}<BR/> \(6 \cdot 3 =\) {1:NUMERICAL:=18:0}<BR/> \(6 : 3 =\) {1:NUMERICAL:=2:0}<BR/></p>]]></text>
   </questiontext>
   <defaultgrade>4</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
@@ -108,7 +108,7 @@
     <text>Arithmetik-Quiz (6, 4)</text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> 6 + 4 = {1:NUMERICAL:=10:0}<BR/> 6 - 4 = {1:NUMERICAL:=2:0}<BR/> 6 * 4 = {1:NUMERICAL:=24:0}<BR/></p>]]></text>
+    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> \(6 + 4 =\) {1:NUMERICAL:=10:0}<BR/> \(6 - 4 =\) {1:NUMERICAL:=2:0}<BR/> \(6 \cdot 4 =\) {1:NUMERICAL:=24:0}<BR/></p>]]></text>
   </questiontext>
   <defaultgrade>3</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
@@ -120,7 +120,7 @@
     <text>Arithmetik-Quiz (6, 5)</text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> 6 + 5 = {1:NUMERICAL:=11:0}<BR/> 6 - 5 = {1:NUMERICAL:=1:0}<BR/> 6 * 5 = {1:NUMERICAL:=30:0}<BR/></p>]]></text>
+    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> \(6 + 5 =\) {1:NUMERICAL:=11:0}<BR/> \(6 - 5 =\) {1:NUMERICAL:=1:0}<BR/> \(6 \cdot 5 =\) {1:NUMERICAL:=30:0}<BR/></p>]]></text>
   </questiontext>
   <defaultgrade>3</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
@@ -132,7 +132,7 @@
     <text>Arithmetik-Quiz (7, 2)</text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> 7 + 2 = {1:NUMERICAL:=9:0}<BR/> 7 - 2 = {1:NUMERICAL:=5:0}<BR/> 7 * 2 = {1:NUMERICAL:=14:0}<BR/></p>]]></text>
+    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> \(7 + 2 =\) {1:NUMERICAL:=9:0}<BR/> \(7 - 2 =\) {1:NUMERICAL:=5:0}<BR/> \(7 \cdot 2 =\) {1:NUMERICAL:=14:0}<BR/></p>]]></text>
   </questiontext>
   <defaultgrade>3</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
@@ -144,7 +144,7 @@
     <text>Arithmetik-Quiz (7, 3)</text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> 7 + 3 = {1:NUMERICAL:=10:0}<BR/> 7 - 3 = {1:NUMERICAL:=4:0}<BR/> 7 * 3 = {1:NUMERICAL:=21:0}<BR/></p>]]></text>
+    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> \(7 + 3 =\) {1:NUMERICAL:=10:0}<BR/> \(7 - 3 =\) {1:NUMERICAL:=4:0}<BR/> \(7 \cdot 3 =\) {1:NUMERICAL:=21:0}<BR/></p>]]></text>
   </questiontext>
   <defaultgrade>3</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
@@ -156,7 +156,7 @@
     <text>Arithmetik-Quiz (7, 4)</text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> 7 + 4 = {1:NUMERICAL:=11:0}<BR/> 7 - 4 = {1:NUMERICAL:=3:0}<BR/> 7 * 4 = {1:NUMERICAL:=28:0}<BR/></p>]]></text>
+    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> \(7 + 4 =\) {1:NUMERICAL:=11:0}<BR/> \(7 - 4 =\) {1:NUMERICAL:=3:0}<BR/> \(7 \cdot 4 =\) {1:NUMERICAL:=28:0}<BR/></p>]]></text>
   </questiontext>
   <defaultgrade>3</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
@@ -168,7 +168,7 @@
     <text>Arithmetik-Quiz (7, 5)</text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> 7 + 5 = {1:NUMERICAL:=12:0}<BR/> 7 - 5 = {1:NUMERICAL:=2:0}<BR/> 7 * 5 = {1:NUMERICAL:=35:0}<BR/></p>]]></text>
+    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> \(7 + 5 =\) {1:NUMERICAL:=12:0}<BR/> \(7 - 5 =\) {1:NUMERICAL:=2:0}<BR/> \(7 \cdot 5 =\) {1:NUMERICAL:=35:0}<BR/></p>]]></text>
   </questiontext>
   <defaultgrade>3</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
@@ -180,7 +180,7 @@
     <text>Arithmetik-Quiz (7, 6)</text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> 7 + 6 = {1:NUMERICAL:=13:0}<BR/> 7 - 6 = {1:NUMERICAL:=1:0}<BR/> 7 * 6 = {1:NUMERICAL:=42:0}<BR/></p>]]></text>
+    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> \(7 + 6 =\) {1:NUMERICAL:=13:0}<BR/> \(7 - 6 =\) {1:NUMERICAL:=1:0}<BR/> \(7 \cdot 6 =\) {1:NUMERICAL:=42:0}<BR/></p>]]></text>
   </questiontext>
   <defaultgrade>3</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
@@ -192,7 +192,7 @@
     <text>Arithmetik-Quiz (8, 2)</text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> 8 + 2 = {1:NUMERICAL:=10:0}<BR/> 8 - 2 = {1:NUMERICAL:=6:0}<BR/> 8 * 2 = {1:NUMERICAL:=16:0}<BR/> 8 : 2 = {1:NUMERICAL:=4:0}<BR/></p>]]></text>
+    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> \(8 + 2 =\) {1:NUMERICAL:=10:0}<BR/> \(8 - 2 =\) {1:NUMERICAL:=6:0}<BR/> \(8 \cdot 2 =\) {1:NUMERICAL:=16:0}<BR/> \(8 : 2 =\) {1:NUMERICAL:=4:0}<BR/></p>]]></text>
   </questiontext>
   <defaultgrade>4</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
@@ -204,7 +204,7 @@
     <text>Arithmetik-Quiz (8, 3)</text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> 8 + 3 = {1:NUMERICAL:=11:0}<BR/> 8 - 3 = {1:NUMERICAL:=5:0}<BR/> 8 * 3 = {1:NUMERICAL:=24:0}<BR/></p>]]></text>
+    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> \(8 + 3 =\) {1:NUMERICAL:=11:0}<BR/> \(8 - 3 =\) {1:NUMERICAL:=5:0}<BR/> \(8 \cdot 3 =\) {1:NUMERICAL:=24:0}<BR/></p>]]></text>
   </questiontext>
   <defaultgrade>3</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
@@ -216,7 +216,7 @@
     <text>Arithmetik-Quiz (8, 4)</text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> 8 + 4 = {1:NUMERICAL:=12:0}<BR/> 8 - 4 = {1:NUMERICAL:=4:0}<BR/> 8 * 4 = {1:NUMERICAL:=32:0}<BR/> 8 : 4 = {1:NUMERICAL:=2:0}<BR/></p>]]></text>
+    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> \(8 + 4 =\) {1:NUMERICAL:=12:0}<BR/> \(8 - 4 =\) {1:NUMERICAL:=4:0}<BR/> \(8 \cdot 4 =\) {1:NUMERICAL:=32:0}<BR/> \(8 : 4 =\) {1:NUMERICAL:=2:0}<BR/></p>]]></text>
   </questiontext>
   <defaultgrade>4</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
@@ -228,7 +228,7 @@
     <text>Arithmetik-Quiz (8, 5)</text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> 8 + 5 = {1:NUMERICAL:=13:0}<BR/> 8 - 5 = {1:NUMERICAL:=3:0}<BR/> 8 * 5 = {1:NUMERICAL:=40:0}<BR/></p>]]></text>
+    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> \(8 + 5 =\) {1:NUMERICAL:=13:0}<BR/> \(8 - 5 =\) {1:NUMERICAL:=3:0}<BR/> \(8 \cdot 5 =\) {1:NUMERICAL:=40:0}<BR/></p>]]></text>
   </questiontext>
   <defaultgrade>3</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
@@ -240,7 +240,7 @@
     <text>Arithmetik-Quiz (8, 6)</text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> 8 + 6 = {1:NUMERICAL:=14:0}<BR/> 8 - 6 = {1:NUMERICAL:=2:0}<BR/> 8 * 6 = {1:NUMERICAL:=48:0}<BR/></p>]]></text>
+    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> \(8 + 6 =\) {1:NUMERICAL:=14:0}<BR/> \(8 - 6 =\) {1:NUMERICAL:=2:0}<BR/> \(8 \cdot 6 =\) {1:NUMERICAL:=48:0}<BR/></p>]]></text>
   </questiontext>
   <defaultgrade>3</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
@@ -252,7 +252,7 @@
     <text>Arithmetik-Quiz (8, 7)</text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> 8 + 7 = {1:NUMERICAL:=15:0}<BR/> 8 - 7 = {1:NUMERICAL:=1:0}<BR/> 8 * 7 = {1:NUMERICAL:=56:0}<BR/></p>]]></text>
+    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> \(8 + 7 =\) {1:NUMERICAL:=15:0}<BR/> \(8 - 7 =\) {1:NUMERICAL:=1:0}<BR/> \(8 \cdot 7 =\) {1:NUMERICAL:=56:0}<BR/></p>]]></text>
   </questiontext>
   <defaultgrade>3</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
@@ -264,7 +264,7 @@
     <text>Arithmetik-Quiz (9, 2)</text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> 9 + 2 = {1:NUMERICAL:=11:0}<BR/> 9 - 2 = {1:NUMERICAL:=7:0}<BR/> 9 * 2 = {1:NUMERICAL:=18:0}<BR/></p>]]></text>
+    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> \(9 + 2 =\) {1:NUMERICAL:=11:0}<BR/> \(9 - 2 =\) {1:NUMERICAL:=7:0}<BR/> \(9 \cdot 2 =\) {1:NUMERICAL:=18:0}<BR/></p>]]></text>
   </questiontext>
   <defaultgrade>3</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
@@ -276,7 +276,7 @@
     <text>Arithmetik-Quiz (9, 3)</text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> 9 + 3 = {1:NUMERICAL:=12:0}<BR/> 9 - 3 = {1:NUMERICAL:=6:0}<BR/> 9 * 3 = {1:NUMERICAL:=27:0}<BR/> 9 : 3 = {1:NUMERICAL:=3:0}<BR/></p>]]></text>
+    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> \(9 + 3 =\) {1:NUMERICAL:=12:0}<BR/> \(9 - 3 =\) {1:NUMERICAL:=6:0}<BR/> \(9 \cdot 3 =\) {1:NUMERICAL:=27:0}<BR/> \(9 : 3 =\) {1:NUMERICAL:=3:0}<BR/></p>]]></text>
   </questiontext>
   <defaultgrade>4</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
@@ -288,7 +288,7 @@
     <text>Arithmetik-Quiz (9, 4)</text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> 9 + 4 = {1:NUMERICAL:=13:0}<BR/> 9 - 4 = {1:NUMERICAL:=5:0}<BR/> 9 * 4 = {1:NUMERICAL:=36:0}<BR/></p>]]></text>
+    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> \(9 + 4 =\) {1:NUMERICAL:=13:0}<BR/> \(9 - 4 =\) {1:NUMERICAL:=5:0}<BR/> \(9 \cdot 4 =\) {1:NUMERICAL:=36:0}<BR/></p>]]></text>
   </questiontext>
   <defaultgrade>3</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
@@ -300,7 +300,7 @@
     <text>Arithmetik-Quiz (9, 5)</text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> 9 + 5 = {1:NUMERICAL:=14:0}<BR/> 9 - 5 = {1:NUMERICAL:=4:0}<BR/> 9 * 5 = {1:NUMERICAL:=45:0}<BR/></p>]]></text>
+    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> \(9 + 5 =\) {1:NUMERICAL:=14:0}<BR/> \(9 - 5 =\) {1:NUMERICAL:=4:0}<BR/> \(9 \cdot 5 =\) {1:NUMERICAL:=45:0}<BR/></p>]]></text>
   </questiontext>
   <defaultgrade>3</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
@@ -312,7 +312,7 @@
     <text>Arithmetik-Quiz (9, 6)</text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> 9 + 6 = {1:NUMERICAL:=15:0}<BR/> 9 - 6 = {1:NUMERICAL:=3:0}<BR/> 9 * 6 = {1:NUMERICAL:=54:0}<BR/></p>]]></text>
+    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> \(9 + 6 =\) {1:NUMERICAL:=15:0}<BR/> \(9 - 6 =\) {1:NUMERICAL:=3:0}<BR/> \(9 \cdot 6 =\) {1:NUMERICAL:=54:0}<BR/></p>]]></text>
   </questiontext>
   <defaultgrade>3</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
@@ -324,7 +324,7 @@
     <text>Arithmetik-Quiz (9, 7)</text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> 9 + 7 = {1:NUMERICAL:=16:0}<BR/> 9 - 7 = {1:NUMERICAL:=2:0}<BR/> 9 * 7 = {1:NUMERICAL:=63:0}<BR/></p>]]></text>
+    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> \(9 + 7 =\) {1:NUMERICAL:=16:0}<BR/> \(9 - 7 =\) {1:NUMERICAL:=2:0}<BR/> \(9 \cdot 7 =\) {1:NUMERICAL:=63:0}<BR/></p>]]></text>
   </questiontext>
   <defaultgrade>3</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
@@ -336,7 +336,7 @@
     <text>Arithmetik-Quiz (9, 8)</text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> 9 + 8 = {1:NUMERICAL:=17:0}<BR/> 9 - 8 = {1:NUMERICAL:=1:0}<BR/> 9 * 8 = {1:NUMERICAL:=72:0}<BR/></p>]]></text>
+    <text><![CDATA[<p>L&ouml;se die folgenden Aufgaben!<BR/> \(9 + 8 =\) {1:NUMERICAL:=17:0}<BR/> \(9 - 8 =\) {1:NUMERICAL:=1:0}<BR/> \(9 \cdot 8 =\) {1:NUMERICAL:=72:0}<BR/></p>]]></text>
   </questiontext>
   <defaultgrade>3</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
