@@ -13,10 +13,10 @@ Prerequisites
 Basic Usage
 ===========
 
-1. Open and edit any of the example files in your favourite LaTeX-Editor.
+1. Open and edit any of the example .tex files in your favourite LaTeX-Editor.
 1. Compile the file with `pdflatex`.
-1. You will get both a PDF and a Moodle-XML file as a result.
-1. Import the Moodle-XML file to your question bank in moodle. If not chosen otherwise, all questions will be stored inside a category which is named according to the quiz title inside the TeX file.
+1. You will get an intermediate .py file, a .pdf file and a -moodle.xml file as a result.
+1. Import the -moodle.xml file file to your question bank within moodle. If not specified otherwise, all questions will be stored inside a category which is named according to the quiz title used in the respecitive .tex file.
 
 How does this work?
 ===================
