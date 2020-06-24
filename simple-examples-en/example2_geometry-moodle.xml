@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+ 
+<question type="category">
+  <category>
+    <text>$module$/Geometry Quiz</text>
+  </category>
+</question>
+ 
+<question type="essay">
+  <name>
+    <text>Quadliteral Definitions (Trapezoid)</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Give a definition of the following type of quadliteral: Trapezoid </p>]]></text>
+  </questiontext>
+  <defaultgrade>2</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <responserequired>0</responserequired>
+  <responseformat>editor</responseformat>
+  <responsefieldlines>15</responsefieldlines>
+  <attachments>0</attachments>
+  <attachmentsrequired>0</attachmentsrequired>
+  <graderinfo format="html"><text><![CDATA[
+    (at least) one pair of parallel sides
+  ]]></text></graderinfo>
+  <responsetemplate format="html"><text/></responsetemplate>
+</question>
+<question type="essay">
+  <name>
+    <text>Quadliteral Definitions (Parallelogram)</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Give a definition of the following type of quadliteral: Parallelogram </p>]]></text>
+  </questiontext>
+  <defaultgrade>2</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <responserequired>0</responserequired>
+  <responseformat>editor</responseformat>
+  <responsefieldlines>15</responsefieldlines>
+  <attachments>0</attachments>
+  <attachmentsrequired>0</attachmentsrequired>
+  <graderinfo format="html"><text><![CDATA[
+    opposite sides are parallel
+  ]]></text></graderinfo>
+  <responsetemplate format="html"><text/></responsetemplate>
+</question>
+<question type="essay">
+  <name>
+    <text>Quadliteral Definitions (Rectangle)</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Give a definition of the following type of quadliteral: Rectangle </p>]]></text>
+  </questiontext>
+  <defaultgrade>2</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <responserequired>0</responserequired>
+  <responseformat>editor</responseformat>
+  <responsefieldlines>15</responsefieldlines>
+  <attachments>0</attachments>
+  <attachmentsrequired>0</attachmentsrequired>
+  <graderinfo format="html"><text><![CDATA[
+    has three right angles
+  ]]></text></graderinfo>
+  <responsetemplate format="html"><text/></responsetemplate>
+</question>
+<question type="essay">
+  <name>
+    <text>Quadliteral Definitions (Rhombus)</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Give a definition of the following type of quadliteral: Rhombus </p>]]></text>
+  </questiontext>
+  <defaultgrade>2</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <responserequired>0</responserequired>
+  <responseformat>editor</responseformat>
+  <responsefieldlines>15</responsefieldlines>
+  <attachments>0</attachments>
+  <attachmentsrequired>0</attachmentsrequired>
+  <graderinfo format="html"><text><![CDATA[
+    four sides of equal length
+  ]]></text></graderinfo>
+  <responsetemplate format="html"><text/></responsetemplate>
+</question>
+<question type="essay">
+  <name>
+    <text>Quadliteral Definitions (Deltoid)</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Give a definition of the following type of quadliteral: Deltoid </p>]]></text>
+  </questiontext>
+  <defaultgrade>2</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <responserequired>0</responserequired>
+  <responseformat>editor</responseformat>
+  <responsefieldlines>15</responsefieldlines>
+  <attachments>0</attachments>
+  <attachmentsrequired>0</attachmentsrequired>
+  <graderinfo format="html"><text><![CDATA[
+    one diagonal is an axis of symmetry
+  ]]></text></graderinfo>
+  <responsetemplate format="html"><text/></responsetemplate>
+</question>
+<question type="essay">
+  <name>
+    <text>Quadliteral Definitions (Square)</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Give a definition of the following type of quadliteral: Square </p>]]></text>
+  </questiontext>
+  <defaultgrade>2</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <responserequired>0</responserequired>
+  <responseformat>editor</responseformat>
+  <responsefieldlines>15</responsefieldlines>
+  <attachments>0</attachments>
+  <attachmentsrequired>0</attachmentsrequired>
+  <graderinfo format="html"><text><![CDATA[
+    a rectangle, which is also a rhombus
+  ]]></text></graderinfo>
+  <responsetemplate format="html"><text/></responsetemplate>
+</question>
+ 
+</quiz>
