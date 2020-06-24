@@ -11,26 +11,26 @@ for x in range(2,10):
         points=4
       else:
         points=3  
-      print(r"\begin{cloze}[points=", points ,r"]{Arithmetik-Quiz ",(x,y),r"}")
-      print(r"L\"ose die folgenden Aufgaben!\\")
-      print(r"\begin{numerical}")
-      print(x," + ",y,"=")
-      print(r"\item ", x+y) 
-      print(r"\end{numerical}\\")
-      print(r"\begin{numerical}")
-      print(x," - ",y,"=")
-      print(r"\item ", x-y) 
-      print(r"\end{numerical}\\")
-      print(r"\begin{numerical}")
-      print(x,r"*",y,"=")
-      print(r"\item ", x*y) 
-      print(r"\end{numerical}\\")
+      print(rf"""\begin{{cloze}}[points={points}]{{Arithmetik-Quiz {(x,y)}}}
+      L\"ose die folgenden Aufgaben!\\
+      \begin{{numerical}}
+      ${x} + {y} =$
+      \item {x+y} 
+      \end{{numerical}}\\
+      \begin{{numerical}}
+      ${x} - {y} =$
+      \item {x-y} 
+      \end{{numerical}}\\
+      \begin{{numerical}}
+      ${x} \cdot {y} =$
+      \item {x*y} 
+      \end{{numerical}}\\""")
       if x/y == x//y:
-        print(r"\begin{numerical}")
-        print(x,r" : ",y,"=")
-        print(r"\item ", x//y) 
-        print(r"\end{numerical}\\")
-      print(r"\end{cloze} ")
+        print(rf"""\begin{{numerical}}
+        ${x} : {y} =$
+        \item {x//y} 
+        \end{{numerical}}\\""")
+      print(rf"\end{{cloze}}")
 \end{python}	
 \end{quiz}
 \end{document}
