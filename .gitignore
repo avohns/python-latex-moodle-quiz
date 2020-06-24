@@ -2,8 +2,10 @@
 *.log
 *.syntex.gz
 *.py.err
-*.py.out
+*.py.outRec
 *.py.rs
 *.rc
 *.bat
 simple-examples-de/python.sty
+simple-examples-en/python.sty
+
