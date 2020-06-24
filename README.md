@@ -4,7 +4,7 @@ These are some examples/templates for batch generating parameterized moodle quiz
 Prerequisites
 =============
 
-1. TeX installed and working
+1. LaTeX installed and working
 1. Python (>=3.6) installed and working
 1. LaTeX packages installed and working:
    1. `moodle` see https://ctan.org/pkg/moodle
