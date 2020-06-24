@@ -6,6 +6,7 @@
 *.py.rs
 *.rc
 *.bat
+dynamic-images-de/*.png
 simple-examples-de/python.sty
 simple-examples-en/python.sty
 
