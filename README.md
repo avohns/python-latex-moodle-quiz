@@ -1,5 +1,5 @@
 # python-latex-moodle-quiz
-This is just a bunch of examples/templates for batch generating moodle quiz questions using the 'moodle' and 'python' packages for LaTeX.
+This is just a bunch of examples/templates for batch generating moodle quiz questions using the `moodle` and `python` packages for LaTeX.
 
 Prerequisites
 =============
