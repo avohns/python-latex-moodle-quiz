@@ -7,5 +7,5 @@ Prerequisites
 1. TeX installed and working
 1. Python (>=3.6) installed and working
 1. LaTeX packages installed and working:
-   1. moodle see https://ctan.org/pkg/moodle
-   1. python see https://github.com/brotchie/python-sty
+   1. <mark>moodle</mark> see https://ctan.org/pkg/moodle
+   1. <mark>python</mark> see https://github.com/brotchie/python-sty
