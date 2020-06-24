@@ -1,2 +1,9 @@
-
-simple-examples-de/00_cleanup.bat
+*.aux
+*.log
+*.syntex.gz
+*.py.err
+*.py.out
+*.py.rs
+*.rc
+*.bat
+simple-examples-de/python.sty
