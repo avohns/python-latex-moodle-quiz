@@ -74,6 +74,12 @@ You should specify the image dimensions (width, height in either cm or inch) and
 
 In my experience, it is advisable to strictly stick to png files, as the conversion via ImageMagick implemented by the `moodle` package is a bit prone to errors.
 
+Encoding/Umlauts
+----------------
+
+The `moodle` package does not play nicely with utf8 text encoding, when e.g. writing examples in German, you will need to write umlauts (Ä, Ö, Ü, ä, ö, ü, ß) in code (`\"A, \"O, \"U, \"a, \"o, \"u und \ss{}`).
+
+
 Shuffling answers in embedded questions
 ---------------------------------------
 
@@ -93,8 +99,4 @@ As the `moodle` package only uses standard moodle question types, the generated 
 
 These question types come with their own set of limitations. For STEM subjects you might want to check answers for algebraic equivalence, which is simply not possible with these question types. You might want to check out the STACK ( https://moodle.org/plugins/qtype_stack ) or WIRIS ( https://moodle.org/plugins/view.php?id=26 ) plugins for such purposes.
 
-Encoding/Umlauts
-----------------
-
-The `moodle` package does not play nicely with utf8 text encoding, when e.g. writing examples in German, you will need to write Umlauts (Ä, Ö, Ü, ä, ö, ü, ß) in code (`\"A, \"O, \"U, \"a, \"o, \"u und \ss{}`).
 
