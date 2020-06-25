@@ -11,8 +11,8 @@ Prerequisites
    1. `python` see https://github.com/brotchie/python-sty
 1. If you want to include any kind of images (static, dynamic), ImageMagick ( https://imagemagick.org/index.php ) has to be installed and working.
    
-Basic Usage
-===========
+Usage/Workflow
+==============
 
 1. Familiarize yourself with the documentation of the `moodle` package, which can be found here: http://mirrors.ctan.org/macros/latex/contrib/moodle/moodle.pdf
 1. Open and edit any of the example .tex files in your favourite LaTeX-Editor.
