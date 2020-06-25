@@ -31,21 +31,28 @@ The basic structure of any of the examples looks like this:
 ```latex 
 \usepackage[T1]{fontenc}
 \usepackage{moodle}
-\usepackage{python}```
+\usepackage{python}
+```
 1. Inside the body you have a `quiz` environment (see example below), which is interpreted according to rules defined by the `moodle` package, which interprets and compiles the code into both the usual .pdf-file and an additional -moodle.xml file once `pdflatex` is invoked.
-<code><pre>\begin{quiz}{quiz title}
-...
-\end{quiz}</code></pre>
+```latex
+\begin{quiz}{quiz title}
+  ...
+\end{quiz}
+```
 1. The quiz environment contains a `python` environment that contains at least one main `for` loop (see example below). As soon as `pdflatex` is invoked, it in turn invokes Python, which then iterates through the `for` loop several times and dynamically adds a piece of LaTeX code in each of these iterations, which in turn is again interpreted by `pdflatex` and compiled into moodle-xml-code.
-<code><pre>\begin{python}
+```latex
+\begin{python}
 for x in range(2,10):
   ...
-\end{python}</code></pre>
+\end{python}
+```
 1. The `python` envoirnment contains at least one type of questions envoirnment (multiple-choice, numerical (see example below), short answer, essay, matching, cloze, see section 3 of the `moodle` package documentation for details). 
-<code><pre>print(rf"""\begin{{numerical}}
+```python
+print(rf"""\begin{{numerical}}
   ${x} + {y} =$
   \item {x+y} 
-\end{{numerical}}""")</code></pre>
+\end{{numerical}}""")
+```
 1. Each question cointains some variables (e.g. `x`and `y`in the example above) which are dynamically changed with each iteration of the `for` loop creating a different question with each iteration.
 
 Limitations
