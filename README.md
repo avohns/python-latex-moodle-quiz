@@ -84,6 +84,7 @@ Shuffling answers in embedded questions
 ---------------------------------------
 
 The `moodle` package was written before shuffling answers was introduced for subquestions inside embedded questions in moodle (>= 3.0). 
+
 If you want to use shuffled answers for subquestions inside embedded questions, you have to include another `python` environment below the `quiz` environment inside the TeX document's body to change the questions type directly within the -moodle.xml file (please refer to https://docs.moodle.org/39/en/Embedded_Answers_(Cloze)_question_type#Shuffle_sub_questions for more details on the different types of subquestions). 
 
 Let us suppose our xml file is e.g. `example-moodle.xml`and we have a `MULICHOICE` question, we then need to change each occurence of `MULICHOICE` to `MULTICHOICE_S`, which can be achieved with the following bit of code:
