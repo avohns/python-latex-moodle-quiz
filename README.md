@@ -46,7 +46,7 @@ The basic structure of any of the examples looks like this:
       ...
     \end{python}
     ```
-1. The `python` envoirnment contains at least one type of questions envoirnment (multiple-choice, numerical (see example below), short answer, essay, matching, cloze, see section 3 of the `moodle` package documentation for details). 
+1. The `python` envoirnment contains at least one type of questions envoirnment (multiple-choice, numerical (see example below), short answer, essay, matching, embedded answers (cloze), see section 3 of the `moodle` package documentation for details). 
     ```python
     print(rf"""\begin{{numerical}}
       ${x} + {y} =$
@@ -73,6 +73,17 @@ It is both possible to include static images and to create images dynamically us
 You should specify the image dimensions (width, height in either cm or inch) and the conversion depends on a dpi setting (if not defined specifically, 103 dpi will be used as a default). Please refer to section 5 of the `moodle` package documentation for more details. 
 
 In my experience, it is advisable to strictly stick to png files, as the conversion via ImageMagick implemented by the `moodle` package is a bit prone to errors.
+
+Shuffling answers in embedded question
+--------------------------------------
+
+The `moodle` package was written before shuffling answers was introduced for embedded questions in moodle (>= 3.0). If you want to use shuffled answers in embedded questions, you have to include another `python` environment (below the `quiz` environment inside the TeX document's body) to change the questions type directly within the -moodle.xml file (see https://docs.moodle.org/39/en/Embedded_Answers_(Cloze)_question_type#Shuffle_sub_questions for more details). Suppose our xml file is `example-moodle.xml`and we have a `MULICHOICE` question we need to change each occurence to `MULTICHOICE_S` which can be done with the following bit of code:
+    ```python
+    with open("example-moodle.xml", "rt") as fin:
+    with open("example-shuffled-moodle.xml", "wt") as fout:
+        for line in fin:
+            fout.write(line.replace('MULTICHOICE:', 'MULTICHOICE_S:'))
+    ```
 
 Encoding/Umlauts
 ----------------

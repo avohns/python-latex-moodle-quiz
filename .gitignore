@@ -5,6 +5,8 @@
 *.py.outRec
 *.py.rs
 *.rc
+*.enc
+*.gz
 *.bat
 dynamic-images-de/*.png
 simple-examples-de/python.sty

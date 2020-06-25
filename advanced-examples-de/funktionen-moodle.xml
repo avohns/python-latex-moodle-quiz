@@ -14,8 +14,8 @@
   <questiontext format="html">
     <text><![CDATA[<p><B>Aufgabe: Eigenschaften von Funktion</B> <BR/> <BR/>Gegeben ist folgende Zuordnung: \(f:A \to B\) mit \(x\mapsto x^3+x^2+1\) f&uuml;r alle \(x\in A\).<BR/> Im Bereich \(-12\leq x\leq 12\) schaut ihr Graph wie folgt aus:<BR/> <IMG width=590 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAk4AAAGUCAYAAADDFK0hAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAABcRAAAXEQHKJvM/AAAAB3RJTUUH5AYY 
-EDsMcs55hwAAgABJREFUeNrsnXd4XEWy9n89I41kWZZzzjkbG7DJweSMybDL5pzv 
+BmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAABcRAAAXEQHKJvM/AAAAB3RJTUUH5AYZ 
+CQwr7IiTQgAAgABJREFUeNrsnXd4XEWy9n89I41kWZZzzjkbG7DJweSMybDL5pzv 
 BuIGL5sDm/O9G1hggSXaYHLOmGgMtgHnnJNsZc3090fVQcfCQWcUztSneZ9Hjy2p 
 daZOd3V3dVV1vZBHHnnkkUceeeSRRx555JFHHnnkkUceeeSRRx555JFHHnnkkUce 
 eeSRRx555JFHHnnkkUceeeSRRx555JFHHnnkkUceeeSRRx555JFHHnnkkUceeeSR 
@@ -1124,9 +1124,9 @@ PNF9E65GUCU4ym/uh6I7bG/TkRDssSCsG+ToRQ1B5eWgb2ZU4RBdvXUkBKFcC3ss
 qPtnRYcFNZKiKr8pKnUJg/PLo6J7o0Z3/8r8eSo6wtq+ixEjRowYMWLEiBEjRowY 
 MWLEiBEjRowYMWLEiBEjRowYMWLEiBEjRowYMWLEiBEjRowYMWLEiBEjRowYMWLE 
 iBEjRowYMWLEiBEjRowYMWLEiBEjRowYMWLEiBEjRowYMWLEiBEjBgD/HySO8/dW 
-YTr/AAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTA1LTEyVDAzOjMxOjAzKzAwOjAw 
-yBJ+BAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wNi0yNFQxNjo1OTowNiswMDow 
-MDNohQQAAAA5dEVYdFNvZnR3YXJlAG1hdHBsb3RsaWIgdmVyc2lvbiAzLjAuMywg 
+YTr/AAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTA2LTI1VDA5OjEyOjE2KzAwOjAw 
+0rEQgQAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wNi0yNVQwOToxMjozOSswMDow 
+MBeB36kAAAA5dEVYdFNvZnR3YXJlAG1hdHBsb3RsaWIgdmVyc2lvbiAzLjAuMywg 
 aHR0cDovL21hdHBsb3RsaWIub3JnL50Lq6MAAAAASUVORK5CYII= 
 "> <BR/> Entscheiden Sie anhand des Graphen, welche Eigenschaften die Zuordnung in Abh&auml;ngigkeit von der Definitionsmenge \(A\) und der Zielmenge \(B\) jeweils hat.<BR/> <BR/> (a) Die Zuordnung ist f&uuml;r \(A=\mathbb {R},B=\mathbb {R}\) {1:MULTICHOICE:keine~eine~eine injektive~eine surjektive~=eine bijektive} Funktion.<BR/> (b) Die Zuordnung ist f&uuml;r \(A=\mathbb {Z},B=\mathbb {R}\) {1:MULTICHOICE:keine~eine~=eine injektive~eine surjektive~eine bijektive} Funktion.<BR/> <BR/> (c) Die Zuordnung ist f&uuml;r \(A=\mathbb {R},B=\mathbb {Z}\) {1:MULTICHOICE:=keine~eine~eine injektive~eine surjektive~eine bijektive} Funktion.<BR/> <BR/> <EM>Bitte notieren Sie Ihre Argumentation zu den Teilaufgaben. Sie sollen diese im Anschluss eingeben oder als Scan/Datei hochladen und im Pr&uuml;fungsgespr&auml;ch erl&auml;utern.</EM> <BR/></p>]]></text>
   </questiontext>
@@ -1142,8 +1142,8 @@ aHR0cDovL21hdHBsb3RsaWIub3JnL50Lq6MAAAAASUVORK5CYII=
   <questiontext format="html">
     <text><![CDATA[<p><B>Aufgabe: Eigenschaften von Funktion</B> <BR/> <BR/>Gegeben ist folgende Zuordnung: \(f:A \to B\) mit \(x\mapsto \sqrt {|x|}\) f&uuml;r alle \(x\in A\).<BR/> Im Bereich \(-12\leq x\leq 12\) schaut ihr Graph wie folgt aus:<BR/> <IMG width=590 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAk4AAAGUCAYAAADDFK0hAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAABcRAAAXEQHKJvM/AAAAB3RJTUUH5AYY 
-EDsX+KuwawAAgABJREFUeNrsnXd4XOWx/z9nV829d+MCxmDABtN7r8GAaYEAAUJ6 
+BmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAABcRAAAXEQHKJvM/AAAAB3RJTUUH5AYZ 
+CQwwZu1argAAgABJREFUeNrsnXd4XOWx/z9nV829d+MCxmDABtN7r8GAaYEAAUJ6 
 QhJSSbmEm0YCyU1y0zsJJRASwIAJoSW0AKEaG4MBG/feZEu22u6e3x/fOehYyJJ2 
 Je3Z+V19n8ePwXp1dvadeWfmvNOgBz3oQQ960IMe9KAHPehBD3rQgx70oAc96EEP 
 etCDHvSgBz3oQQ960IMe9KAHPehBD3rQgx70oAc96EEPetCDHvSgBz3oQQ960IMe 
@@ -2262,9 +2262,9 @@ LVwQ9YLA0RsttI+YKnqPtCLv6CyRbmHSH1En4LSvb39EvGxhraM+LFFofdA3sARg
 5bxFiKoW0yzb3gnRJdsCH0N5woMV/oDy+etKOc1H0oFRr680Gnz9Jzp0U9YpUT+q 
 tK97hgwZMmTIkCFDhgwZMmTIkCFDhgwZMmTIkCFDhgwZMmTIkCFDhgwZMmTIkCFD 
 hgwZMmTIkCFDhgwZMmTIkCFDhgwZMmTIkCFDhgwZMmTIkCFDhgwZMmTIkCFDhgwZ 
-MmTIkCFDhgwZ3ob/ByZmxaaRgkDwAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTA1 
-LTEyVDAzOjMxOjA0KzAwOjAwDbVAigAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0w 
-Ni0yNFQxNjo1OTowNiswMDowMDNohQQAAAA5dEVYdFNvZnR3YXJlAG1hdHBsb3Rs 
+MmTIkCFDhgwZ3ob/ByZmxaaRgkDwAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTA2 
+LTI1VDA5OjEyOjE3KzAwOjAwdMYbNQAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0w 
+Ni0yNVQwOToxMjo0MCswMDowMIjck2MAAAA5dEVYdFNvZnR3YXJlAG1hdHBsb3Rs 
 aWIgdmVyc2lvbiAzLjAuMywgaHR0cDovL21hdHBsb3RsaWIub3JnL50Lq6MAAAAA 
 SUVORK5CYII= 
 "> <BR/> Entscheiden Sie anhand des Graphen, welche Eigenschaften die Zuordnung in Abh&auml;ngigkeit von der Definitionsmenge \(A\) und der Zielmenge \(B\) jeweils hat.<BR/> <BR/> (a) Die Zuordnung ist f&uuml;r \(A=\mathbb {R},B=\mathbb {R}^+_0\) {1:MULTICHOICE:keine~eine~eine injektive~=eine surjektive~eine bijektive} Funktion.<BR/> (b) Die Zuordnung ist f&uuml;r \(A=\mathbb {Z},B=\mathbb {R}^+\) {1:MULTICHOICE:=keine~eine~eine injektive~eine surjektive~eine bijektive} Funktion.<BR/> <BR/> (c) Die Zuordnung ist f&uuml;r \(A=\mathbb {R}^+,B=\mathbb {R}^+\) {1:MULTICHOICE:keine~eine~eine injektive~eine surjektive~=eine bijektive} Funktion.<BR/> <BR/> <EM>Bitte notieren Sie Ihre Argumentation zu den Teilaufgaben. Sie sollen diese im Anschluss eingeben oder als Scan/Datei hochladen und im Pr&uuml;fungsgespr&auml;ch erl&auml;utern.</EM> <BR/></p>]]></text>
@@ -2281,8 +2281,8 @@ SUVORK5CYII=
   <questiontext format="html">
     <text><![CDATA[<p><B>Aufgabe: Eigenschaften von Funktion</B> <BR/> <BR/>Gegeben ist folgende Zuordnung: \(f:A \to B\) mit \(x\mapsto \frac {x}{|x|}\cdot \sqrt {|x|}\) f&uuml;r alle \(x\in A\).<BR/> Im Bereich \(-12\leq x\leq 12\) schaut ihr Graph wie folgt aus:<BR/> <IMG width=590 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAk4AAAGUCAYAAADDFK0hAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAABcRAAAXEQHKJvM/AAAAB3RJTUUH5AYY 
-EDsgQBYVZAAAgABJREFUeNrsvXeYXNWV7v07VZ2Vc0IoIEQGCYSQEAIEKIFAAkw0 
+BmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAABcRAAAXEQHKJvM/AAAAB3RJTUUH5AYZ 
+CQw1FoeuIQAAgABJREFUeNrsvXeYXNWV7v07VZ2Vc0IoIEQGCYSQEAIEKIFAAkw0 
 yXGc7RkPxtljj2dsHMbjO5654wQmg0kCRDTJBElIgBBRCJRzzupYdb4/1jrWod0K 
 Vd2qU+93630e2ah7q86qvfZee529wgsllFBCCSWUUEIJJZRQQgkllFBCCSWUUEIJ 
 JZRQQgkllFBCCSWUUEIJJZRQQgkllFBCCSWUUEIJJZRQQgkllFBCCSWUUEIJJZRQ 
@@ -3320,8 +3320,8 @@ c2kLZUiGA53bRLw387bod1FnNNG1txaHgmD/C0JA4oqgHhJGZ7BPB1Xx47gmg7kN
 0ES+unxQjyru854gQYIECRIkSJAgQYIECRIkSJAgQYIECRIkSJAgQYIECRIkSJAg 
 QYIECRIkSJAgQYIECRIkSJAgQYIECRIkSJAgQYIECRIkSJAgQYIECRIkSJAgQYIE 
 CRIkSJAgQYIECRIkSJAgQYL98H/8/sbyx4DEGgAAACV0RVh0ZGF0ZTpjcmVhdGUA 
-MjAyMC0wNS0xMlQwMzo1MTozNCswMDowMGuPjSoAAAAldEVYdGRhdGU6bW9kaWZ5 
-ADIwMjAtMDYtMjRUMTY6NTk6MDYrMDA6MDAzaIUEAAAAOXRFWHRTb2Z0d2FyZQBt 
+MjAyMC0wNi0yNVQwOToxMjoxNyswMDowMHTGGzUAAAAldEVYdGRhdGU6bW9kaWZ5 
+ADIwMjAtMDYtMjVUMDk6MTI6NDArMDA6MDCI3JNjAAAAOXRFWHRTb2Z0d2FyZQBt 
 YXRwbG90bGliIHZlcnNpb24gMy4wLjMsIGh0dHA6Ly9tYXRwbG90bGliLm9yZy+d 
 C6ujAAAAAElFTkSuQmCC 
 "> <BR/> Entscheiden Sie anhand des Graphen, welche Eigenschaften die Zuordnung in Abh&auml;ngigkeit von der Definitionsmenge \(A\) und der Zielmenge \(B\) jeweils hat.<BR/> <BR/> (a) Die Zuordnung ist f&uuml;r \(A=\mathbb {R}\setminus \left \{0\right \},B=\mathbb {R}\setminus \left \{0\right \}\) {1:MULTICHOICE:keine~eine~eine injektive~eine surjektive~=eine bijektive} Funktion.<BR/> (b) Die Zuordnung ist f&uuml;r \(A=\mathbb {Z}\setminus \left \{0\right \},B=\mathbb {R}\setminus \left \{0\right \}\) {1:MULTICHOICE:keine~eine~=eine injektive~eine surjektive~eine bijektive} Funktion.<BR/> <BR/> (c) Die Zuordnung ist f&uuml;r \(A=\mathbb {N},B=\mathbb {R}\setminus \left \{0\right \}\) {1:MULTICHOICE:keine~eine~=eine injektive~eine surjektive~eine bijektive} Funktion.<BR/> <BR/> <EM>Bitte notieren Sie Ihre Argumentation zu den Teilaufgaben. Sie sollen diese im Anschluss eingeben oder als Scan/Datei hochladen und im Pr&uuml;fungsgespr&auml;ch erl&auml;utern.</EM> <BR/></p>]]></text>
@@ -3338,8 +3338,8 @@ C6ujAAAAAElFTkSuQmCC
   <questiontext format="html">
     <text><![CDATA[<p><B>Aufgabe: Eigenschaften von Funktion</B> <BR/> <BR/>Gegeben ist folgende Zuordnung: \(f:A \to B\) mit \(x\mapsto f(x)=\lfloor x\rfloor \), d.h. der gr&ouml;&szlig;ten ganzen Zahl \(\leq x\) f&uuml;r alle \(x\in A\).<BR/> Im Bereich \(-12\leq x\leq 12\) schaut ihr Graph wie folgt aus:<BR/> <IMG width=590 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAk4AAAGUCAYAAADDFK0hAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAABcRAAAXEQHKJvM/AAAAB3RJTUUH5AYY 
-EDsr18TM7AAAgABJREFUeNrsnXd4XNdx9n9nF1gAJNHYOyWxiRIlUd3qxeqVsiRb 
+BmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAABcRAAAXEQHKJvM/AAAAB3RJTUUH5AYZ 
+CQw6hjizsAAAgABJREFUeNrsnXd4XNdx9n9nF1gAJNHYOyWxiRIlUd3qxeqVsiRb 
 vVmRv8Rx4tiJ5CSOaLollp3YiZ3iot6tQqr33kVJ7KIaey8gGsHFtnu+P+ZcYQWz 
 4C52ce/AeJ8HD0ng8GL2nDlz5s7MmRf60Ic+9KEPfehDH/rQhz70oQ996EMf+tCH 
 PvShD33oQx/60Ic+9KEPfehDH/rQhz70oQ996EMf+tCHPvShD33oQx/60Ic+9KEP 
@@ -4320,8 +4320,8 @@ u+46SMa3GfcDKBOS2lktuLmxHEo3uDN/D6Uzmb8BMqBcjreoQPPAdaMfOurfBPGn
 BXcOmM7IxR9LeiuwtU8kVfBdbgcS0rHmkjOunY59owX3zpIDK7K30NFBI6kBZ+kM 
 9Hg8Ho/H4/F4PB6Px+PxeDwej8fj8Xg8Ho/H4/F4PB6Px+PxeDwej8fj8Xg8Ho/H 
 4/F4PB6Px+PxeDwej8fj8Xg8Ho/H4/F4PB6Px+PxeDz8HxsfaZwDT706AAAAJXRF 
-WHRkYXRlOmNyZWF0ZQAyMDIwLTA1LTEyVDA0OjA1OjA2KzAwOjAwd1CRgAAAACV0 
-RVh0ZGF0ZTptb2RpZnkAMjAyMC0wNi0yNFQxNjo1OTowNyswMDowMJUfjrAAAAA5 
+WHRkYXRlOmNyZWF0ZQAyMDIwLTA2LTI1VDA5OjEyOjE3KzAwOjAwdMYbNQAAACV0 
+RVh0ZGF0ZTptb2RpZnkAMjAyMC0wNi0yNVQwOToxMjo0MCswMDowMIjck2MAAAA5 
 dEVYdFNvZnR3YXJlAG1hdHBsb3RsaWIgdmVyc2lvbiAzLjAuMywgaHR0cDovL21h 
 dHBsb3RsaWIub3JnL50Lq6MAAAAASUVORK5CYII= 
 "> <BR/> Entscheiden Sie anhand des Graphen, welche Eigenschaften die Zuordnung in Abh&auml;ngigkeit von der Definitionsmenge \(A\) und der Zielmenge \(B\) jeweils hat.<BR/> <BR/> (a) Die Zuordnung ist f&uuml;r \(A=\mathbb {R},B=\mathbb {R}\) {1:MULTICHOICE:keine~=eine~eine injektive~eine surjektive~eine bijektive} Funktion.<BR/> (b) Die Zuordnung ist f&uuml;r \(A=\mathbb {R},B=\mathbb {Z}\) {1:MULTICHOICE:keine~eine~eine injektive~=eine surjektive~eine bijektive} Funktion.<BR/> <BR/> (c) Die Zuordnung ist f&uuml;r \(A=\mathbb {N},B=\mathbb {Z}\) {1:MULTICHOICE:keine~eine~=eine injektive~eine surjektive~eine bijektive} Funktion.<BR/> <BR/> <EM>Bitte notieren Sie Ihre Argumentation zu den Teilaufgaben. Sie sollen diese im Anschluss eingeben oder als Scan/Datei hochladen und im Pr&uuml;fungsgespr&auml;ch erl&auml;utern.</EM> <BR/></p>]]></text>

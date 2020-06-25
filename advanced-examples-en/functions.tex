@@ -76,7 +76,7 @@ for x in a:
 with open("functions-moodle.xml", "rt") as fin:
     with open("funktions-shuffled-moodle.xml", "wt") as fout:
         for line in fin:
-            fout.write(line.replace('{multi}CHOICE:', '{multi}CHOICE_S:'))
+            fout.write(line.replace('MULTICHOICE:', 'MULTICHOICE_S:'))
 \end{python}
 
 \end{document}

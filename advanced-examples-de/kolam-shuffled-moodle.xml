@@ -12,9 +12,9 @@
     <text>Ethnomathematik: Kolam (Version 1)</text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p><B>Ethnomathematik: Kolam</B><BR/> Ein Kolam ist eine in einem einzigen Linienzug durchf&uuml;hrbare, regelgeleitet erstellte Kreidezeichnung, wie sie sich noch heute bei den s&uuml;dindischen Tamilen als ethnomathematische Praxis auffinden l&auml;sst. <BR/> Unten sind mehrere solche Kolam mit 8 Armen zu je 5 Punkten in vereinfachter Form abgebildet.<BR/> <BR/> <ol type=a><li>Wenn man mit dem Z&auml;hlen der Punkte beim innersten Punkt des nach oben zeigenden Arms beginnt, welches Bild steht dann f&uuml;r die links herum abgelaufene Punktfolge \(&lt;1, 4, 2, 5, 3&gt;\)? <BR/> {2:MULTICHOICE_H:<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
+    <text><![CDATA[<p><B>Ethnomathematik: Kolam</B><BR/> Ein Kolam ist eine in einem einzigen Linienzug durchf&uuml;hrbare, regelgeleitet erstellte Kreidezeichnung, wie sie sich noch heute bei den s&uuml;dindischen Tamilen als ethnomathematische Praxis auffinden l&auml;sst. <BR/> Unten sind mehrere solche Kolam mit 8 Armen zu je 5 Punkten in vereinfachter Form abgebildet.<BR/> <BR/> <ol type=a><li>Wenn man mit dem Z&auml;hlen der Punkte beim innersten Punkt des nach oben zeigenden Arms beginnt, welches Bild steht dann f&uuml;r die links herum abgelaufene Punktfolge \(&lt;1, 4, 2, 5, 3&gt;\)? <BR/> {2:MULTICHOICE_HS:<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYYERsho1drZwAAABBjYU52AAAA7gAA 
+BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYZCRMLGry9FAAAABBjYU52AAAA7gAA 
 AO4AAAAQAAAAEIjqCcoAAIAASURBVHja7H13dBXV9v9nZm7vLb2SQEJIgUBIaKGj 
 gAjYFREVsff61OezN+y9ixUUsACC0juEUNN7Lzfl9t5m5vz+AN5Xn0BuLA94Pz5r 
 3cVaZM6ePefMZ845e++zN3AO53AO53AO53AO53AO53AO53AO53AO53AO53AO53AO 
@@ -817,7 +817,7 @@ WHRkYXRlOm1vZGlmeQAyMDIwLTA1LTE2VDA5OjM0OjMxKzAwOjAwqBgxlwAAAABJ
 RU5ErkJggg== 
 ">~=<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYYERslpDqvfgAAABBjYU52AAAA7gAA 
+BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYZCRMOatZJmwAAABBjYU52AAAA7gAA 
 AO4AAAAQAAAAEIjqCcoAAIAASURBVHja7J1lYJTH1sfPs+4uWYm7EYK7u5ZCKZQK 
 LXV3d7dbb6GOFHd3C4QkxIh71t3dd94PlLYUS+/bltKb39cdOTM7/2fszAxAL730 
 0ksvvfTSSy+99NJLL7300ksvvfTSSy+99NJLL7300ksvvfTSSy+99NJLL7300ksv 
@@ -1699,7 +1699,7 @@ OjI4OjM0KzAwOjAwUM+ZwgAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wNS0xNlQw
 OTozNDozMiswMDowMJnwKwoAAAAASUVORK5CYII= 
 ">~<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYYERsprYzjVQAAABBjYU52AAAA7gAA 
+BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYZCRMR595EbgAAABBjYU52AAAA7gAA 
 AO4AAAAQAAAAEIjqCcoAAIAASURBVHja7J11dBXX9sf3zFx3i7snJECCu7trgdLS 
 UqjLq3tfva/uFGmhSAtFWtwJFiRAiLv7dZe5c0fO7w9KXwUJfbRAf/msdddikXNm 
 9pk53zm2zz4AnXTSSSeddNJJJ5100kknnXTSSSeddNJJJ5100kknnXTSSSeddNJJ 
@@ -2501,7 +2501,7 @@ VDA5OjI4OjI2KzAwOjAwC/qIdQAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wNS0x
 NlQwOTozNDozMSswMDowMKgYMZcAAAAASUVORK5CYII= 
 ">~<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYYERstquEnTAAAABBjYU52AAAA7gAA 
+BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYZCRMTCdAlQgAAABBjYU52AAAA7gAA 
 AO4AAAAQAAAAEIjqCcoAAIAASURBVHja7J11dFRH+8efK+vucTdIiEHQ4O4t1tJS 
 p+7u7u6FUqelWFvcCRZISIgQd93sbtbd7u698/uj8P7aty2FGtA3n3P2HA65M/PM 
 3Pne8WcABhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYY 
@@ -3296,7 +3296,7 @@ CAQCgUAgEAgEAoFAIBAIBAKBQCAQCAQCgUAgEAgEAoFAIBAIBIIf83/RlBrGJnWS
 RgAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wNS0xNlQwOToyODozMyswMDowMJVo 
 p0wAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDUtMTZUMDk6MzQ6MzIrMDA6MDCZ 
 8CsKAAAAAElFTkSuQmCC 
-">}</li> <BR/> <li> Ein Kolam kann genau dann in einem Zug gezeichnet werden, wenn f&uuml;r die Anzahl der Arme und die Anzahl der Punkte auf einem Arm gilt: {2:MULTICHOICE:=Die beiden Anzahlen sind teilerfremd.~Es gibt mehr Arme als Punkte je Arm.~Die Differenz der Armanzahl und der Punktanzahl ist ungerade.~Die Armanzahl ist gerade, die Punktanzahl ungerade.} </li></ol></p>]]></text>
+">}</li> <BR/> <li> Ein Kolam kann genau dann in einem Zug gezeichnet werden, wenn f&uuml;r die Anzahl der Arme und die Anzahl der Punkte auf einem Arm gilt: {2:MULTICHOICE_VS:=Die beiden Anzahlen sind teilerfremd.~Es gibt mehr Arme als Punkte je Arm.~Die Differenz der Armanzahl und der Punktanzahl ist ungerade.~Die Armanzahl ist gerade, die Punktanzahl ungerade.} </li></ol></p>]]></text>
   </questiontext>
   <defaultgrade>4</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
@@ -3308,9 +3308,9 @@ p0wAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDUtMTZUMDk6MzQ6MzIrMDA6MDCZ
     <text>Ethnomathematik: Kolam (Version 2)</text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p><B>Ethnomathematik: Kolam</B><BR/> Ein Kolam ist eine in einem einzigen Linienzug durchf&uuml;hrbare, regelgeleitet erstellte Kreidezeichnung, wie sie sich noch heute bei den s&uuml;dindischen Tamilen als ethnomathematische Praxis auffinden l&auml;sst. <BR/> Unten sind mehrere solche Kolam mit 8 Armen zu je 5 Punkten in vereinfachter Form abgebildet.<BR/> <BR/> <ol type=a><li>Wenn man mit dem Z&auml;hlen der Punkte beim innersten Punkt des nach oben zeigenden Arms beginnt, welches Bild steht dann f&uuml;r die links herum abgelaufene Punktfolge \(&lt;2, 4, 1, 5, 3&gt;\)? <BR/> {2:MULTICHOICE_H:<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
+    <text><![CDATA[<p><B>Ethnomathematik: Kolam</B><BR/> Ein Kolam ist eine in einem einzigen Linienzug durchf&uuml;hrbare, regelgeleitet erstellte Kreidezeichnung, wie sie sich noch heute bei den s&uuml;dindischen Tamilen als ethnomathematische Praxis auffinden l&auml;sst. <BR/> Unten sind mehrere solche Kolam mit 8 Armen zu je 5 Punkten in vereinfachter Form abgebildet.<BR/> <BR/> <ol type=a><li>Wenn man mit dem Z&auml;hlen der Punkte beim innersten Punkt des nach oben zeigenden Arms beginnt, welches Bild steht dann f&uuml;r die links herum abgelaufene Punktfolge \(&lt;2, 4, 1, 5, 3&gt;\)? <BR/> {2:MULTICHOICE_HS:<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYYERs1uY2/GgAAABBjYU52AAAA7gAA 
+BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYZCRMYngL8ygAAABBjYU52AAAA7gAA 
 AO4AAAAQAAAAEIjqCcoAAIAASURBVHja7J11dFRX/sC/b9x9MnF3D4RgSSC4SwUq 
 UAXq7t1tu+12dytbd6yllNJCcXcJJJAQ4u4Z95k3b3zm3d8fhV12CyShUGB/+ZzD 
 4Rx4977vvfd959pXAIYYYoghhhhiiCGGGGKIIYYYYoghhhhiiCGGGGKIIYYYYogh 
@@ -4113,7 +4113,7 @@ OToyODo0MCswMDowMK5FtMgAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDUtMTZU
 MDk6MzQ6MzMrMDA6MDA/hyC+AAAAAElFTkSuQmCC 
 ">~=<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYYERs5sDvzMQAAABBjYU52AAAA7gAA 
+BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYZCRMbBwutcAAAABBjYU52AAAA7gAA 
 AO4AAAAQAAAAEIjqCcoAAIAASURBVHja7J1leFTH18DPvXfds57sxj0hJAGS4O5S 
 2gKFUqfupfrWlbobNWhLSwuUFnf3GHH3bNbd9e6d9wOl/zpSKKXN73n2096ZOWdm 
 zp25M2fOAPTTTz/99NNPP/30008//fTTTz/99NNPP/30008//fTTTz/99NNPP/30 
@@ -4911,7 +4911,7 @@ sQ0AAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDUtMTZUMDk6Mjg6NDcrMDA6MDBr
 +iAeMAAAAABJRU5ErkJggg== 
 ">~<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYYERwB13jdaAAAABBjYU52AAAA7gAA 
+BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYZCRMed2FZ/wAAABBjYU52AAAA7gAA 
 AO4AAAAQAAAAEIjqCcoAAIAASURBVHja7J1ldBxH9vZvwzCzpBEzS7bMtsyMcWIn 
 cRx0GDaMu2HmDaOdxHHAkMTMMkqyLFm2mGFGGs1omHmmu94PjrPJxo6d/e+7huh3 
 jk9yjrq6b9XU01V9q+4tgCGGGGKIIYYYYoghhhhiiCGGGGKIIYYYYoghhhhiiCGG 
@@ -5730,7 +5730,7 @@ MC0wNS0xNlQwOToyODo0NCswMDowMFoKkNsAAAAldEVYdGRhdGU6bW9kaWZ5ADIw
 MjAtMDUtMTZUMDk6MzQ6MzMrMDA6MDA/hyC+AAAAAElFTkSuQmCC 
 ">~<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYYERwGSRxIywAAABBjYU52AAAA7gAA 
+BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYZCRMgtgBEVAAAABBjYU52AAAA7gAA 
 AO4AAAAQAAAAEIjqCcoAAIAASURBVHja7J1leFTX1sfXOeM+k5G4u0AgIUESLECC 
 06KllBZa2lJ663LrrrdKDangLdZSXAOBEE+Iu89k3N3Pfj8ANbT3toX2ze958gW2 
 rL3P/s/2tQEGGWSQQQYZZJBBBhlkkEEGGWSQQQYZZJBBBhlkkEEGGWSQQQYZZJBB 
@@ -6615,7 +6615,7 @@ Fy9evHjx4sWLFy9evHjx4sWLFy9evHjx4mU08L/PvbnWAuv2FwAAACV0RVh0ZGF0
 ZTpjcmVhdGUAMjAyMC0wNS0xNlQwOToyODo0NyswMDowMGviikYAAAAldEVYdGRh 
 dGU6bW9kaWZ5ADIwMjAtMDUtMTZUMDk6MzQ6MzQrMDA6MDD6IB4wAAAAAElFTkSu 
 QmCC 
-">}</li> <BR/> <li> Ein Kolam kann genau dann in einem Zug gezeichnet werden, wenn f&uuml;r die Anzahl der Arme und die Anzahl der Punkte auf einem Arm gilt: {2:MULTICHOICE:=Die beiden Anzahlen sind teilerfremd.~Es gibt mehr Arme als Punkte je Arm.~Die Differenz der Armanzahl und der Punktanzahl ist ungerade.~Die Armanzahl ist gerade, die Punktanzahl ungerade.} </li></ol></p>]]></text>
+">}</li> <BR/> <li> Ein Kolam kann genau dann in einem Zug gezeichnet werden, wenn f&uuml;r die Anzahl der Arme und die Anzahl der Punkte auf einem Arm gilt: {2:MULTICHOICE_VS:=Die beiden Anzahlen sind teilerfremd.~Es gibt mehr Arme als Punkte je Arm.~Die Differenz der Armanzahl und der Punktanzahl ist ungerade.~Die Armanzahl ist gerade, die Punktanzahl ungerade.} </li></ol></p>]]></text>
   </questiontext>
   <defaultgrade>4</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
@@ -6627,9 +6627,9 @@ QmCC
     <text>Ethnomathematik: Kolam (Version 3)</text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p><B>Ethnomathematik: Kolam</B><BR/> Ein Kolam ist eine in einem einzigen Linienzug durchf&uuml;hrbare, regelgeleitet erstellte Kreidezeichnung, wie sie sich noch heute bei den s&uuml;dindischen Tamilen als ethnomathematische Praxis auffinden l&auml;sst. <BR/> Unten sind mehrere solche Kolam mit 8 Armen zu je 5 Punkten in vereinfachter Form abgebildet.<BR/> <BR/> <ol type=a><li>Wenn man mit dem Z&auml;hlen der Punkte beim innersten Punkt des nach oben zeigenden Arms beginnt, welches Bild steht dann f&uuml;r die links herum abgelaufene Punktfolge \(&lt;3, 4, 1, 5, 2&gt;\)? <BR/> {2:MULTICHOICE_H:<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
+    <text><![CDATA[<p><B>Ethnomathematik: Kolam</B><BR/> Ein Kolam ist eine in einem einzigen Linienzug durchf&uuml;hrbare, regelgeleitet erstellte Kreidezeichnung, wie sie sich noch heute bei den s&uuml;dindischen Tamilen als ethnomathematische Praxis auffinden l&auml;sst. <BR/> Unten sind mehrere solche Kolam mit 8 Armen zu je 5 Punkten in vereinfachter Form abgebildet.<BR/> <BR/> <ol type=a><li>Wenn man mit dem Z&auml;hlen der Punkte beim innersten Punkt des nach oben zeigenden Arms beginnt, welches Bild steht dann f&uuml;r die links herum abgelaufene Punktfolge \(&lt;3, 4, 1, 5, 2&gt;\)? <BR/> {2:MULTICHOICE_HS:<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYYERwPMMDwbwAAABBjYU52AAAA7gAA 
+BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYZCRMlxmqw2wAAABBjYU52AAAA7gAA 
 AO4AAAAQAAAAEIjqCcoAAIAASURBVHja7J11eFXH9vfXPu4ed3cSICGEQHB3KrSl 
 UKfeW7+VW7ttb2/dS91barhLkARCQoh7cnLc3ffRPe8fLb01IIFA4f3l8zz8AZyZ 
 WTN7f/fsPTNrLYBRRhlllFFGGWWUUUYZZZRRRhlllFFGGWWUUUYZZZRRRhlllFFG 
@@ -7428,7 +7428,7 @@ ZTptb2RpZnkAMjAyMC0wNS0xNlQwOTozNDozNCswMDowMPogHjAAAAAASUVORK5C
 YII= 
 ">~=<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYYERwTJMGsIAAAABBjYU52AAAA7gAA 
+BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYZCRMouNvMZgAAABBjYU52AAAA7gAA 
 AO4AAAAQAAAAEIjqCcoAAIAASURBVHja7J11lBVH+ve/3X3d5467O4MP7u5OSEKI 
 EJfNJiG+cU+IEiECJCQhQQLBXQcGmBkYd/e59851t+56/yBkkw0Esr99F9n5nMPh 
 nLlV1U9V17equuQpoIceeuihhx566KGHHnrooYceeuihhx566KGHHnrooYceeuih 
@@ -8251,7 +8251,7 @@ Y7rauAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wNS0xNlQwOTozNDozNiswMDow
 MG2/DxkAAAAASUVORK5CYII= 
 ">~<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYYERwXI6xoOQAAABBjYU52AAAA7gAA 
+BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYZCRMrIdKd3AAAABBjYU52AAAA7gAA 
 AO4AAAAQAAAAEIjqCcoAAIAASURBVHja7J11eFRH18DPlfXdrO8m2bi7EDy4a6FO 
 S93d5au7y1t3V+pYcSiEBCIQ4p5sdrPurvfe+f6g9G3fthRaWkqb3/PsX3vnzhk5 
 d+TMnAMwyiijjDLKKKOMMsooo4wyyiijjDLKKKOMMsooo4wyyiijjDLKKKOMMsoo 
@@ -9047,7 +9047,7 @@ ADIwMjAtMDUtMTZUMDk6Mjg6NTkrMDA6MDD3d/GFAAAAJXRFWHRkYXRlOm1vZGlm
 eQAyMDIwLTA1LTE2VDA5OjM0OjM1KzAwOjAwXFcVhAAAAABJRU5ErkJggg== 
 ">~<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYYERwdw3mBJwAAABBjYU52AAAA7gAA 
+BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYZCRMtyLE46QAAABBjYU52AAAA7gAA 
 AO4AAAAQAAAAEIjqCcoAAIAASURBVHja7J11eFTH+se/56z7Jtm4u4ckSLDg7lVK 
 3fXetrfee+t26+7uFGmhuBMCIQnE3Teym2zW3ffM7w9KfxW8UEovn+fJHy1n5rwz 
 Z7479s47wHnOc57znOc85znPec5znvOc5zznOc95znOe85znPOc5z3nOc57znOc8 
@@ -9846,7 +9846,7 @@ NgDPIwohhBEEHoGL7GwmEAgEAoFAIBAIBAKBQCAQCAQCgUAgEAgEAoFAIBAIBAKB
 QCAQCAQCgUAgEAgE0ej/AelkDIBQv3FZAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIw 
 LTA1LTE2VDA5OjI5OjAxKzAwOjAwY7rauAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAy 
 MC0wNS0xNlQwOTozNDozNSswMDowMFxXFYQAAAAASUVORK5CYII= 
-">}</li> <BR/> <li> Ein Kolam kann genau dann in einem Zug gezeichnet werden, wenn f&uuml;r die Anzahl der Arme und die Anzahl der Punkte auf einem Arm gilt: {2:MULTICHOICE:=Die beiden Anzahlen sind teilerfremd.~Es gibt mehr Arme als Punkte je Arm.~Die Differenz der Armanzahl und der Punktanzahl ist ungerade.~Die Armanzahl ist gerade, die Punktanzahl ungerade.} </li></ol></p>]]></text>
+">}</li> <BR/> <li> Ein Kolam kann genau dann in einem Zug gezeichnet werden, wenn f&uuml;r die Anzahl der Arme und die Anzahl der Punkte auf einem Arm gilt: {2:MULTICHOICE_VS:=Die beiden Anzahlen sind teilerfremd.~Es gibt mehr Arme als Punkte je Arm.~Die Differenz der Armanzahl und der Punktanzahl ist ungerade.~Die Armanzahl ist gerade, die Punktanzahl ungerade.} </li></ol></p>]]></text>
   </questiontext>
   <defaultgrade>4</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
@@ -9858,9 +9858,9 @@ MC0wNS0xNlQwOTozNDozNSswMDowMFxXFYQAAAAASUVORK5CYII=
     <text>Ethnomathematik: Kolam (Version 4)</text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p><B>Ethnomathematik: Kolam</B><BR/> Ein Kolam ist eine in einem einzigen Linienzug durchf&uuml;hrbare, regelgeleitet erstellte Kreidezeichnung, wie sie sich noch heute bei den s&uuml;dindischen Tamilen als ethnomathematische Praxis auffinden l&auml;sst. <BR/> Unten sind mehrere solche Kolam mit 8 Armen zu je 5 Punkten in vereinfachter Form abgebildet.<BR/> <BR/> <ol type=a><li>Wenn man mit dem Z&auml;hlen der Punkte beim innersten Punkt des nach oben zeigenden Arms beginnt, welches Bild steht dann f&uuml;r die links herum abgelaufene Punktfolge \(&lt;4, 3, 1, 5, 2&gt;\)? <BR/> {2:MULTICHOICE_H:<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
+    <text><![CDATA[<p><B>Ethnomathematik: Kolam</B><BR/> Ein Kolam ist eine in einem einzigen Linienzug durchf&uuml;hrbare, regelgeleitet erstellte Kreidezeichnung, wie sie sich noch heute bei den s&uuml;dindischen Tamilen als ethnomathematische Praxis auffinden l&auml;sst. <BR/> Unten sind mehrere solche Kolam mit 8 Armen zu je 5 Punkten in vereinfachter Form abgebildet.<BR/> <BR/> <ol type=a><li>Wenn man mit dem Z&auml;hlen der Punkte beim innersten Punkt des nach oben zeigenden Arms beginnt, welches Bild steht dann f&uuml;r die links herum abgelaufene Punktfolge \(&lt;4, 3, 1, 5, 2&gt;\)? <BR/> {2:MULTICHOICE_HS:<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYYERwmcnJoAwAAABBjYU52AAAA7gAA 
+BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYZCRMyRbk1HAAAABBjYU52AAAA7gAA 
 AO4AAAAQAAAAEIjqCcoAAIAASURBVHja7J11eBRX9/jPzKz7ZjfunhAjDklwd2ip 
 QN3trbu7u1L3FkpbCi3uxN1dNyvZzbr7zP39AfRt3yIBQoHfN5/n2edpydxzZe6Z 
 a+eeAzDBBBNMMMEEE0wwwQQTTDDBBBNMMMEEE0wwwQQTTDDBBBNMMMEEE0wwwQQT 
@@ -10658,7 +10658,7 @@ YXRlOm1vZGlmeQAyMDIwLTA1LTE2VDA5OjM0OjM2KzAwOjAwbb8PGQAAAABJRU5E
 rkJggg== 
 ">~=<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYYERwqe8QkKAAAABBjYU52AAAA7gAA 
+BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYZCRM1292gvwAAABBjYU52AAAA7gAA 
 AO4AAAAQAAAAEIjqCcoAAIAASURBVHja7J11dFTX2offc8bdJxN3J0Igwd3dvVSA 
 ut26u3tLBbfSluLuDiHEiLsnIxn3mXPOzJw53x+UeysU6G3vB6V51mIt1sqWd8vv 
 7D1b3g3QQw899NBDDz300EMPPfTQQw899NBDDz300EMPPfTQQw899NBDDz300EMP 
@@ -11453,7 +11453,7 @@ MDk6Mjk6MTUrMDA6MDBbX/41AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTA1LTE2
 VDA5OjM0OjM3KzAwOjAwy8gErQAAAABJRU5ErkJggg== 
 ">~<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYYERwx8aHtxAAAABBjYU52AAAA7gAA 
+BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYZCRM4pWzcAgAAABBjYU52AAAA7gAA 
 AO4AAAAQAAAAEIjqCcoAAIAASURBVHja7J11dFVH1/D3Oee6S67fuCckJMGDS3Ap 
 LdS91N1dnvapu3tLvVDF3SUB4u65N9fd/Z4z3x+FvrSlLVAo8D381srKWsmcmT2z 
 zz5je/YAnOUsZznLWc5ylrOc5SxnOctZznKWs5zlLGc5y1nOcpaznOUsZznLWc5y 
@@ -12277,7 +12277,7 @@ OjAwnvjAuwAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wNS0xNlQwOTozNDozNysw
 MDowMMvIBK0AAAAASUVORK5CYII= 
 ">~<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYYERw2b8V4ZwAAABBjYU52AAAA7gAA 
+BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYZCRM7PGWNuAAAABBjYU52AAAA7gAA 
 AO4AAAAQAAAAEIjqCcoAAIAASURBVHja7J11fFRX9sDPG3efTNw9hAgECAkQXAul 
 St1LXbberbfbrW1dgEJbaAsFSrHiHizE3ZOZycxk3H3mvXd/f1C6tEUSoMhv8/18 
 8tktn7n3nivnXTv3HIAhhhhiiCGGGGKIIYYYYoghhhhiiCGGGGKIIYYYYoghhhhi 
@@ -13085,7 +13085,7 @@ IBAIBAKBQCAQCAQCgUAgEAgEAoFAIBAIBAKBQCAQCH7I/wCW3gvEuneowAAAACV0
 RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wNS0xNlQwOToyOToxNSswMDowMFtf/jUAAAAl 
 dEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDUtMTZUMDk6MzQ6MzcrMDA6MDDLyAStAAAA 
 AElFTkSuQmCC 
-">}</li> <BR/> <li> Ein Kolam kann genau dann in einem Zug gezeichnet werden, wenn f&uuml;r die Anzahl der Arme und die Anzahl der Punkte auf einem Arm gilt: {2:MULTICHOICE:=Die beiden Anzahlen sind teilerfremd.~Es gibt mehr Arme als Punkte je Arm.~Die Differenz der Armanzahl und der Punktanzahl ist ungerade.~Die Armanzahl ist gerade, die Punktanzahl ungerade.} </li></ol></p>]]></text>
+">}</li> <BR/> <li> Ein Kolam kann genau dann in einem Zug gezeichnet werden, wenn f&uuml;r die Anzahl der Arme und die Anzahl der Punkte auf einem Arm gilt: {2:MULTICHOICE_VS:=Die beiden Anzahlen sind teilerfremd.~Es gibt mehr Arme als Punkte je Arm.~Die Differenz der Armanzahl und der Punktanzahl ist ungerade.~Die Armanzahl ist gerade, die Punktanzahl ungerade.} </li></ol></p>]]></text>
   </questiontext>
   <defaultgrade>4</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
@@ -13097,9 +13097,9 @@ AElFTkSuQmCC
     <text>Ethnomathematik: Kolam (Version 5)</text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p><B>Ethnomathematik: Kolam</B><BR/> Ein Kolam ist eine in einem einzigen Linienzug durchf&uuml;hrbare, regelgeleitet erstellte Kreidezeichnung, wie sie sich noch heute bei den s&uuml;dindischen Tamilen als ethnomathematische Praxis auffinden l&auml;sst. <BR/> Unten sind mehrere solche Kolam mit 8 Armen zu je 5 Punkten in vereinfachter Form abgebildet.<BR/> <BR/> <ol type=a><li>Wenn man mit dem Z&auml;hlen der Punkte beim innersten Punkt des nach oben zeigenden Arms beginnt, welches Bild steht dann f&uuml;r die links herum abgelaufene Punktfolge \(&lt;5, 3, 1, 4, 2&gt;\)? <BR/> {2:MULTICHOICE_H:<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
+    <text><![CDATA[<p><B>Ethnomathematik: Kolam</B><BR/> Ein Kolam ist eine in einem einzigen Linienzug durchf&uuml;hrbare, regelgeleitet erstellte Kreidezeichnung, wie sie sich noch heute bei den s&uuml;dindischen Tamilen als ethnomathematische Praxis auffinden l&auml;sst. <BR/> Unten sind mehrere solche Kolam mit 8 Armen zu je 5 Punkten in vereinfachter Form abgebildet.<BR/> <BR/> <ol type=a><li>Wenn man mit dem Z&auml;hlen der Punkte beim innersten Punkt des nach oben zeigenden Arms beginnt, welches Bild steht dann f&uuml;r die links herum abgelaufene Punktfolge \(&lt;5, 3, 1, 4, 2&gt;\)? <BR/> {2:MULTICHOICE_HS:<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYYER0BzmPsKQAAABBjYU52AAAA7gAA 
+BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYZCRQExUI2QgAAABBjYU52AAAA7gAA 
 AO4AAAAQAAAAEIjqCcoAAIAASURBVHja7J13lBVF9sdvh5dznpwTTIAZZsg5ZxAV 
 VMwImLOuYVfFsOa0ZhExAQIGcs4MAwOTc47vvXnzco7dXb8/AH/uCswbVxbcnc85 
 7+hhuqqrq/rble69BTDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMM 
@@ -13908,7 +13908,7 @@ OjIzKzAwOjAwtgDM7AAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wNS0xNlQwOToz
 NDozOCswMDowMD2AdEQAAAAASUVORK5CYII= 
 ">~=<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYYER0FyQ4oMAAAABBjYU52AAAA7gAA 
+BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYZCRQJu/NK/wAAABBjYU52AAAA7gAA 
 AO4AAAAQAAAAEIjqCcoAAIAASURBVHja7J1lYFRH18fPXXffTTbuLjiEEEiw4Fba 
 QmlLBUqpC3XjqbsLVShW3D1IEuIQd89asu6+d3feD5S2FO3ztqX0ye9LPmTm3jOz 
 879jZ84ADDLIIIMMMsgggwwyyCCDDDLIIIMMMsgggwwyyCCDDDLIIIMMMsgggwwy 
@@ -14793,7 +14793,7 @@ dEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDUtMTZUMDk6MzQ6MzkrMDA6MDCb93/wAAAA
 AElFTkSuQmCC 
 ">~<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYYER0JwLhkGwAAABBjYU52AAAA7gAA 
+BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYZCRQMy5m+cAAAABBjYU52AAAA7gAA 
 AO4AAAAQAAAAEIjqCcoAAIAASURBVHja7J1lmFZV9/DXOXd39z3dBcMwdHenCoiB 
 idjd3T52t2KhAgLS3QwwwDDdcXd399nvB8VHH6WU8v/O77rmmi/33nvtWGfX2msB 
 9NJLL7300ksvvfTSSy+99NJLL7300ksvvfTSSy+99NJLL7300ksvvfTSSy+99NJL 
@@ -15612,7 +15612,7 @@ ZWF0ZQAyMDIwLTA1LTE2VDA5OjI5OjI3KzAwOjAwQk/o/wAAACV0RVh0ZGF0ZTpt
 b2RpZnkAMjAyMC0wNS0xNlQwOTozNDozOSswMDowMJv3f/AAAAAASUVORK5CYII= 
 ">~<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYYER0OXtzxuAAAABBjYU52AAAA7gAA 
+BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYZCRQPUpDvygAAABBjYU52AAAA7gAA 
 AO4AAAAQAAAAEIjqCcoAAIAASURBVHja7J11fBTX9/fPrLtv3F0haAjubi0VCi11 
 6u7u7gp1oYUCbXENEAgECHH37Cbr7jKzO3OfP1r6rUBJIFB4fnm/Xv2jZOfec+/M 
 Z+bKuecADDLIIIMMMsgggwwyyCCDDDLIIIMMMsgggwwyyCCDDDLIIIMMMsgggwwy 
@@ -16406,7 +16406,7 @@ BAKBQCAQCAQCgUAgEAgEAoFAIBAIBAKBQCAQDCf/C9I04Kd/0cVFAAAAJXRFWHRk
 YXRlOmNyZWF0ZQAyMDIwLTA1LTE2VDA5OjI5OjMwKzAwOjAwS0LW7wAAACV0RVh0 
 ZGF0ZTptb2RpZnkAMjAyMC0wNS0xNlQwOTozNDozOSswMDowMJv3f/AAAAAASUVO 
 RK5CYII= 
-">}</li> <BR/> <li> Ein Kolam kann genau dann in einem Zug gezeichnet werden, wenn f&uuml;r die Anzahl der Arme und die Anzahl der Punkte auf einem Arm gilt: {2:MULTICHOICE:=Die beiden Anzahlen sind teilerfremd.~Es gibt mehr Arme als Punkte je Arm.~Die Differenz der Armanzahl und der Punktanzahl ist ungerade.~Die Armanzahl ist gerade, die Punktanzahl ungerade.} </li></ol></p>]]></text>
+">}</li> <BR/> <li> Ein Kolam kann genau dann in einem Zug gezeichnet werden, wenn f&uuml;r die Anzahl der Arme und die Anzahl der Punkte auf einem Arm gilt: {2:MULTICHOICE_VS:=Die beiden Anzahlen sind teilerfremd.~Es gibt mehr Arme als Punkte je Arm.~Die Differenz der Armanzahl und der Punktanzahl ist ungerade.~Die Armanzahl ist gerade, die Punktanzahl ungerade.} </li></ol></p>]]></text>
   </questiontext>
   <defaultgrade>4</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
@@ -16418,9 +16418,9 @@ RK5CYII=
     <text>Ethnomathematik: Kolam (Version 6)</text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p><B>Ethnomathematik: Kolam</B><BR/> Ein Kolam ist eine in einem einzigen Linienzug durchf&uuml;hrbare, regelgeleitet erstellte Kreidezeichnung, wie sie sich noch heute bei den s&uuml;dindischen Tamilen als ethnomathematische Praxis auffinden l&auml;sst. <BR/> Unten sind mehrere solche Kolam mit 8 Armen zu je 5 Punkten in vereinfachter Form abgebildet.<BR/> <BR/> <ol type=a><li>Wenn man mit dem Z&auml;hlen der Punkte beim innersten Punkt des nach oben zeigenden Arms beginnt, welches Bild steht dann f&uuml;r die links herum abgelaufene Punktfolge \(&lt;1, 4, 2, 3, 5&gt;\)? <BR/> {2:MULTICHOICE_H:<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
+    <text><![CDATA[<p><B>Ethnomathematik: Kolam</B><BR/> Ein Kolam ist eine in einem einzigen Linienzug durchf&uuml;hrbare, regelgeleitet erstellte Kreidezeichnung, wie sie sich noch heute bei den s&uuml;dindischen Tamilen als ethnomathematische Praxis auffinden l&auml;sst. <BR/> Unten sind mehrere solche Kolam mit 8 Armen zu je 5 Punkten in vereinfachter Form abgebildet.<BR/> <BR/> <ol type=a><li>Wenn man mit dem Z&auml;hlen der Punkte beim innersten Punkt des nach oben zeigenden Arms beginnt, welches Bild steht dann f&uuml;r die links herum abgelaufene Punktfolge \(&lt;1, 4, 2, 3, 5&gt;\)? <BR/> {2:MULTICHOICE_HS:<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYYER0V1Lk4VAAAABBjYU52AAAA7gAA 
+BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYZCRQU2PUmJgAAABBjYU52AAAA7gAA 
 AO4AAAAQAAAAEIjqCcoAAIAASURBVHja7J1lYJTH1sfPs+4uWYm7EYK7u5ZCKZQK 
 LXV3d7dbb6GOFHd3C4QkxIh71t3dd94PlLYUS+/bltKb39cdOTM7/2fszAxAL730 
 0ksvvfTSSy+99NJLL7300ksvvfTSSy+99NJLL7300ksvvfTSSy+99NJLL7300ksv 
@@ -17302,7 +17302,7 @@ OjI4OjM0KzAwOjAwUM+ZwgAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wNS0xNlQw
 OTozNDozMiswMDowMJnwKwoAAAAASUVORK5CYII= 
 ">~=<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYYER0aRAYlxQAAABBjYU52AAAA7gAA 
+BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYZCRQXQfx3nAAAABBjYU52AAAA7gAA 
 AO4AAAAQAAAAEIjqCcoAAIAASURBVHja7J11dFRH+8efK+vucTdIiEHQ4O4t1tJS 
 p+7u7u6FUqelWFvcCRZISIgQd93sbtbd7u698/uj8P7aty2FGtA3n3P2HA65M/PM 
 3Pne8WcABhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYY 
@@ -18099,7 +18099,7 @@ p0wAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDUtMTZUMDk6MzQ6MzIrMDA6MDCZ
 8CsKAAAAAElFTkSuQmCC 
 ">~<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYYER0fNGzRSgAAABBjYU52AAAA7gAA 
+BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYZCRQaP00LIQAAABBjYU52AAAA7gAA 
 AO4AAAAQAAAAEIjqCcoAAIAASURBVHja7J11dBXX9sf3zFx3i7snJECCu7trgdLS 
 UqjLq3tfva/uFGmhSAtFWtwJFiRAiLv7dZe5c0fO7w9KXwUJfbRAf/msdddikXNm 
 9pk53zm2zz4AnXTSSSeddNJJJ5100kknnXTSSSeddNJJJ5100kknnXTSSSeddNJJ 
@@ -18901,7 +18901,7 @@ VDA5OjI4OjI2KzAwOjAwC/qIdQAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wNS0x
 NlQwOTozNDozMSswMDowMKgYMZcAAAAASUVORK5CYII= 
 ">~<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYYER0jGwOtzQAAABBjYU52AAAA7gAA 
+BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYZCRQdoSmeggAAABBjYU52AAAA7gAA 
 AO4AAAAQAAAAEIjqCcoAAIAASURBVHja7H13dBXV9v9nZm7vLb2SQEJIgUBIaKGj 
 gAjYFREVsff61OezN+y9ixUUsACC0juEUNN7Lzfl9t5m5vz+AN5Xn0BuLA94Pz5r 
 3cVaZM6ePefMZ845e++zN3AO53AO53AO53AO53AO53AO53AO53AO53AO53AO53AO 
@@ -19702,7 +19702,7 @@ SCQSiUQikUgkEolEIpFIJBKJRCKRSCQSiUQikUi6kv8Be0nPupJrnCUAAAAldEVY
 dGRhdGU6Y3JlYXRlADIwMjAtMDUtMTZUMDk6Mjg6MjUrMDA6MDA6EpLoAAAAJXRF 
 WHRkYXRlOm1vZGlmeQAyMDIwLTA1LTE2VDA5OjM0OjMxKzAwOjAwqBgxlwAAAABJ 
 RU5ErkJggg== 
-">}</li> <BR/> <li> Ein Kolam kann genau dann in einem Zug gezeichnet werden, wenn f&uuml;r die Anzahl der Arme und die Anzahl der Punkte auf einem Arm gilt: {2:MULTICHOICE:=Die beiden Anzahlen sind teilerfremd.~Es gibt mehr Arme als Punkte je Arm.~Die Differenz der Armanzahl und der Punktanzahl ist ungerade.~Die Armanzahl ist gerade, die Punktanzahl ungerade.} </li></ol></p>]]></text>
+">}</li> <BR/> <li> Ein Kolam kann genau dann in einem Zug gezeichnet werden, wenn f&uuml;r die Anzahl der Arme und die Anzahl der Punkte auf einem Arm gilt: {2:MULTICHOICE_VS:=Die beiden Anzahlen sind teilerfremd.~Es gibt mehr Arme als Punkte je Arm.~Die Differenz der Armanzahl und der Punktanzahl ist ungerade.~Die Armanzahl ist gerade, die Punktanzahl ungerade.} </li></ol></p>]]></text>
   </questiontext>
   <defaultgrade>4</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
@@ -19714,9 +19714,9 @@ RU5ErkJggg==
     <text>Ethnomathematik: Kolam (Version 7)</text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p><B>Ethnomathematik: Kolam</B><BR/> Ein Kolam ist eine in einem einzigen Linienzug durchf&uuml;hrbare, regelgeleitet erstellte Kreidezeichnung, wie sie sich noch heute bei den s&uuml;dindischen Tamilen als ethnomathematische Praxis auffinden l&auml;sst. <BR/> Unten sind mehrere solche Kolam mit 8 Armen zu je 5 Punkten in vereinfachter Form abgebildet.<BR/> <BR/> <ol type=a><li>Wenn man mit dem Z&auml;hlen der Punkte beim innersten Punkt des nach oben zeigenden Arms beginnt, welches Bild steht dann f&uuml;r die links herum abgelaufene Punktfolge \(&lt;2, 4, 1, 3, 5&gt;\)? <BR/> {2:MULTICHOICE_H:<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
+    <text><![CDATA[<p><B>Ethnomathematik: Kolam</B><BR/> Ein Kolam ist eine in einem einzigen Linienzug durchf&uuml;hrbare, regelgeleitet erstellte Kreidezeichnung, wie sie sich noch heute bei den s&uuml;dindischen Tamilen als ethnomathematische Praxis auffinden l&auml;sst. <BR/> Unten sind mehrere solche Kolam mit 8 Armen zu je 5 Punkten in vereinfachter Form abgebildet.<BR/> <BR/> <ol type=a><li>Wenn man mit dem Z&auml;hlen der Punkte beim innersten Punkt des nach oben zeigenden Arms beginnt, welches Bild steht dann f&uuml;r die links herum abgelaufene Punktfolge \(&lt;2, 4, 1, 3, 5&gt;\)? <BR/> {2:MULTICHOICE_HS:<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYYER0qYt8VaQAAABBjYU52AAAA7gAA 
+BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYZCRQhjkbiBQAAABBjYU52AAAA7gAA 
 AO4AAAAQAAAAEIjqCcoAAIAASURBVHja7J1leFTH18DPvXfds57sxj0hJAGS4O5S 
 2gKFUqfupfrWlbobNWhLSwuUFnf3GHH3bNbd9e6d9wOl/zpSKKXN73n2096ZOWdm 
 zp25M2fOAPTTTz/99NNPP/30008//fTTTz/99NNPP/30008//fTTTz/99NNPP/30 
@@ -20514,7 +20514,7 @@ sQ0AAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDUtMTZUMDk6Mjg6NDcrMDA6MDBr
 +iAeMAAAAABJRU5ErkJggg== 
 ">~=<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYYER0uZbLRcAAAABBjYU52AAAA7gAA 
+BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYZCRQk/iwWigAAABBjYU52AAAA7gAA 
 AO4AAAAQAAAAEIjqCcoAAIAASURBVHja7J1leFTX1sfXOeM+k5G4u0AgIUESLECC 
 06KllBZa2lJ663LrrrdKDangLdZSXAOBEE+Iu89k3N3Pfj8ANbT3toX2ze958gW2 
 rL3P/s/2tQEGGWSQQQYZZJBBBhlkkEEGGWSQQQYZZJBBBhlkkEEGGWSQQQYZZJBB 
@@ -21401,7 +21401,7 @@ dGU6bW9kaWZ5ADIwMjAtMDUtMTZUMDk6MzQ6MzQrMDA6MDD6IB4wAAAAAElFTkSu
 QmCC 
 ">~<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYYER0ycbONPwAAABBjYU52AAAA7gAA 
+BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYZCRQnZyVHMAAAABBjYU52AAAA7gAA 
 AO4AAAAQAAAAEIjqCcoAAIAASURBVHja7J1ldBxH9vZvwzCzpBEzS7bMtsyMcWIn 
 cRx0GDaMu2HmDaOdxHHAkMTMMkqyLFm2mGFGGs1omHmmu94PjrPJxo6d/e+7huh3 
 jk9yjrq6b9XU01V9q+4tgCGGGGKIIYYYYoghhhhiiCGGGGKIIYYYYoghhhhiiCGG 
@@ -22220,7 +22220,7 @@ MC0wNS0xNlQwOToyODo0NCswMDowMFoKkNsAAAAldEVYdGRhdGU6bW9kaWZ5ADIw
 MjAtMDUtMTZUMDk6MzQ6MzMrMDA6MDA/hyC+AAAAAElFTkSuQmCC 
 ">~<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYYER02dt5JJgAAABBjYU52AAAA7gAA 
+BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYZCRQqGZQ7jQAAABBjYU52AAAA7gAA 
 AO4AAAAQAAAAEIjqCcoAAIAASURBVHja7J11dFRX/sC/b9x9MnF3D4RgSSC4SwUq 
 UAXq7t1tu+12dytbd6yllNJCcXcJJJAQ4u4Z95k3b3zm3d8fhV12CyShUGB/+ZzD 
 4Rx4977vvfd959pXAIYYYoghhhhiiCGGGGKIIYYYYoghhhhiiCGGGGKIIYYYYogh 
@@ -23021,7 +23021,7 @@ gsBZ+MY5mgKBQCAQCAQCgUAgEAgEAoFAIBAIBAKBQCAQCAQCgUAgEAgEAoFAIBAI
 BAKBQHAj+Ac2VtlJMIsLKwAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wNS0xNlQw 
 OToyODo0MCswMDowMK5FtMgAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDUtMTZU 
 MDk6MzQ6MzMrMDA6MDA/hyC+AAAAAElFTkSuQmCC 
-">}</li> <BR/> <li> Ein Kolam kann genau dann in einem Zug gezeichnet werden, wenn f&uuml;r die Anzahl der Arme und die Anzahl der Punkte auf einem Arm gilt: {2:MULTICHOICE:=Die beiden Anzahlen sind teilerfremd.~Es gibt mehr Arme als Punkte je Arm.~Die Differenz der Armanzahl und der Punktanzahl ist ungerade.~Die Armanzahl ist gerade, die Punktanzahl ungerade.} </li></ol></p>]]></text>
+">}</li> <BR/> <li> Ein Kolam kann genau dann in einem Zug gezeichnet werden, wenn f&uuml;r die Anzahl der Arme und die Anzahl der Punkte auf einem Arm gilt: {2:MULTICHOICE_VS:=Die beiden Anzahlen sind teilerfremd.~Es gibt mehr Arme als Punkte je Arm.~Die Differenz der Armanzahl und der Punktanzahl ist ungerade.~Die Armanzahl ist gerade, die Punktanzahl ungerade.} </li></ol></p>]]></text>
   </questiontext>
   <defaultgrade>4</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
@@ -23033,9 +23033,9 @@ MDk6MzQ6MzMrMDA6MDA/hyC+AAAAAElFTkSuQmCC
     <text>Ethnomathematik: Kolam (Version 8)</text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p><B>Ethnomathematik: Kolam</B><BR/> Ein Kolam ist eine in einem einzigen Linienzug durchf&uuml;hrbare, regelgeleitet erstellte Kreidezeichnung, wie sie sich noch heute bei den s&uuml;dindischen Tamilen als ethnomathematische Praxis auffinden l&auml;sst. <BR/> Unten sind mehrere solche Kolam mit 8 Armen zu je 5 Punkten in vereinfachter Form abgebildet.<BR/> <BR/> <ol type=a><li>Wenn man mit dem Z&auml;hlen der Punkte beim innersten Punkt des nach oben zeigenden Arms beginnt, welches Bild steht dann f&uuml;r die links herum abgelaufene Punktfolge \(&lt;3, 4, 1, 2, 5&gt;\)? <BR/> {2:MULTICHOICE_H:<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
+    <text><![CDATA[<p><B>Ethnomathematik: Kolam</B><BR/> Ein Kolam ist eine in einem einzigen Linienzug durchf&uuml;hrbare, regelgeleitet erstellte Kreidezeichnung, wie sie sich noch heute bei den s&uuml;dindischen Tamilen als ethnomathematische Praxis auffinden l&auml;sst. <BR/> Unten sind mehrere solche Kolam mit 8 Armen zu je 5 Punkten in vereinfachter Form abgebildet.<BR/> <BR/> <ol type=a><li>Wenn man mit dem Z&auml;hlen der Punkte beim innersten Punkt des nach oben zeigenden Arms beginnt, welches Bild steht dann f&uuml;r die links herum abgelaufene Punktfolge \(&lt;3, 4, 1, 2, 5&gt;\)? <BR/> {2:MULTICHOICE_HS:<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYYER4B5U6/6gAAABBjYU52AAAA7gAA 
+BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYZCRQvaf7PAgAAABBjYU52AAAA7gAA 
 AO4AAAAQAAAAEIjqCcoAAIAASURBVHja7J11lBVH+ve/3X3d5467O4MP7u5OSEKI 
 EJfNJiG+cU+IEiECJCQhQQLBXQcGmBkYd/e59851t+56/yBkkw0Esr99F9n5nMPh 
 nLlV1U9V17equuQpoIceeuihhx566KGHHnrooYceeuihhx566KGHHnrooYceeuih 
@@ -23858,7 +23858,7 @@ Y7rauAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wNS0xNlQwOTozNDozNiswMDow
 MG2/DxkAAAAASUVORK5CYII= 
 ">~=<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYYER4F4iN78wAAABBjYU52AAAA7gAA 
+BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYZCRQyCvij2wAAABBjYU52AAAA7gAA 
 AO4AAAAQAAAAEIjqCcoAAIAASURBVHja7J11eFTH+se/56z7Jtm4u4ckSLDg7lVK 
 3fXetrfee+t26+7uFGmhuBMCIQnE3Teym2zW3ffM7w9KfxW8UEovn+fJHy1n5rwz 
 Z7479s47wHnOc57znOc85znPec5znvOc5zznOc95znOe85znPOc5z3nOc57znOc8 
@@ -24659,7 +24659,7 @@ LTA1LTE2VDA5OjI5OjAxKzAwOjAwY7rauAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAy
 MC0wNS0xNlQwOTozNDozNSswMDowMFxXFYQAAAAASUVORK5CYII= 
 ">~<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYYER4InJIHTgAAABBjYU52AAAA7gAA 
+BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYZCRQ1lJw2eAAAABBjYU52AAAA7gAA 
 AO4AAAAQAAAAEIjqCcoAAIAASURBVHja7J11eFRH18DPlfXdrO8m2bi7EDy4a6FO 
 S93d5au7y1t3V+pYcSiEBCIQ4p5sdrPurvfe+f6g9G3fthRaWkqb3/PsX3vnzhk5 
 d+TMnAMwyiijjDLKKKOMMsooo4wyyiijjDLKKKOMMsooo4wyyiijjDLKKKOMMsoo 
@@ -25455,7 +25455,7 @@ ADIwMjAtMDUtMTZUMDk6Mjg6NTkrMDA6MDD3d/GFAAAAJXRFWHRkYXRlOm1vZGlm
 eQAyMDIwLTA1LTE2VDA5OjM0OjM1KzAwOjAwXFcVhAAAAABJRU5ErkJggg== 
 ">~<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYYER4Mm//DVwAAABBjYU52AAAA7gAA 
+BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYZCRQ46i1KxQAAABBjYU52AAAA7gAA 
 AO4AAAAQAAAAEIjqCcoAAIAASURBVHja7J11eFXH9vfXPu4ed3cSICGEQHB3KrSl 
 UKfeW7+VW7ttb2/dS91barhLkARCQoh7cnLc3ffRPe8fLb01IIFA4f3l8zz8AZyZ 
 WTN7f/fsPTNrLYBRRhlllFFGGWWUUUYZZZRRRhlllFFGGWWUUUYZZZRRRhlllFFG 
@@ -26252,7 +26252,7 @@ kUgkEolEIpFIJBKJRCKRSCQSiUQikUgkup38AwaHPgTHpbC1AAAAJXRFWHRkYXRl
 OmNyZWF0ZQAyMDIwLTA1LTE2VDA5OjI4OjU0KzAwOjAwlqCQRQAAACV0RVh0ZGF0 
 ZTptb2RpZnkAMjAyMC0wNS0xNlQwOTozNDozNCswMDowMPogHjAAAAAASUVORK5C 
 YII= 
-">}</li> <BR/> <li> Ein Kolam kann genau dann in einem Zug gezeichnet werden, wenn f&uuml;r die Anzahl der Arme und die Anzahl der Punkte auf einem Arm gilt: {2:MULTICHOICE:=Die beiden Anzahlen sind teilerfremd.~Es gibt mehr Arme als Punkte je Arm.~Die Differenz der Armanzahl und der Punktanzahl ist ungerade.~Die Armanzahl ist gerade, die Punktanzahl ungerade.} </li></ol></p>]]></text>
+">}</li> <BR/> <li> Ein Kolam kann genau dann in einem Zug gezeichnet werden, wenn f&uuml;r die Anzahl der Arme und die Anzahl der Punkte auf einem Arm gilt: {2:MULTICHOICE_VS:=Die beiden Anzahlen sind teilerfremd.~Es gibt mehr Arme als Punkte je Arm.~Die Differenz der Armanzahl und der Punktanzahl ist ungerade.~Die Armanzahl ist gerade, die Punktanzahl ungerade.} </li></ol></p>]]></text>
   </questiontext>
   <defaultgrade>4</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
@@ -26264,9 +26264,9 @@ YII=
     <text>Ethnomathematik: Kolam (Version 9)</text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p><B>Ethnomathematik: Kolam</B><BR/> Ein Kolam ist eine in einem einzigen Linienzug durchf&uuml;hrbare, regelgeleitet erstellte Kreidezeichnung, wie sie sich noch heute bei den s&uuml;dindischen Tamilen als ethnomathematische Praxis auffinden l&auml;sst. <BR/> Unten sind mehrere solche Kolam mit 8 Armen zu je 5 Punkten in vereinfachter Form abgebildet.<BR/> <BR/> <ol type=a><li>Wenn man mit dem Z&auml;hlen der Punkte beim innersten Punkt des nach oben zeigenden Arms beginnt, welches Bild steht dann f&uuml;r die links herum abgelaufene Punktfolge \(&lt;4, 3, 1, 2, 5&gt;\)? <BR/> {2:MULTICHOICE_H:<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
+    <text><![CDATA[<p><B>Ethnomathematik: Kolam</B><BR/> Ein Kolam ist eine in einem einzigen Linienzug durchf&uuml;hrbare, regelgeleitet erstellte Kreidezeichnung, wie sie sich noch heute bei den s&uuml;dindischen Tamilen als ethnomathematische Praxis auffinden l&auml;sst. <BR/> Unten sind mehrere solche Kolam mit 8 Armen zu je 5 Punkten in vereinfachter Form abgebildet.<BR/> <BR/> <ol type=a><li>Wenn man mit dem Z&auml;hlen der Punkte beim innersten Punkt des nach oben zeigenden Arms beginnt, welches Bild steht dann f&uuml;r die links herum abgelaufene Punktfolge \(&lt;4, 3, 1, 2, 5&gt;\)? <BR/> {2:MULTICHOICE_HS:<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYYER4TFvfOogAAABBjYU52AAAA7gAA 
+BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYZCRUCNTqiNgAAABBjYU52AAAA7gAA 
 AO4AAAAQAAAAEIjqCcoAAIAASURBVHja7J11dFTX2offc8bdJxN3J0Igwd3dvVSA 
 ut26u3tLBbfSluLuDiHEiLsnIxn3mXPOzJw53x+UeysU6G3vB6V51mIt1sqWd8vv 
 7D1b3g3QQw899NBDDz300EMPPfTQQw899NBDDz300EMPPfTQQw899NBDDz300EMP 
@@ -27061,7 +27061,7 @@ MDk6Mjk6MTUrMDA6MDBbX/41AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTA1LTE2
 VDA5OjM0OjM3KzAwOjAwy8gErQAAAABJRU5ErkJggg== 
 ">~=<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYYER4XEZoKuwAAABBjYU52AAAA7gAA 
+BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYZCRUGMldmLwAAABBjYU52AAAA7gAA 
 AO4AAAAQAAAAEIjqCcoAAIAASURBVHja7J11fFRX9sDPG3efTNw9hAgECAkQXAul 
 St1LXbberbfbrW1dgEJbaAsFSrHiHizE3ZOZycxk3H3mvXd/f1C6tEUSoMhv8/18 
 8tktn7n3nivnXTv3HIAhhhhiiCGGGGKIIYYYYoghhhhiiCGGGGKIIYYYYoghhhhi 
@@ -27871,7 +27871,7 @@ dEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDUtMTZUMDk6MzQ6MzcrMDA6MDDLyAStAAAA
 AElFTkSuQmCC 
 ">~<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYYER4bGCxGkAAAABBjYU52AAAA7gAA 
+BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYZCRUJouh7vgAAABBjYU52AAAA7gAA 
 AO4AAAAQAAAAEIjqCcoAAIAASURBVHja7J11dFVH1/D3Oee6S67fuCckJMGDS3Ap 
 LdS91N1dnvapu3tLvVDF3SUB4u65N9fd/Z4z3x+FvrSlLVAo8D381srKWsmcmT2z 
 zz5je/YAnOUsZznLWc5ylrOc5SxnOctZznKWs5zlLGc5y1nOcpaznOUsZznLWc5y 
@@ -28695,7 +28695,7 @@ OjAwnvjAuwAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wNS0xNlQwOTozNDozNysw
 MDowMMvIBK0AAAAASUVORK5CYII= 
 ">~<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYYER4fH0GCiQAAABBjYU52AAAA7gAA 
+BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYZCRUM0oKPMQAAABBjYU52AAAA7gAA 
 AO4AAAAQAAAAEIjqCcoAAIAASURBVHja7J11eBRX9/jPzKz7ZjfunhAjDklwd2ip 
 QN3trbu7u1L3FkpbCi3uxN1dNyvZzbr7zP39AfRt3yIBQoHfN5/n2edpydxzZe6Z 
 a+eeAzDBBBNMMMEEE0wwwQQTTDDBBBNMMMEEE0wwwQQTTDDBBBNMMMEEE0wwwQQT 
@@ -29491,7 +29491,7 @@ iUQikUgkEolEIpFIJBKJRCKRSCQSiUQikUhulf8F3cT4UTtNMH0AAAAldEVYdGRh
 dGU6Y3JlYXRlADIwMjAtMDUtMTZUMDk6Mjk6MDgrMDA6MDD2Ip9rAAAAJXRFWHRk 
 YXRlOm1vZGlmeQAyMDIwLTA1LTE2VDA5OjM0OjM2KzAwOjAwbb8PGQAAAABJRU5E 
 rkJggg== 
-">}</li> <BR/> <li> Ein Kolam kann genau dann in einem Zug gezeichnet werden, wenn f&uuml;r die Anzahl der Arme und die Anzahl der Punkte auf einem Arm gilt: {2:MULTICHOICE:=Die beiden Anzahlen sind teilerfremd.~Es gibt mehr Arme als Punkte je Arm.~Die Differenz der Armanzahl und der Punktanzahl ist ungerade.~Die Armanzahl ist gerade, die Punktanzahl ungerade.} </li></ol></p>]]></text>
+">}</li> <BR/> <li> Ein Kolam kann genau dann in einem Zug gezeichnet werden, wenn f&uuml;r die Anzahl der Arme und die Anzahl der Punkte auf einem Arm gilt: {2:MULTICHOICE_VS:=Die beiden Anzahlen sind teilerfremd.~Es gibt mehr Arme als Punkte je Arm.~Die Differenz der Armanzahl und der Punktanzahl ist ungerade.~Die Armanzahl ist gerade, die Punktanzahl ungerade.} </li></ol></p>]]></text>
   </questiontext>
   <defaultgrade>4</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
@@ -29503,9 +29503,9 @@ rkJggg==
     <text>Ethnomathematik: Kolam (Version 10)</text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p><B>Ethnomathematik: Kolam</B><BR/> Ein Kolam ist eine in einem einzigen Linienzug durchf&uuml;hrbare, regelgeleitet erstellte Kreidezeichnung, wie sie sich noch heute bei den s&uuml;dindischen Tamilen als ethnomathematische Praxis auffinden l&auml;sst. <BR/> Unten sind mehrere solche Kolam mit 8 Armen zu je 5 Punkten in vereinfachter Form abgebildet.<BR/> <BR/> <ol type=a><li>Wenn man mit dem Z&auml;hlen der Punkte beim innersten Punkt des nach oben zeigenden Arms beginnt, welches Bild steht dann f&uuml;r die links herum abgelaufene Punktfolge \(&lt;5, 3, 1, 4, 2&gt;\)? <BR/> {2:MULTICHOICE_H:<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
+    <text><![CDATA[<p><B>Ethnomathematik: Kolam</B><BR/> Ein Kolam ist eine in einem einzigen Linienzug durchf&uuml;hrbare, regelgeleitet erstellte Kreidezeichnung, wie sie sich noch heute bei den s&uuml;dindischen Tamilen als ethnomathematische Praxis auffinden l&auml;sst. <BR/> Unten sind mehrere solche Kolam mit 8 Armen zu je 5 Punkten in vereinfachter Form abgebildet.<BR/> <BR/> <ol type=a><li>Wenn man mit dem Z&auml;hlen der Punkte beim innersten Punkt des nach oben zeigenden Arms beginnt, welches Bild steht dann f&uuml;r die links herum abgelaufene Punktfolge \(&lt;5, 3, 1, 4, 2&gt;\)? <BR/> {2:MULTICHOICE_HS:<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYYER4mQEQKgQAAABBjYU52AAAA7gAA 
+BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYZCRUSKI2yUgAAABBjYU52AAAA7gAA 
 AO4AAAAQAAAAEIjqCcoAAIAASURBVHja7J13lBVF9sdvh5dznpwTTIAZZsg5ZxAV 
 VMwImLOuYVfFsOa0ZhExAQIGcs4MAwOTc47vvXnzco7dXb8/AH/uCswbVxbcnc85 
 7+hhuqqrq/rble69BTDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMM 
@@ -30314,7 +30314,7 @@ OjIzKzAwOjAwtgDM7AAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wNS0xNlQwOToz
 NDozOCswMDowMD2AdEQAAAAASUVORK5CYII= 
 ">~=<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYYER4qSfJGqgAAABBjYU52AAAA7gAA 
+BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYZCRUWL+B2SwAAABBjYU52AAAA7gAA 
 AO4AAAAQAAAAEIjqCcoAAIAASURBVHja7J1lYFRH18fPXXffTTbuLjiEEEiw4Fba 
 QmlLBUqpC3XjqbsLVShW3D1IEuIQd89asu6+d3feD5S2FO3ztqX0ye9LPmTm3jOz 
 879jZ84ADDLIIIMMMsgggwwyyCCDDDLIIIMMMsgggwwyyCCDDDLIIIMMMsgggwwy 
@@ -31199,7 +31199,7 @@ dEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDUtMTZUMDk6MzQ6MzkrMDA6MDCb93/wAAAA
 AElFTkSuQmCC 
 ">~<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYYER4uTp+CswAAABBjYU52AAAA7gAA 
+BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYZCRUZv19r2gAAABBjYU52AAAA7gAA 
 AO4AAAAQAAAAEIjqCcoAAIAASURBVHja7J1lmFZV9/DXOXd39z3dBcMwdHenCoiB 
 idjd3T52t2KhAgLS3QwwwDDdcXd399nvB8VHH6WU8v/O77rmmi/33nvtWGfX2msB 
 9NJLL7300ksvvfTSSy+99NJLL7300ksvvfTSSy+99NJLL7300ksvvfTSSy+99NJL 
@@ -32018,7 +32018,7 @@ ZWF0ZQAyMDIwLTA1LTE2VDA5OjI5OjI3KzAwOjAwQk/o/wAAACV0RVh0ZGF0ZTpt
 b2RpZnkAMjAyMC0wNS0xNlQwOTozNDozOSswMDowMJv3f/AAAAAASUVORK5CYII= 
 ">~<IMG width=206 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM4AAADOCAYAAAB2Hz3EAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
-BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYYER4yWp7e/AAAABBjYU52AAAA7gAA 
+BmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5AYZCRUczzWfVQAAABBjYU52AAAA7gAA 
 AO4AAAAQAAAAEIjqCcoAAIAASURBVHja7J11fBTX9/fPrLtv3F0haAjubi0VCi11 
 6u7u7gp1oYUCbXENEAgECHH37Cbr7jKzO3OfP1r6rUBJIFB4fnm/Xv2jZOfec+/M 
 Z+bKuecADDLIIIMMMsgggwwyyCCDDDLIIIMMMsgggwwyyCCDDDLIIIMMMsgggwwy 
@@ -32812,7 +32812,7 @@ BAKBQCAQCAQCgUAgEAgEAoFAIBAIBAKBQCAQDCf/C9I04Kd/0cVFAAAAJXRFWHRk
 YXRlOmNyZWF0ZQAyMDIwLTA1LTE2VDA5OjI5OjMwKzAwOjAwS0LW7wAAACV0RVh0 
 ZGF0ZTptb2RpZnkAMjAyMC0wNS0xNlQwOTozNDozOSswMDowMJv3f/AAAAAASUVO 
 RK5CYII= 
-">}</li> <BR/> <li> Ein Kolam kann genau dann in einem Zug gezeichnet werden, wenn f&uuml;r die Anzahl der Arme und die Anzahl der Punkte auf einem Arm gilt: {2:MULTICHOICE:=Die beiden Anzahlen sind teilerfremd.~Es gibt mehr Arme als Punkte je Arm.~Die Differenz der Armanzahl und der Punktanzahl ist ungerade.~Die Armanzahl ist gerade, die Punktanzahl ungerade.} </li></ol></p>]]></text>
+">}</li> <BR/> <li> Ein Kolam kann genau dann in einem Zug gezeichnet werden, wenn f&uuml;r die Anzahl der Arme und die Anzahl der Punkte auf einem Arm gilt: {2:MULTICHOICE_VS:=Die beiden Anzahlen sind teilerfremd.~Es gibt mehr Arme als Punkte je Arm.~Die Differenz der Armanzahl und der Punktanzahl ist ungerade.~Die Armanzahl ist gerade, die Punktanzahl ungerade.} </li></ol></p>]]></text>
   </questiontext>
   <defaultgrade>4</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>

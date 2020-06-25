@@ -15,7 +15,7 @@
     <text><![CDATA[<p><B>Classes of Function</B> <BR/> <BR/>The following mapping is given: \(f:A \to B\) with \(x\mapsto x^3+x^2+1\) for all \(x\in A\).<BR/> Its graph is plotted below for values between \(-12\leq x\leq 12\):<BR/> <IMG width=590 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAk4AAAGUCAYAAADDFK0hAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
 BmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAABcRAAAXEQHKJvM/AAAAB3RJTUUH5AYZ 
-BycYL7YiNwAAgABJREFUeNrsnXd4XEWy9n89I41kWZZzzjkbG7DJweSMybDL5pzv 
+CQ4urtQFTwAAgABJREFUeNrsnXd4XEWy9n89I41kWZZzzjkbG7DJweSMybDL5pzv 
 BuIGL5sDm/O9G1hggSXaYHLOmGgMtgHnnJNsZc3090fVQcfCQWcUztSneZ9Hjy2p 
 daZOd3V3dVV1vZBHHnnkkUceeeSRRx555JFHHnnkkUceeeSRRx555JFHHnnkkUce 
 eeSRRx555JFHHnnkkUceeeSRRx555JFHHnnkkUceeeSRRx555JFHHnnkkUceeeSR 
@@ -1124,11 +1124,11 @@ PNF9E65GUCU4ym/uh6I7bG/TkRDssSCsG+ToRQ1B5eWgb2ZU4RBdvXUkBKFcC3ss
 qPtnRYcFNZKiKr8pKnUJg/PLo6J7o0Z3/8r8eSo6wtq+ixEjRowYMWLEiBEjRowY 
 MWLEiBEjRowYMWLEiBEjRowYMWLEiBEjRowYMWLEiBEjRowYMWLEiBEjRowYMWLE 
 iBEjRowYMWLEiBEjRowYMWLEiBEjRowYMWLEiBEjRowYMWLEiBEjBgD/HySO8/dW 
-YTr/AAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTA2LTI1VDA3OjM4OjU1KzAwOjAw 
-0rshXgAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wNi0yNVQwNzozOToyMCswMDow 
-MBTZ1GIAAAA5dEVYdFNvZnR3YXJlAG1hdHBsb3RsaWIgdmVyc2lvbiAzLjAuMywg 
+YTr/AAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTA2LTI1VDA5OjE0OjIxKzAwOjAw 
+lIdZqwAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wNi0yNVQwOToxNDo0MyswMDow 
+MLQq+bkAAAA5dEVYdFNvZnR3YXJlAG1hdHBsb3RsaWIgdmVyc2lvbiAzLjAuMywg 
 aHR0cDovL21hdHBsb3RsaWIub3JnL50Lq6MAAAAASUVORK5CYII= 
-"> <BR/> Use the graph to decide whether the mapping represents a function and to which class of functions it belongs depending on sets \(A\) and \(B\).<BR/> <BR/> (a) For \(A=\mathbb {R},B=\mathbb {R}\) the mapping is {1:MULTICHOICE:no function~a function~an injection~a surjection~=a bijection}.<BR/> (b) For \(A=\mathbb {Z},B=\mathbb {R}\) {1:MULTICHOICE:the mapping is~no function~=an injection~a surjection~a bijection}.<BR/> <BR/> (c) For \(A=\mathbb {R},B=\mathbb {Z}\) the mapping is {1:MULTICHOICE:=no function~a function~an injection~a surjection~a bijection}.<BR/> <BR/></p>]]></text>
+"> <BR/> Use the graph to decide whether the mapping represents a function and to which class of functions it belongs depending on sets \(A\) and \(B\).<BR/> <BR/> (a) For \(A=\mathbb {R},B=\mathbb {R}\) the mapping is {1:MULTICHOICE_S:no function~a function~an injection~a surjection~=a bijection}.<BR/> (b) For \(A=\mathbb {Z},B=\mathbb {R}\) {1:MULTICHOICE_S:the mapping is~no function~=an injection~a surjection~a bijection}.<BR/> <BR/> (c) For \(A=\mathbb {R},B=\mathbb {Z}\) the mapping is {1:MULTICHOICE_S:=no function~a function~an injection~a surjection~a bijection}.<BR/> <BR/></p>]]></text>
   </questiontext>
   <defaultgrade>6</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
@@ -1143,7 +1143,7 @@ aHR0cDovL21hdHBsb3RsaWIub3JnL50Lq6MAAAAASUVORK5CYII=
     <text><![CDATA[<p><B>Classes of Function</B> <BR/> <BR/>The following mapping is given: \(f:A \to B\) with \(x\mapsto \sqrt {|x|}\) for all \(x\in A\).<BR/> Its graph is plotted below for values between \(-12\leq x\leq 12\):<BR/> <IMG width=590 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAk4AAAGUCAYAAADDFK0hAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
 BmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAABcRAAAXEQHKJvM/AAAAB3RJTUUH5AYZ 
-BycextWHAgAAgABJREFUeNrsnXd4XOWx/z9nV829d+MCxmDABtN7r8GAaYEAAUJ6 
+CQ4zzdJplgAAgABJREFUeNrsnXd4XOWx/z9nV829d+MCxmDABtN7r8GAaYEAAUJ6 
 QhJSSbmEm0YCyU1y0zsJJRASwIAJoSW0AKEaG4MBG/feZEu22u6e3x/fOehYyJJ2 
 Je3Z+V19n8ePwXp1dvadeWfmvNOgBz3oQQ960IMe9KAHPehBD3rQgx70oAc96EEP 
 etCDHvSgBz3oQQ960IMe9KAHPehBD3rQgx70oAc96EEPetCDHvSgBz3oQQ960IMe 
@@ -2263,11 +2263,11 @@ LVwQ9YLA0RsttI+YKnqPtCLv6CyRbmHSH1En4LSvb39EvGxhraM+LFFofdA3sARg
 tK97hgwZMmTIkCFDhgwZMmTIkCFDhgwZMmTIkCFDhgwZMmTIkCFDhgwZMmTIkCFD 
 hgwZMmTIkCFDhgwZMmTIkCFDhgwZMmTIkCFDhgwZMmTIkCFDhgwZMmTIkCFDhgwZ 
 MmTIkCFDhgwZ3ob/ByZmxaaRgkDwAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTA2 
-LTI1VDA3OjM4OjU1KzAwOjAw0rshXgAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0w 
-Ni0yNVQwNzozOToyMCswMDowMBTZ1GIAAAA5dEVYdFNvZnR3YXJlAG1hdHBsb3Rs 
+LTI1VDA5OjE0OjIyKzAwOjAwpW9DNgAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0w 
+Ni0yNVQwOToxNDo0MyswMDowMLQq+bkAAAA5dEVYdFNvZnR3YXJlAG1hdHBsb3Rs 
 aWIgdmVyc2lvbiAzLjAuMywgaHR0cDovL21hdHBsb3RsaWIub3JnL50Lq6MAAAAA 
 SUVORK5CYII= 
-"> <BR/> Use the graph to decide whether the mapping represents a function and to which class of functions it belongs depending on sets \(A\) and \(B\).<BR/> <BR/> (a) For \(A=\mathbb {R},B=\mathbb {R}^+_0\) the mapping is {1:MULTICHOICE:no function~a function~an injection~=a surjection~a bijection}.<BR/> (b) For \(A=\mathbb {Z},B=\mathbb {R}^+\) {1:MULTICHOICE:=the mapping is~no function~an injection~a surjection~a bijection}.<BR/> <BR/> (c) For \(A=\mathbb {R}^+,B=\mathbb {R}^+\) the mapping is {1:MULTICHOICE:no function~a function~an injection~a surjection~=a bijection}.<BR/> <BR/></p>]]></text>
+"> <BR/> Use the graph to decide whether the mapping represents a function and to which class of functions it belongs depending on sets \(A\) and \(B\).<BR/> <BR/> (a) For \(A=\mathbb {R},B=\mathbb {R}^+_0\) the mapping is {1:MULTICHOICE_S:no function~a function~an injection~=a surjection~a bijection}.<BR/> (b) For \(A=\mathbb {Z},B=\mathbb {R}^+\) {1:MULTICHOICE_S:=the mapping is~no function~an injection~a surjection~a bijection}.<BR/> <BR/> (c) For \(A=\mathbb {R}^+,B=\mathbb {R}^+\) the mapping is {1:MULTICHOICE_S:no function~a function~an injection~a surjection~=a bijection}.<BR/> <BR/></p>]]></text>
   </questiontext>
   <defaultgrade>6</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
@@ -2282,7 +2282,7 @@ SUVORK5CYII=
     <text><![CDATA[<p><B>Classes of Function</B> <BR/> <BR/>The following mapping is given: \(f:A \to B\) with \(x\mapsto \frac {x}{|x|}\cdot \sqrt {|x|}\) for all \(x\in A\).<BR/> Its graph is plotted below for values between \(-12\leq x\leq 12\):<BR/> <IMG width=590 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAk4AAAGUCAYAAADDFK0hAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
 BmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAABcRAAAXEQHKJvM/AAAAB3RJTUUH5AYZ 
-Byci6br7hQAAgABJREFUeNrsvXeYXNWV7v07VZ2Vc0IoIEQGCYSQEAIEKIFAAkw0 
+CQ43yr+tjwAAgABJREFUeNrsvXeYXNWV7v07VZ2Vc0IoIEQGCYSQEAIEKIFAAkw0 
 yXGc7RkPxtljj2dsHMbjO5654wQmg0kCRDTJBElIgBBRCJRzzupYdb4/1jrWod0K 
 Vd2qU+93630e2ah7q86qvfZee529wgsllFBCCSWUUEIJJZRQQgkllFBCCSWUUEIJ 
 JZRQQgkllFBCCSWUUEIJJZRQQgkllFBCCSWUUEIJJZRQQgkllFBCCSWUUEIJJZRQ 
@@ -3320,11 +3320,11 @@ c2kLZUiGA53bRLw387bod1FnNNG1txaHgmD/C0JA4oqgHhJGZ7BPB1Xx47gmg7kN
 0ES+unxQjyru854gQYIECRIkSJAgQYIECRIkSJAgQYIECRIkSJAgQYIECRIkSJAg 
 QYIECRIkSJAgQYIECRIkSJAgQYIECRIkSJAgQYIECRIkSJAgQYIECRIkSJAgQYIE 
 CRIkSJAgQYIECRIkSJAgQYL98H/8/sbyx4DEGgAAACV0RVh0ZGF0ZTpjcmVhdGUA 
-MjAyMC0wNi0yNVQwNzozODo1NiswMDowMONTO8MAAAAldEVYdGRhdGU6bW9kaWZ5 
-ADIwMjAtMDYtMjVUMDc6Mzk6MjArMDA6MDAU2dRiAAAAOXRFWHRTb2Z0d2FyZQBt 
+MjAyMC0wNi0yNVQwOToxNDoyMiswMDowMKVvQzYAAAAldEVYdGRhdGU6bW9kaWZ5 
+ADIwMjAtMDYtMjVUMDk6MTQ6NDMrMDA6MDC0Kvm5AAAAOXRFWHRTb2Z0d2FyZQBt 
 YXRwbG90bGliIHZlcnNpb24gMy4wLjMsIGh0dHA6Ly9tYXRwbG90bGliLm9yZy+d 
 C6ujAAAAAElFTkSuQmCC 
-"> <BR/> Use the graph to decide whether the mapping represents a function and to which class of functions it belongs depending on sets \(A\) and \(B\).<BR/> <BR/> (a) For \(A=\mathbb {R}\setminus \left \{0\right \},B=\mathbb {R}\setminus \left \{0\right \}\) the mapping is {1:MULTICHOICE:no function~a function~an injection~a surjection~=a bijection}.<BR/> (b) For \(A=\mathbb {Z}\setminus \left \{0\right \},B=\mathbb {R}\setminus \left \{0\right \}\) {1:MULTICHOICE:the mapping is~no function~=an injection~a surjection~a bijection}.<BR/> <BR/> (c) For \(A=\mathbb {N},B=\mathbb {R}\setminus \left \{0\right \}\) the mapping is {1:MULTICHOICE:no function~a function~=an injection~a surjection~a bijection}.<BR/> <BR/></p>]]></text>
+"> <BR/> Use the graph to decide whether the mapping represents a function and to which class of functions it belongs depending on sets \(A\) and \(B\).<BR/> <BR/> (a) For \(A=\mathbb {R}\setminus \left \{0\right \},B=\mathbb {R}\setminus \left \{0\right \}\) the mapping is {1:MULTICHOICE_S:no function~a function~an injection~a surjection~=a bijection}.<BR/> (b) For \(A=\mathbb {Z}\setminus \left \{0\right \},B=\mathbb {R}\setminus \left \{0\right \}\) {1:MULTICHOICE_S:the mapping is~no function~=an injection~a surjection~a bijection}.<BR/> <BR/> (c) For \(A=\mathbb {N},B=\mathbb {R}\setminus \left \{0\right \}\) the mapping is {1:MULTICHOICE_S:no function~a function~=an injection~a surjection~a bijection}.<BR/> <BR/></p>]]></text>
   </questiontext>
   <defaultgrade>6</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
@@ -3339,7 +3339,7 @@ C6ujAAAAAElFTkSuQmCC
     <text><![CDATA[<p><B>Classes of Function</B> <BR/> <BR/>The following mapping is given: \(f:A \to B\) with \(x\mapsto f(x)=\lfloor x\rfloor \), i.e. the largest number \(\leq x\) for all \(x\in A\).<BR/> Its graph is plotted below for values between \(-12\leq x\leq 12\):<BR/> <IMG width=590 SRC="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAk4AAAGUCAYAAADDFK0hAAAABGdBTUEAALGPC/xh 
 BQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA 
 BmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAABcRAAAXEQHKJvM/AAAAB3RJTUUH5AYZ 
-Bycm7tc/nAAAgABJREFUeNrsnXd4XNdx9n9nF1gAJNHYOyWxiRIlUd3qxeqVsiRb 
+CQ8Aaxk5wQAAgABJREFUeNrsnXd4XNdx9n9nF1gAJNHYOyWxiRIlUd3qxeqVsiRb 
 vVmRv8Rx4tiJ5CSOaLollp3YiZ3iot6tQqr33kVJ7KIaey8gGsHFtnu+P+ZcYQWz 
 4C52ce/AeJ8HD0ng8GL2nDlz5s7MmRf60Ic+9KEPfehDH/rQhz70oQ996EMf+tCH 
 PvShD33oQx/60Ic+9KEPfehDH/rQhz70oQ996EMf+tCHPvShD33oQx/60Ic+9KEP 
@@ -4320,11 +4320,11 @@ u+46SMa3GfcDKBOS2lktuLmxHEo3uDN/D6Uzmb8BMqBcjreoQPPAdaMfOurfBPGn
 BXcOmM7IxR9LeiuwtU8kVfBdbgcS0rHmkjOunY59owX3zpIDK7K30NFBI6kBZ+kM 
 9Hg8Ho/H4/F4PB6Px+PxeDwej8fj8Xg8Ho/H4/F4PB6Px+PxeDwej8fj8Xg8Ho/H 
 4/F4PB6Px+PxeDwej8fj8Xg8Ho/H4/F4PB6Px+PxeDz8HxsfaZwDT706AAAAJXRF 
-WHRkYXRlOmNyZWF0ZQAyMDIwLTA2LTI1VDA3OjM4OjU2KzAwOjAw41M7wwAAACV0 
-RVh0ZGF0ZTptb2RpZnkAMjAyMC0wNi0yNVQwNzozOToyMSswMDowMLKu39YAAAA5 
+WHRkYXRlOmNyZWF0ZQAyMDIwLTA2LTI1VDA5OjE0OjIyKzAwOjAwpW9DNgAAACV0 
+RVh0ZGF0ZTptb2RpZnkAMjAyMC0wNi0yNVQwOToxNDo0MyswMDowMLQq+bkAAAA5 
 dEVYdFNvZnR3YXJlAG1hdHBsb3RsaWIgdmVyc2lvbiAzLjAuMywgaHR0cDovL21h 
 dHBsb3RsaWIub3JnL50Lq6MAAAAASUVORK5CYII= 
-"> <BR/> Use the graph to decide whether the mapping represents a function and to which class of functions it belongs depending on sets \(A\) and \(B\).<BR/> <BR/> (a) For \(A=\mathbb {R},B=\mathbb {R}\) the mapping is {1:MULTICHOICE:no function~=a function~an injection~a surjection~a bijection}.<BR/> (b) For \(A=\mathbb {R},B=\mathbb {Z}\) {1:MULTICHOICE:the mapping is~no function~an injection~=a surjection~a bijection}.<BR/> <BR/> (c) For \(A=\mathbb {N},B=\mathbb {Z}\) the mapping is {1:MULTICHOICE:no function~a function~=an injection~a surjection~a bijection}.<BR/> <BR/></p>]]></text>
+"> <BR/> Use the graph to decide whether the mapping represents a function and to which class of functions it belongs depending on sets \(A\) and \(B\).<BR/> <BR/> (a) For \(A=\mathbb {R},B=\mathbb {R}\) the mapping is {1:MULTICHOICE_S:no function~=a function~an injection~a surjection~a bijection}.<BR/> (b) For \(A=\mathbb {R},B=\mathbb {Z}\) {1:MULTICHOICE_S:the mapping is~no function~an injection~=a surjection~a bijection}.<BR/> <BR/> (c) For \(A=\mathbb {N},B=\mathbb {Z}\) the mapping is {1:MULTICHOICE_S:no function~a function~=an injection~a surjection~a bijection}.<BR/> <BR/></p>]]></text>
   </questiontext>
   <defaultgrade>6</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
