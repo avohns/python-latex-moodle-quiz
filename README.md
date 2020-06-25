@@ -9,12 +9,12 @@ Prerequisites
 1. LaTeX packages installed and working:
    1. `moodle` see https://ctan.org/pkg/moodle
    1. `python` see https://github.com/brotchie/python-sty
-1. If you want to include any kind of images (static, dynamic), ImageMagick ( https://imagemagick.org/index.php ) has to be installed and working.
+1. If you want to include any kind of images (static, dynamic), [ImageMagick](https://imagemagick.org/index.php) has to be installed and working.
    
 Usage/Workflow
 ==============
 
-1. Familiarize yourself with the documentation of the `moodle` package, which can be found here: http://mirrors.ctan.org/macros/latex/contrib/moodle/moodle.pdf
+1. Familiarize yourself with the documentation of the `moodle` package, which can be found [here](http://mirrors.ctan.org/macros/latex/contrib/moodle/moodle.pdf).
 1. Open and edit any of the example .tex files in your favourite LaTeX-Editor.
 1. Compile the file with `pdflatex`.
 1. You will get an intermediate .py file, a .pdf file and a -moodle.xml file as a result (and possibly some additional .png files depending on what example you work with). However, for importing your questions into moodle you will only need the -moodle.xml file.
@@ -85,7 +85,7 @@ Shuffling answers in embedded questions
 
 The `moodle` package was written before shuffling answers was introduced for subquestions inside embedded questions in moodle (>= 3.0). 
 
-If you want to use shuffled answers for subquestions inside embedded questions, you have to include another `python` environment below the `quiz` environment inside the TeX document's body to change the questions type directly within the -moodle.xml file (please refer to https://docs.moodle.org/39/en/Embedded_Answers_(Cloze)_question_type#Shuffle_sub_questions for more details on the different types of subquestions). 
+If you want to use shuffled answers for subquestions inside embedded questions, you have to include another `python` environment below the `quiz` environment inside the TeX document's body to change the questions type directly within the -moodle.xml file (please refer to https://bit.ly/2ZbQnTB for more details on the different types of subquestions). 
 
 Let us suppose our xml file is e.g. `example-moodle.xml`and we have a `MULICHOICE` question, we then need to change each occurence of `MULICHOICE` to `MULTICHOICE_S`, which can be achieved with the following bit of code:
 
@@ -101,6 +101,6 @@ Limitations inherited from the usable question types
 
 As the `moodle` package only uses standard moodle question types, the generated questions should be useable on any moodle installation, there are no additional plugins required whatsoever (the MathML filter should be set to active in your moodle installation if you want to display formulas written in TeX code).
 
-These question types come with their own set of limitations. For STEM subjects you might want to check answers for algebraic equivalence, which is simply not possible with these question types. You might want to check out the STACK ( https://moodle.org/plugins/qtype_stack ) or WIRIS ( https://moodle.org/plugins/view.php?id=26 ) plugins for such purposes.
+These question types come with their own set of limitations. For STEM subjects you might want to check answers for algebraic equivalence, which is simply not possible with these question types. You might want to check out the [STACK](https://moodle.org/plugins/qtype_stack) or [WIRIS](https://moodle.org/plugins/view.php?id=26) plugins for such purposes.
 
 
