@@ -27,6 +27,11 @@ How this works
 The basic structure of any of the examples looks like this:
 
 1. You have got your standard LaTeX document (header, body).
+1. The header should call both packages and T1 font encoding if you want to use additional raw HTML (see below):
+<code><pre>\usepackage[T1]{fontenc}
+\usepackage{moodle}
+\usepackage{python}<code>
+</code></pre>
 1. Inside the body you have a `quiz` environment, which is interpreted according to rules defined by the `moodle` package, which interprets and compiles the code into both the usual .pdf-file and an additional -moodle.xml file once `pdflatex` is invoked.
 1. The quiz environment contains a `python` environment that contains at least one main `for` loop. As soon as `pdflatex` is invoked, it in turn invokes Python, which then iterates through the `for` loop several times and dynamically adds a piece of LaTeX code in each of these iterations, which in turn is again interpreted by `pdflatex` and compiled into moodle-xml-code.
 1. The `python` envoirnment contains at least one type of questions envoirnment (multiple-choice, numerical, short answer, essay, matching, cloze, see section 3 of the `moodle` package documentation for details). 
