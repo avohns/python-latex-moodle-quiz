@@ -9,7 +9,7 @@ Prerequisites
 1. LaTeX packages installed and working:
    1. `moodle` see https://ctan.org/pkg/moodle
    1. `python` see https://github.com/brotchie/python-sty
-1. If you want to include any kind of images (static, dynamic), ImageMagick has to be installed and working.
+1. If you want to include any kind of images (static, dynamic), ImageMagick ( https://imagemagick.org/index.php ) has to be installed and working.
    
 Basic Usage
 ===========
@@ -33,7 +33,7 @@ The basic structure of any of the examples looks like this:
     \usepackage{moodle}
     \usepackage{python}
     ```
-1. Inside the body you have a `quiz` environment (see example below), which is interpreted according to rules defined by the `moodle` package, which interprets and compiles the code into both the usual .pdf-file and an additional -moodle.xml file once `pdflatex` is invoked.
+1. Inside the body you have a `quiz` environment (see example below), which is interpreted according to rules defined by the `moodle` package, which interprets and compiles the code into both the usual .pdf file and an additional -moodle.xml file once `pdflatex` is invoked.
     ```latex
     \begin{quiz}{quiz title}
       ...
@@ -77,7 +77,7 @@ In my experience, it is advisable to strictly stick to png files, as the convers
 Shuffling answers in embedded questions
 ---------------------------------------
 
-The `moodle` package was written before shuffling answers was introduced for subquestions inside embedded questions in moodle (>= 3.0). If you want to use shuffled answers for subquestions inside embedded questions, you have to include another `python` environment below the `quiz` environment inside the TeX document's body to change the questions type directly within the -moodle.xml file (please refer to https://docs.moodle.org/39/en/Embedded_Answers_(Cloze)_question_type#Shuffle_sub_questions for more details on the different types of sub questions). Suppose our xml file is `example-moodle.xml`and we have a `MULICHOICE` question we need to change each occurence to `MULTICHOICE_S`, which can be done with the following bit of code:
+The `moodle` package was written before shuffling answers was introduced for subquestions inside embedded questions in moodle (>= 3.0). If you want to use shuffled answers for subquestions inside embedded questions, you have to include another `python` environment below the `quiz` environment inside the TeX document's body to change the questions type directly within the -moodle.xml file (please refer to https://docs.moodle.org/39/en/Embedded_Answers_(Cloze)_question_type#Shuffle_sub_questions for more details on the different types of subquestions). Suppose our xml file is `example-moodle.xml`and we have a `MULICHOICE` question we need to change each occurence to `MULTICHOICE_S`, which can be done with the following bit of code:
 
 ```python
 with open("example-moodle.xml", "rt") as fin:
