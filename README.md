@@ -39,7 +39,7 @@ The basic structure of any of the examples looks like this:
       ...
     \end{quiz}
     ```
-1. The quiz environment contains a `python` environment contains at least one main `for` loop (see example below). As soon as `pdflatex` is invoked, it in turn invokes Python, which then iterates through the `for` loop several times and dynamically adds a piece of LaTeX code in each of these iterations, which in turn is again interpreted by `pdflatex` and compiled into moodle-xml-code.
+1. The `quiz` environment contains a `python` environment contains at least one main `for` loop (see example below). As soon as `pdflatex` is invoked, it in turn invokes Python, which then iterates through the `for` loop several times and dynamically adds a piece of LaTeX code in each of these iterations, which in turn is again interpreted by `pdflatex` and compiled into moodle-xml-code.
     ```latex
     \begin{python}
     for x in range(2,10):
