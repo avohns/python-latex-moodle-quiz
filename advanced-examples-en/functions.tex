@@ -1,0 +1,82 @@
+\documentclass[a4paper,11pt]{article}
+\usepackage[scaled]{helvet}
+\usepackage{txfonts}
+\usepackage{mathptmx} 
+\usepackage[T1]{fontenc}
+\usepackage{moodle}
+\usepackage[margin=2cm]{geometry}
+\usepackage{python}
+\usepackage{graphicx}
+\moodleset{ppi=150}
+\begin{document}
+\begin{quiz}{Functions (Classes)}
+
+\begin{python}
+import matplotlib.pyplot as plt                             
+import numpy as np
+
+ 
+def relation(a,b,funktion): 
+  i,t=1,set()      
+  while i<=b:      
+    if eval(funktion):
+      t.add(i)     
+    i+=1           
+  return list(t)   
+
+def plot(a,what):
+  alle_y,alle_x=[],[]               
+  for i in range(-(a+1),a+1):       
+    if what[0]==3 and i==0:
+      i+=1
+    if eval(what[1])==round(eval(what[1])):
+          alle_x.append(i)
+          alle_y.append(eval(what[1])) 
+  yunten = min(alle_y)-0.125
+  yoben = max(alle_y)+0.125
+  plt.figure(figsize=[9.5,6.5])
+  plt.xticks(np.arange(-14, 14, step=2))
+  i = np.arange(-12.125, 12.125, 0.01)
+  s = eval(what[1])
+  plt.plot(i,s)
+  plt.plot(alle_x, alle_y,'o')      
+  plt.ylim(yunten,yoben)
+  plt.xlim(-12.125,12.125)
+  plt.grid(True, linestyle='--')
+  plt.tight_layout()
+  plt.savefig(pngfile,dpi=150,quality=95,transparent=True) 
+  return [alle_x,alle_y]
+
+a=[[1,"i**3+i**2+1",r"x^3+x^2+1",r"$A=\mathbb{R},B=\mathbb{R}$",['','','','','*'],r"$A=\mathbb{Z},B=\mathbb{R}$",['','','*','',''],r"$A=\mathbb{R},B=\mathbb{Z}$",['*','','','','']],
+  [2,"np.sqrt(abs(i))",r"\sqrt{|x|}",r"$A=\mathbb{R},B=\mathbb{R}^+_0$",['','','','*',''],r"$A=\mathbb{Z},B=\mathbb{R}^+$",['*','','','',''],r"$A=\mathbb{R}^+,B=\mathbb{R}^+$",['','','','','*']],
+  [3,"i/abs(i)*np.sqrt(abs(i))",r"\frac{x}{|x|}\cdot \sqrt{|x|}",r"$A=\mathbb{R}\setminus\left\{0\right\},B=\mathbb{R}\setminus\left\{0\right\}$",['','','','','*'],r"$A=\mathbb{Z}\setminus\left\{0\right\},B=\mathbb{R}\setminus\left\{0\right\}$",['','','*','',''],r"$A=\mathbb{N},B=\mathbb{R}\setminus\left\{0\right\}$",['','','*','','']],
+  [4,"np.floor(i)",r"f(x)=\lfloor x\rfloor$, i.e. the largest number $\leq x",r"$A=\mathbb{R},B=\mathbb{R}$",['','*','','',''],r"$A=\mathbb{R},B=\mathbb{Z}$",['','','','*',''],r"$A=\mathbb{N},B=\mathbb{Z}$",['','','*','','']]
+  ]
+
+
+for x in a:
+  pngfile='plot-fkt-'+str(x[0])+'.png'
+  plot(12,x)
+  print(rf"""\begin{{cloze}}[points=6]{{Function Classes ({x[0]})}}
+  \textbf{{Classes of Function}} \\ \\The following mapping is given: $f:A \to B$ with $x\mapsto {x[2]}$ for all $x\in A$.\\ Its graph ist plotte below for values between $-12\leq x\leq 12$:\\  \includegraphics[width=10cm]{{{pngfile}}}  \\
+  Use the graph to decide whether the mapping represents a function and to which class of functions it belongs depending on sets $A$ and $B$.\\  
+  \begin{{multi}}[single]
+  \\ (a) For {x[3]} the mapping is \item {x[4][0]} no function \item {x[4][1]} a function \item {x[4][2]} an injection \item {x[4][3]} a surjection \item {x[4][4]} a bijection
+  \end{{multi}}.\\
+  \begin{{multi}}[single]
+  (b) For {x[5]} \item {x[6][0]} the mapping is \item {x[6][1]} no function \item {x[6][2]} an injection \item {x[6][3]} a surjection \item {x[6][4]} a bijection
+  \end{{multi}}.\\ 
+  \begin{{multi}}[single]
+  \\ (c) For {x[7]} the mapping is \item {x[8][0]} no function \item {x[8][1]} a function \item {x[8][2]} an injection \item {x[8][3]} a surjection \item {x[8][4]} a bijection
+  \end{{multi}}.\\ \\ 
+  \end{{cloze}} \newpage""")
+\end{python}	
+\end{quiz}
+\begin{python}
+with open("functions-moodle.xml", "rt") as fin:
+    with open("funktions-shuffled-moodle.xml", "wt") as fout:
+        for line in fin:
+            fout.write(line.replace('{multi}CHOICE:', '{multi}CHOICE_S:'))
+\end{python}
+
+\end{document}

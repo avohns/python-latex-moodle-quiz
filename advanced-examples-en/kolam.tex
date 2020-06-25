@@ -1,4 +1,4 @@
-\documentclass[ngerman,a4paper,10pt]{article}
+\documentclass[a4paper,10pt]{article}
 \usepackage{moodle}
 \usepackage{python}
 \usepackage[margin=2cm]{geometry}
@@ -6,8 +6,8 @@
 \usepackage{graphicx}
 \moodleset{ppi=150}
 \begin{document}
-\begin{quiz}{Ethnomathematik (Kolam)}
-% Bitte beachten Sie: Für dieses Beispiel werden die png-Dateien im Unterordner /kolam verwendet, die mit dem Skript kolam.py erstellt/angepasst werden können.
+\begin{quiz}{Ethnomathematics (Kolam)}
+% Please note: This example uses the png files in the /kolam subfolder, which can be created/customized with the kolam.py script.
 \begin{python}
 a=[[[1,4,2,5,3],[1,2,3,4,5],[1,4,2,3,5],[1,2,4,3,5]],
   [[2,4,1,5,3],[2,1,3,4,5],[2,4,1,3,5],[2,3,4,1,5]],
@@ -30,8 +30,8 @@ for x in a:
     yimg=y.copy()
     yimg=[z-1 for z in yimg]
     pngfile.append('kolam/kolam-'+''.join(map(str, yimg))+'.png')
-  print(rf"""\begin{{cloze}}[points=4]{{Ethnomathematik: Kolam (Version {c})}}
-  \textbf{{Ethnomathematik: Kolam}}\\ Ein Kolam ist eine in einem einzigen Linienzug durchf\"uhrbare, regelgeleitet erstellte Kreidezeichnung, wie sie sich noch heute bei den s\"udindischen Tamilen als ethnomathematische Praxis auffinden l\"asst. \\ Unten sind mehrere solche Kolam mit 8 Armen zu je 5 Punkten in vereinfachter Form abgebildet.\\ \\ <ol type=a><li>Wenn man mit dem Z\"ahlen der Punkte beim innersten Punkt des nach oben zeigenden Arms beginnt, welches Bild steht dann f\"ur die links herum abgelaufene Punktfolge $<{str(x[0]).strip('[]')}>$?  \\
+  print(rf"""\begin{{cloze}}[points=4]{{Ethnomathematics: Kolam (Version {c})}}
+  \textbf{{Ethnomathematitcs: Kolam}}\\ Kolams are an ethnomathematical practice that is still common in southern India. A kolam is a chalk drawing that can be executed in a single line and is created according to a set of rules.\\ Below several such kolams with 8 arms of 5 points each are shown in a simplified form.\\ \\ <ol type=a><li>If you start counting the points at the innermost point of the upward pointing arm, which picture stands for the counterclockwise sequence of points $<{str(x[0]).strip('[]')}>$?  \\
   \begin{{multi}}[single,horizontal,points=2]
    \item \includegraphics[width=3.5cm]{{{pngfile[1]}}}
    \item* \includegraphics[width=3.5cm]{{{pngfile[0]}}}
@@ -39,10 +39,10 @@ for x in a:
    \item \includegraphics[width=3.5cm]{{{pngfile[2]}}}
   \end{{multi}}</li>
   \begin{{multi}}[single,points=2]
-  \\ <li> Ein Kolam kann genau dann in einem Zug gezeichnet werden, wenn f\"ur die Anzahl der Arme und die Anzahl der Punkte auf einem Arm gilt: \item* Die beiden Anzahlen sind teilerfremd.
-   \item Es gibt mehr Arme als Punkte je Arm.
-   \item Die Differenz der Armanzahl und der Punktanzahl ist ungerade.
-   \item Die Armanzahl ist gerade, die Punktanzahl ungerade.
+  \\ <li> A kolam can be drawn in a single line if the following holds true for the number of arms and the number of points on an arm: \item* The two numbers are coprime.
+   \item There are more arms than points per arm.
+   \item The difference between the number of arms and the number of points is odd.
+   \item The number of arms is even, the number of points odd.
   \end{{multi}} </li></ol>
   \end{{cloze}}\newpage """)
 \end{python}	
