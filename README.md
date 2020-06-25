@@ -27,7 +27,7 @@ How this works
 The basic structure of any of the examples looks like this:
 
 1. You have got your standard LaTeX document (header, body).
-1. The header should call both packages and T1 font encoding if you want to use additional raw HTML (see below):
+1. The header should call both packages and, if you want to use additional raw HTML, choose T1 font encoding  (see below):
     ```latex 
     \usepackage[T1]{fontenc}
     \usepackage{moodle}
@@ -39,14 +39,14 @@ The basic structure of any of the examples looks like this:
       ...
     \end{quiz}
     ```
-1. The quiz environment contains a `python` environment that contains at least one main `for` loop (see example below). As soon as `pdflatex` is invoked, it in turn invokes Python, which then iterates through the `for` loop several times and dynamically adds a piece of LaTeX code in each of these iterations, which in turn is again interpreted by `pdflatex` and compiled into moodle-xml-code.
+1. The quiz environment contains a `python` environment contains at least one main `for` loop (see example below). As soon as `pdflatex` is invoked, it in turn invokes Python, which then iterates through the `for` loop several times and dynamically adds a piece of LaTeX code in each of these iterations, which in turn is again interpreted by `pdflatex` and compiled into moodle-xml-code.
     ```latex
     \begin{python}
     for x in range(2,10):
       ...
     \end{python}
     ```
-1. The `python` envoirnment contains at least one type of questions envoirnment (multiple-choice, numerical (see example below), short answer, essay, matching, embedded answers (cloze), see section 3 of the `moodle` package documentation for details). 
+1. The `python` envoirnment contains at least one `print` command with a multiline f-string that includes at least one type of questions envoirnment (multiple-choice, numerical (see example below), short answer, essay, matching, embedded answers (cloze), see section 3 of the `moodle` package documentation for details). 
     ```python
     print(rf"""\begin{{numerical}}
       ${x} + {y} =$
