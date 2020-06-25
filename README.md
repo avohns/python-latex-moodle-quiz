@@ -41,10 +41,10 @@ for x in range(2,10):
   ...
 \end{python}</code></pre>
 1. The `python` envoirnment contains at least one type of questions envoirnment (multiple-choice, numerical (see example below), short answer, essay, matching, cloze, see section 3 of the `moodle` package documentation for details). 
-<code><pre>\begin{{numerical}}
+<code><pre>print(rf"""\begin{{numerical}}
   ${x} + {y} =$
   \item {x+y} 
-\end{{numerical}}</code></pre>
+\end{{numerical}}""")</code></pre>
 1. Each question cointains some variables (e.g. `x`and `y`in the example above) which are dynamically changed with each iteration of the `for` loop creating a different question with each iteration.
 
 Limitations
