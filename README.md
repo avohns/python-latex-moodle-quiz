@@ -55,8 +55,8 @@ The basic structure of any of the examples looks like this:
     ```
 1. Each question contains some variables (e.g. `x`and `y`in the example above) which are dynamically changed with each iteration of the `for` loop creating a different question with each iteration.
 
-Limitations
-===========
+Known Limitations
+=================
 
 Restrictions on interpreted LaTeX commands
 ------------------------------------------
@@ -85,6 +85,12 @@ with open("example-moodle.xml", "rt") as fin:
     for line in fin:
       fout.write(line.replace('MULTICHOICE:', 'MULTICHOICE_S:'))
 ```
+
+Limitations inherited from the usable question types
+----------------------------------------------------
+
+As the `moodle` package only uses standard moodle question types, the generated questions should be useable on any moodle installation, there are no additional plugins required whatsoever (the MathML filter should be set to active in your moodle installation if you want to display formulas written in TeX code).
+These question types comes with their own set of limitations. For STEM subjects you might want to check answers for algebraic equivalence of answers which is simply not possible with these question types. You might want to check out the STACK ( https://moodle.org/plugins/qtype_stack ) or WIRIS ( https://moodle.org/plugins/view.php?id=26 ) plugins for such purposes.
 
 Encoding/Umlauts
 ----------------
