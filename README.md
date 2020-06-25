@@ -28,11 +28,11 @@ The basic structure of any of the examples looks like this:
 
 1. You have got your standard LaTeX document (header, body).
 1. The header should call both packages and T1 font encoding if you want to use additional raw HTML (see below):
-```latex 
-\usepackage[T1]{fontenc}
-\usepackage{moodle}
-\usepackage{python}
-```
+    ```latex 
+    \usepackage[T1]{fontenc}
+    \usepackage{moodle}
+    \usepackage{python}
+    ```
 1. Inside the body you have a `quiz` environment (see example below), which is interpreted according to rules defined by the `moodle` package, which interprets and compiles the code into both the usual .pdf-file and an additional -moodle.xml file once `pdflatex` is invoked.
 ```latex
 \begin{quiz}{quiz title}
