@@ -53,7 +53,7 @@ The basic structure of any of the examples looks like this:
       \item {x+y} 
     \end{{numerical}}""")
     ```
-1. Each question cointains some variables (e.g. `x`and `y`in the example above) which are dynamically changed with each iteration of the `for` loop creating a different question with each iteration.
+1. Each question contains some variables (e.g. `x`and `y`in the example above) which are dynamically changed with each iteration of the `for` loop creating a different question with each iteration.
 
 Limitations
 ===========
