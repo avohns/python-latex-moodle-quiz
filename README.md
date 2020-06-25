@@ -18,7 +18,7 @@ Basic Usage
 1. Open and edit any of the example .tex files in your favourite LaTeX-Editor.
 1. Compile the file with `pdflatex`.
 1. You will get an intermediate .py file, a .pdf file and a -moodle.xml file as a result (and possibly some additional .png files depending on what example you work with). However, for importing your questions into moodle you will only need the -moodle.xml file.
-1. Import the -moodle.xml file file to your question bank within moodle. If not specified otherwise, all questions will be stored inside a category which is named according to the quiz title used in the respective .tex file.
+1. Import the -moodle.xml file into your question bank within moodle. If not specified otherwise, all questions will be stored inside a category which is named according to the quiz title used in the respective .tex file.
 1. Create a quiz activity and choose a random question from the respective category.
 
 How this works
