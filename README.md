@@ -45,7 +45,7 @@ If you want to use additional HTML for layout purposes (e.g. lists or tables), y
 Graphics
 --------
 
-It ist both possible to include static images and to create images dynamically using `python` (even tikZ may be invoked). Any images included will be converted into .png files, which in turn are base64 encoded and directly included into the -moodle.xml file during compilation. 
+It is both possible to include static images and to create images dynamically using `python` (even tikZ may be invoked). Any images included will be converted into .png files, which in turn are base64 encoded and directly included into the -moodle.xml file during compilation. 
 
 You should specify the image dimensions (width, height in either cm or inch) and the conversion depends on a dpi setting (if not defined specifically, 103 dpi will be used as a defualt value). Please refer to section 5 of the `moodle` package documentation for more details. 
 
