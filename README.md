@@ -1,7 +1,7 @@
 # python-latex-moodle-quiz
 These are some examples/templates for batch generating parameterized moodle quiz questions (includig both cloze and essay type questions) using the `moodle` and `python` packages for LaTeX.
 
-[Zur deutschen Version dieses README wechseln](https://github.com/avohns/python-latex-moodle-quiz)
+[Zur deutschen Version dieses README wechseln](https://github.com/avohns/python-latex-moodle-quiz/blob/master/README-GER.md)
 
 Prerequisites
 =============
