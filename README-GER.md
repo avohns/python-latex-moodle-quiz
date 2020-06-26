@@ -2,7 +2,7 @@
 
 Hier finden Sie einige Beispiele/Vorlagen zur Batch-Erzeugung parametrisierter Fragen (inklusive Lückentext- und Freitext-Fragen) für die Test-Aktivität in Moodle, die die Paketen`moodle` und `python` für LaTeX nutzen.
 
-[Switch to the English of this README](https://github.com/avohns/python-latex-moodle-quiz)
+[Switch to the English version of this README](https://github.com/avohns/python-latex-moodle-quiz)
 
 Voraussetzungen
 ===============
