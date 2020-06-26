@@ -1,63 +1,64 @@
 # python-latex-moodle-quiz
-These are some examples/templates for batch generating parameterized moodle quiz questions (includig both cloze and essay type questions) using the `moodle` and `python` packages for LaTeX.
 
-[Zur deutschen Version dieses README wechseln](https://github.com/avohns/python-latex-moodle-quiz)
+Hier finden Sie einige Beispiele/Vorlagen zur Batch-Erzeugung parametrisierter Fragen (inklusive Lückentext- und Freitext-Fragen) für die Test-Aktivität in Moodle, die die Paketen`moodle` und `python` für LaTeX nutzen.
 
-Prerequisites
-=============
+[Switch to the English of this README](https://github.com/avohns/python-latex-moodle-quiz)
 
-1. LaTeX installed and working
-1. Python (>=3.6) installed and working
-1. LaTeX packages installed and working:
+Voraussetzungen
+===============
+
+1. Eine lauffähige LaTeX-Installation
+1. Eine lauffähige Installation von Python (>=3.6)
+1. Die folgenden Pakete müssen für LaTeX installiert sein:
    1. `moodle` see https://ctan.org/pkg/moodle
    1. `python` see https://github.com/brotchie/python-sty
-1. If you want to include any kind of images (static, dynamic), [ImageMagick](https://imagemagick.org/index.php) has to be installed and working.
+1. Wenn Sie in irgendeiner Art Bilder (statisch, dynamisch) einbinden wollen, dann benötigen Sie eine lauffähige Installation von [ImageMagick](https://imagemagick.org/index.php).
    
-Usage/Workflow
-==============
+Benutzung/Workflow
+==================
 
-The folders `simple-examples-ger` and `simple-examples-eng` contain more straightforward minimal examples (in either English or German), the `àdvanced-examples-`-Folders contain some actual use cases from my university teaching in the teacher education program.
+Die Ordner `simple-examples-ger` und `simple-examples-eng` enthalten einfache Demonstrationen/Minimalbeispiele (in englischer bzw. deutscher Sprache), die `àdvanced-examples-`-Ordner enthalten einige praktisch in meiner Tätgkeit in der Mathematiklehrerbildung eingesetzte Fallbeispiele.
 
-1. Familiarize yourself with the documentation of the `moodle` package, which can be found [here](http://mirrors.ctan.org/macros/latex/contrib/moodle/moodle.pdf).
-1. Open and edit any of the example .tex files in your favourite LaTeX-Editor.
-1. Compile the file with `pdflatex`.
-1. You will get an intermediate .py file, a .pdf file and a -moodle.xml file as a result (and possibly some additional .png files depending on what example you work with). However, for importing your questions into moodle you will only need the -moodle.xml file.
-1. Import the -moodle.xml file into your question bank within moodle. If not specified otherwise, all questions will be stored inside a category which is named according to the quiz title used in the respective .tex file.
+1. Machen Sie sich mit der Dokumentation des Paketes `moodle` vertraut, die Sie [hier](http://mirrors.ctan.org/macros/latex/contrib/moodle/moodle.pdf) finden können.
+1. Öffnen und bearbeiten Sie eines der TeX-Beispieldokumente in ihrem bevorzugten LaTeX-Editor.
+1. Kompilieren Sie die Datei mit `pdflatex`.
+1. Sie erhalten als Ergebnis eine intermediäre .py-Datei, eine .pdf-Datei und eine -moodle.xml Datei (und je nach Beispiel u.U. auch noch einige .png-Dateien). Für den Import nach Moodle benötigen Sie allerdings nur die -moodle.xml Datei.
+1. Importieren Sie die -moodle.xml Datei in Ihre Fragensammlung in Moodle. Falls nicht anders angegeben, werden alle Fragen automatisch in eine neue Kategorie importiert, deren Name mit dem Titel des Quizzes in der .tex-Datei übereinstimmt.
 1. Create a quiz activity and choose a random question from the respective category.
 
-How this works
-==============
+Wie das Ganze funktioniert
+==========================
 
-The basic structure of any of the examples looks like this:
+Die grundlegende Struktur aller Beispiele schaut in etwas so aus:
 
-1. You have got your standard LaTeX document (header, body).
-1. The header should call both packages and, if you want to use additional raw HTML, choose T1 font encoding  (see below):
+1. Wir haben eine gewöhnliche LaTeX Datei mit Header und Body.
+1. Im Header sollten die beiden genannten Pakete aufgerufen werden, zusätzlich noch das T1 Font-Encoding, falls Sie rohes HTML in die Datei schreiben wollen (s. unten):
     ```latex 
     \usepackage[T1]{fontenc}
     \usepackage{moodle}
     \usepackage{python}
     ```
-1. Inside the body you have a `quiz` environment (see example below), which is interpreted according to rules defined by the `moodle` package, which interprets and compiles the code into both the usual .pdf file and an additional -moodle.xml file once `pdflatex` is invoked.
+1. Innerhalb des Bodys haben wir eine `quiz`-Umgebung (s. Beispiel unten), welche beim Kompilieren mit `pdflatex` durch das `moodle`-Paket interpretiert wird und neben der gewohnten .pdf-Datei zusätzlich eine -moodle.xml-Datei erzeugt.
     ```latex
     \begin{quiz}{quiz title}
       ...
     \end{quiz}
     ```
-1. The `quiz` environment contains a `python` environment contains at least one main `for` loop (see example below). As soon as `pdflatex` is invoked, it in turn invokes Python, which then iterates through the `for` loop several times and dynamically adds a piece of LaTeX code in each of these iterations, which in turn is again interpreted by `pdflatex` and compiled into moodle-xml-code.
+1. Die `quiz`-Umgebung enthät ihrerseits eine `python`-Umgebung, die wenigstens eine zentrale `for`-Schleife enthält (s. Beispiel unten). Sobald `pdflatex` aufgerufen wird, ruft dieses nun seinerseits Python auf, welches mehrfach durch die `for`-Schleife iteriert und dabei in jeder Iteration dynamisch ein Stück LaTeX-Code ergänzt, das dann wieder durch `pdflatex`interpretiert und in die .pdf- und -moodle.xml-Datei integriert wird.
     ```latex
     \begin{python}
     for x in range(2,10):
       ...
     \end{python}
     ```
-1. The `for` loop contains at least one `print` command with a multiline f-string that includes at least one type of questions envoirnment (multiple-choice, numerical (see example below), short answer, essay, matching, embedded answers (cloze), see section 3 of the `moodle` package documentation for details). 
+1. Die `for`-Schleife enthält wenigstens einen `print`-Befehl mit einem Multiline-f-String, der wenigstens eine Fragenumgebung enthält (Multiple-Choice, Numerisch (s. Beispiel unten), Kurzantwort, Freitext, Zuordnung, Lückentext (Cloze), vgl. Abschnitt 3 der Dokumentation des `moodle`-Paketes für weitere Details). 
     ```python
     print(rf"""\begin{{numerical}}
       ${x} + {y} =$
       \item {x+y} 
     \end{{numerical}}""")
     ```
-1. Each question contains some variables (e.g. `x`and `y`in the example above) which are dynamically changed with each iteration of the `for` loop creating a different question with each iteration.
+1. Jede der Fragen enthält einige Variablen (z.B. `x`und `y`im Beispiel oben), für welche mit jedem Durchlauf der `for`-Schleife verschiedene Werte eingesetzt werden, was mit jedem Durchlauf eine neue Frage erzeugt.
 
 Known Limitations
 =================
