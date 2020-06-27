@@ -32,9 +32,10 @@ Wie das Ganze funktioniert
 Die grundlegende Struktur aller Beispiele schaut in etwas so aus:
 
 1. Wir haben eine gewöhnliche LaTeX Datei mit Header und Body.
-1. Im Header sollten die beiden genannten Pakete aufgerufen werden, zusätzlich noch das T1 Font-Encoding, falls Sie rohes HTML in die Datei schreiben wollen (s. unten):
+1. Im Header sollten die beiden genannten Pakete aufgerufen werden, zusätzlich noch das T1 Font-Encoding, falls Sie rohes HTML in die Datei schreiben wollen, und `graphicx`, wenn Sie Bilder verwenden möchten (s. unten):
     ```latex 
     \usepackage[T1]{fontenc}
+	\usepackage{graphicx}
     \usepackage{moodle}
     \usepackage{python}
     ```
@@ -70,19 +71,20 @@ Die Anzahl der LaTeX-Befehle, welche bei Erzeugung der -moodle.xml-Datei in ents
 
 Wenn Sie weitere HTML Tags etwa für Layout-Zwecke (etwas: Listen, Tabellen) nutzen wollen, können Sie diese direkt als HTML-Code eingeben. Leider erscheint dieser rohe HTML-Code dann auch uninterpretiert in der erzeugten PDF-Datei.
 
-Graphics
+Grafiken
 --------
 
-It is both possible to include static images and to create images dynamically using `python` (even tikZ may be invoked). Any images included will be converted into .png files, which in turn are base64 encoded and directly included into the -moodle.xml file during compilation. 
+Es ist sowohl möglich statiosche, vorab erstellte Bilder wie auch dynamische, zur Laufzeit etwa via `python` erstellte Bilder einzubinden (es kann auch tikZ aufgerufen werden). Alle einzubindenden Bilder werden in .png-Dateien umgewandelt, die dann ihrerseits während der Kompilierung base64-codiert und direkt in die -moodle.xml-Datei eingebettet werden.
 
-You should specify the image dimensions (width, height in either cm or inch) and the conversion depends on a dpi setting (if not defined specifically, 103 dpi will be used as a default). Please refer to section 5 of the `moodle` package documentation for more details. 
+Sie sollten die Abmessungen der Grafik (Breite, Höhe in cm oder inch) angeben und die Konvertierung basiert auf einer DPI-Einstellung (falls nicht ausdrücklich anders angegeben, wird 103 DPI als Standardwert verwendet). Details entnehmen Sie bitte Abschnitt 5 der Dokumentation des Paketes `moodle`.
 
-In my experience, it is advisable to strictly stick to png files, as the conversion via ImageMagick implemented by the `moodle` package is a bit prone to errors.
+Meiner Erfahrung nach empfiehlt es sich, sich von vorneherein auf .png-Dateien zu beschränken, da die Umwandlung mit ImageMagick, wie sie durch das Paket `moodle` realisiert ist, für andere Formate etwas fehleranfällig ist.
 
-Encoding/Umlauts
+
+Encoding/Umlaute
 ----------------
 
-The `moodle` package does not play nicely with utf8 text encoding, when e.g. writing examples in German, you will need to write umlauts (Ä, Ö, Ü, ä, ö, ü, ß) in code (`\"A, \"O, \"U, \"a, \"o, \"u und \ss{}`).
+Das `moodle`-Paket veträgt sich leider nicht mit UTF8-Text-Encoding. Wollen Sie Beispiele in deutscher Sprache verfassen, so muss man daher alle Umlaute (Ä, Ö, Ü, ä, ö, ü, ß) als TeX-Code eingeben (`\"A, \"O, \"U, \"a, \"o, \"u und \ss{}`).
 
 
 Shuffling answers in embedded questions

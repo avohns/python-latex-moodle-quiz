@@ -31,9 +31,10 @@ How this works
 The basic structure of any of the examples looks like this:
 
 1. You have got your standard LaTeX document (header, body).
-1. The header should call both packages and, if you want to use additional raw HTML, choose T1 font encoding  (see below):
+1. The header should call both packages and, if you want to use additional raw HTML, choose T1 font encoding. If you want to use images, also include the `graphicx` package (see below):
     ```latex 
     \usepackage[T1]{fontenc}
+	\usepackage{graphicx}
     \usepackage{moodle}
     \usepackage{python}
     ```
