@@ -105,7 +105,7 @@ with open("example-moodle.xml", "rt") as fin:
 Vererbte Einschränkungen der benutzbaren Fragetypen
 --------------------------------------------------
 
-Da das Paket `moodle`lediglich Stnadrad-Fragetypen von Moodle nutz, sollten alle erzeugten Fragen auf jeder Moodle-Installation lauffähig sein, es werden keinerlei weitere Plugins benötigt (der MathML-Filter muss aktiviert sein, wenn Sie Formeln im LaTeX-Code verwenden wollen).
+Da das Paket `moodle`lediglich Standrad-Fragetypen von Moodle nutzt, sollten alle erzeugten Fragen auf jeder Moodle-Installation lauffähig sein. Es werden keinerlei zusätzliche Plugins benötigt (der MathML-Filter muss aktiviert sein, wenn Sie Formeln im LaTeX-Code verwenden wollen).
 
 Diese Fragetypen kommen mit ihren ganz eigenen Einschränkungen. Für MINT-Fächer möchten Sie unter Umständen Antworten auf algebraische Äquivalenz prüfen, was mit diesen Fragetypen schlicht unmöglich ist. Wenn Sie eine solche Überprüfung benötigen, sollten  Sie sich die Plugins [STACK](https://moodle.org/plugins/qtype_stack) or [WIRIS](https://moodle.org/plugins/view.php?id=26) ansehen.
 
