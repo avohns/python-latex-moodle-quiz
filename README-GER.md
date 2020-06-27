@@ -102,7 +102,7 @@ with open("example-moodle.xml", "rt") as fin:
       fout.write(line.replace('MULTICHOICE:', 'MULTICHOICE_S:'))
 ```
 
-Vererbte Einschräkungen der benutzbaren Fragetypen
+Vererbte Einschränkungen der benutzbaren Fragetypen
 --------------------------------------------------
 
 Da das Paket `moodle`lediglich Stnadrad-Fragetypen von Moodle nutz, sollten alle erzeugten Fragen auf jeder Moodle-Installation lauffähig sein, es werden keinerlei weitere Plugins benötigt (der MathML-Filter muss aktiviert sein, wenn Sie Formeln im LaTeX-Code verwenden wollen).
