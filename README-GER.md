@@ -60,15 +60,15 @@ Die grundlegende Struktur aller Beispiele schaut in etwas so aus:
     ```
 1. Jede der Fragen enthält einige Variablen (z.B. `x`und `y`im Beispiel oben), für welche mit jedem Durchlauf der `for`-Schleife verschiedene Werte eingesetzt werden, was mit jedem Durchlauf eine neue Frage erzeugt.
 
-Known Limitations
-=================
+Bekannte Einschränkungen
+========================
 
-Restrictions on interpreted LaTeX commands
-------------------------------------------
+Einschränkungen der übersetzen LaTeX Befehle
+--------------------------------------------
 
-The set of LaTeX commands getting converted to HTML and included in the resulting -moodle.xml file is limited (please refer to section 4 of the `moodle` package documentation for details). 
+Die Anzahl der LaTeX-Befehle, welche bei Erzeugung der -moodle.xml-Datei in entsprechende HTML Tags umgewandelt werden ist beschränkt (Details können der Abschnitt 4 der Dokumentation des Paketes `moodle` entnommen werden). 
 
-If you want to use additional HTML for layout purposes (e.g. lists or tables), you can include raw HTML inside your LaTeX document. Unfortunately, the raw HTML code will also be visible in the resulting PDF document.
+Wenn Sie weitere HTML Tags etwa für Layout-Zwecke (etwas: Listen, Tabellen) nutzen wollen, können Sie diese direkt als HTML-Code eingeben. Leider erscheint dieser rohe HTML-Code dann auch uninterpretiert in der erzeugten PDF-Datei.
 
 Graphics
 --------
