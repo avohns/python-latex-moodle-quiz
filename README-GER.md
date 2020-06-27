@@ -102,11 +102,11 @@ with open("example-moodle.xml", "rt") as fin:
       fout.write(line.replace('MULTICHOICE:', 'MULTICHOICE_S:'))
 ```
 
-Limitations inherited from the usable question types
-----------------------------------------------------
+Vererbte Einschräkungen der benutzbaren Fragetypen
+--------------------------------------------------
 
-As the `moodle` package only uses standard moodle question types, the generated questions should be useable on any moodle installation, there are no additional plugins required whatsoever (the MathML filter should be set to active in your moodle installation if you want to display formulas written in TeX code).
+Da das Paket `moodle`lediglich Stnadrad-Fragetypen von Moodle nutz, sollten alle erzeugten Fragen auf jeder Moodle-Installation lauffähig sein, es werden keinerlei weitere Plugins benötigt (der MathML-Filter muss aktiviert sein, wenn Sie Formeln im LaTeX-Code verwenden wollen).
 
-These question types come with their own set of limitations. For STEM subjects you might want to check answers for algebraic equivalence, which is simply not possible with these question types. You might want to check out the [STACK](https://moodle.org/plugins/qtype_stack) or [WIRIS](https://moodle.org/plugins/view.php?id=26) plugins for such purposes.
+Diese Fragetypen kommen mit ihren ganz eigenen Einschränkungen. Für MINT-Fächer möchten Sie unter Umständen Antworten auf algebraische Äquivalenz prüfen, was mit diesen Fragetypen schlicht unmöglich ist. Wenn Sie eine solche Überprüfung benötigen, sollten  Sie sich die Plugins [STACK](https://moodle.org/plugins/qtype_stack) or [WIRIS](https://moodle.org/plugins/view.php?id=26) ansehen.
 
 
