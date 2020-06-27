@@ -87,8 +87,8 @@ Encoding/Umlaute
 Das `moodle`-Paket veträgt sich leider nicht mit UTF8-Text-Encoding. Wollen Sie Beispiele in deutscher Sprache verfassen, so muss man daher alle Umlaute (Ä, Ö, Ü, ä, ö, ü, ß) als TeX-Code eingeben (`\"A, \"O, \"U, \"a, \"o, \"u und \ss{}`).
 
 
-Shuffling answers in embedded questions
----------------------------------------
+Mischen von Antworten bei Lückentext-Fragen
+-------------------------------------------
 
 Das Paket `moodle`wurde erstellt, bevor das zufällige Mischen von Antworten für Teilfragen einer Lückentext-(Cloze)-Frage in Moodle (>= 3.0) eingeführt wurde 
 
