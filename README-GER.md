@@ -90,12 +90,11 @@ Das `moodle`-Paket veträgt sich leider nicht mit UTF8-Text-Encoding. Wollen Sie
 Shuffling answers in embedded questions
 ---------------------------------------
 
-The `moodle` package was written before shuffling answers was introduced for subquestions inside embedded questions in moodle (>= 3.0). 
+Das Paket `moodle`wurde erstellt, bevor das zufällige Mischen von Antworten für Teilfragen einer Lückentext-(Cloze)-Frage in Moodle (>= 3.0) eingeführt wurde 
 
-If you want to use shuffled answers for subquestions inside embedded questions, you have to include another `python` environment below the `quiz` environment inside the TeX document's body to change the questions type directly within the -moodle.xml file (please refer to https://bit.ly/2ZbQnTB for more details on the different types of subquestions). 
+Wenn Sie zufällig gemischte Antworten für Teilfragen einer Lückentext-(Cloze)-Frage verwenden möchte, müssen Sie irgendwo unterhalb der `quiz`-Umgebung eine weitere `python`-Umgebung in das LaTeX-Dokument aufnehmen, die dann direkt den Fragetyp innerhalb der XML-Datei verändert (Details können Sie der Seite https://bit.ly/2ZdpIpw entnehmen).
 
-Let us suppose our xml file is e.g. `example-moodle.xml`and we have a `MULICHOICE` question, we then need to change each occurence of `MULICHOICE` to `MULTICHOICE_S`, which can be achieved with the following bit of code:
-
+Nehmen wir einmal an, ihre XML-Datei ist z.B. `example-moodle.xml`und wir haben eine Frage vom Typus `MULICHOICE`. Wir müssen dann jedes Auftreten von `MULICHOICE` durch `MULTICHOICE_S` ersetzen, was z.B. mit dem folgenden Code-Schnippsel möglich ist:
 ```python
 with open("example-moodle.xml", "rt") as fin:
   with open("example-shuffled-moodle.xml", "wt") as fout:
