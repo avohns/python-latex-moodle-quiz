@@ -74,7 +74,7 @@ Wenn Sie weitere HTML Tags etwa für Layout-Zwecke (etwas: Listen, Tabellen) nut
 Grafiken
 --------
 
-Es ist sowohl möglich statiosche, vorab erstellte Bilder wie auch dynamische, zur Laufzeit etwa via `python` erstellte Bilder einzubinden (es kann auch tikZ aufgerufen werden). Alle einzubindenden Bilder werden in .png-Dateien umgewandelt, die dann ihrerseits während der Kompilierung base64-codiert und direkt in die -moodle.xml-Datei eingebettet werden.
+Es ist sowohl möglich statiosche, vorab erstellte Bilder wie auch dynamische, zur Laufzeit etwa via `python` erstellte Bilder einzubinden (es kann auch [TikZ](https://pgf-tikz.github.io/) aufgerufen werden). Alle einzubindenden Bilder werden in .png-Dateien umgewandelt, die dann ihrerseits während der Kompilierung base64-codiert und direkt in die -moodle.xml-Datei eingebettet werden.
 
 Sie sollten die Abmessungen der Grafik (Breite, Höhe in cm oder inch) angeben und die Konvertierung basiert auf einer DPI-Einstellung (falls nicht ausdrücklich anders angegeben, wird 103 DPI als Standardwert verwendet). Details entnehmen Sie bitte Abschnitt 5 der Dokumentation des Paketes `moodle`.
 
