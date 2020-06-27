@@ -92,7 +92,7 @@ Mischen von Antworten bei Lückentext-Fragen
 
 Das Paket `moodle`wurde erstellt, bevor das zufällige Mischen von Antworten für Teilfragen einer Lückentext-(Cloze)-Frage in Moodle (>= 3.0) eingeführt wurde 
 
-Wenn Sie zufällig gemischte Antworten für Teilfragen einer Lückentext-(Cloze)-Frage verwenden möchte, müssen Sie irgendwo unterhalb der `quiz`-Umgebung eine weitere `python`-Umgebung in das LaTeX-Dokument aufnehmen, die dann direkt den Fragetyp innerhalb der XML-Datei verändert (Details können Sie der Seite https://bit.ly/2ZdpIpw entnehmen).
+Wenn Sie zufällig gemischte Antworten für Teilfragen einer Lückentext-(Cloze)-Frage verwenden möchte, müssen Sie irgendwo unterhalb der `quiz`-Umgebung eine weitere `python`-Umgebung in das LaTeX-Dokument aufnehmen, die dann direkt den Fragetyp innerhalb der XML-Datei verändert (Details zu den Darstellungsoptionen der Antworten können Sie der Seite https://bit.ly/2ZdpIpw entnehmen).
 
 Nehmen wir einmal an, ihre XML-Datei ist z.B. `example-moodle.xml`und wir haben eine Frage vom Typus `MULICHOICE`. Wir müssen dann jedes Auftreten von `MULICHOICE` durch `MULTICHOICE_S` ersetzen, was z.B. mit dem folgenden Code-Schnippsel möglich ist:
 ```python
