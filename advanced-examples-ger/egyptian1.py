@@ -1,0 +1,67 @@
+def egyptian(c,d):
+  i=1
+  j=2
+  L=[]
+  K=[]
+  print(r"$$\begin{array}{rrr}")
+  a=c
+  b=d
+  rest1=a
+  zeile=0
+  while i<=a:
+    L.append([i,i*b,zeile])
+    rest1-=i
+    i=10*i
+    zeile+=1
+  while j-1<=rest1:
+    L.append([j,j*b,zeile])
+    j=2*j
+    rest=rest1
+    zeile+=1
+  rest=a
+  L.sort(key=lambda x: int(x[0]))
+  for i in range(0,len(L)):
+    if rest>=L[len(L)-1-i][0]:
+      z=L[len(L)-1-i][0]
+      L[len(L)-1-i][0]='/ &'+str(L[len(L)-1-i][0])
+      rest=rest-z
+    else:
+      L[len(L)-1-i][0]=' & '+str(L[len(L)-1-i][0])
+  L.sort(key=lambda x: int(x[2]))
+  for i in range(0,len(L)):
+    print(L[i][0],' & ',L[i][1],r"\\")
+    if (L[i][0]).find('/')!=-1:
+      K.append(L[i][1])
+
+  print("\hline")
+
+  print(" &",a," & ",sum(K))
+  print(r"\end{array}$$ ")
+  return('')
+auswahl1=[[659,15],[479,18]]
+auswahl2=[
+  [1219,23],[1007,19],[1127,23],[1073,37]]
+c=0
+for y in auswahl1:
+  for x in auswahl2:
+    c+=1
+    print(r"\begin{essay}[points=6, response format=html, response field lines=20, template={<h2>Aufgabenteil a.):</h2><p>","<span style=\"font-size: medium;\">",r"(Bitte hier eintragen)<br><br></span></p><h2>Aufgabenteil b.):</h2>","<p><span style=\"font-family: \'courier new\', courier, monospace; font-size: medium;\">/1&nbsp;&nbsp;&nbsp;&nbsp;",x[1],"<br>(Zwischenschritte hier eintragen)<br>--------<br>&nbsp;",x[0]//x[1],"&nbsp;",x[0],r"</span></p><h2>Aufgabenteil c.):</h2><p>","<span style=\"font-size: medium;\">",r"(Bitte hier eintragen)<br><br></span></p>}]{Aegyptische Rechenverfahren (",c,r")}",sep='')
+    print(rf"""
+    \textbf{{Alt-\"Agyptische Rechenverfahren}}\\<ol type=a><li>
+    Erkl\"aren Sie am folgenden Beispiel, wie die alt-\"agyptische Methode zur Multiplikation von zwei Zahlen (im Beispiel: ${y[1]}\cdot{y[0]}$) funktioniert.
+    {egyptian(y[1],y[0])}
+    </li>\\
+    <li>
+    L\"osen Sie mittels der alt-\"agyptischen Methode die Divisions-Aufgabe ${x[0]}:{x[1]}$.
+    Die erste und die letzte Zeile der L\"osung ist unten bereits vorgegeben.
+    </li>\\
+    <li>
+    Erl\"autern Sie am Beispiel $180:27$, warum sich auf diese Weise nicht alle Divisionsaufgaben l\"osen lassen, selbst wenn man Stammbr\"uche der Form $\frac{{1}}{{2^n}}$ zul\"asst.
+    </li></ol>\\ \emph{{Sie k\"onnen die L\"osung in das Textfeld unten eintragen oder alternativ im Anschluss als Scan/Foto hochladen.}}
+    \item Dieses Beispiel muss manuell nachgesehen werden, sorry!
+    \end{{essay}}""")
+    if c%2==0 and c<8:
+      print(r"\newpage")
+    else:
+      print(r" \bigskip \,\\ \medskip ")
+

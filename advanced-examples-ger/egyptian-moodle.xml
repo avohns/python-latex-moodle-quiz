@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+ 
+<question type="category">
+  <category>
+    <text>$module$/Aegyptisches Rechnen</text>
+  </category>
+</question>
+ 
+<question type="essay">
+  <name>
+    <text>Aegyptische Rechenverfahren (1)</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p><CENTER>\[\begin {array}{rrr} / &1 & 659 \\ / &10 & 6590 \\ & 2 & 1318 \\ / &4 & 2636 \\ \hline & 15 & 9885 \end {array}\]</CENTER> </P><P><B>Alt-&Auml;gyptische Rechenverfahren</B><BR/><ol type=a><li> Erkl&auml;ren Sie am folgenden Beispiel, wie die alt-&auml;gyptische Methode zur Multiplikation von zwei Zahlen (im Beispiel: \(15\cdot 659\)) funktioniert. </P><P></li><BR/> <li> L&ouml;sen Sie mittels der alt-&auml;gyptischen Methode die Divisions-Aufgabe \(1219:23\). Die erste und die letzte Zeile der L&ouml;sung ist unten bereits vorgegeben. </li><BR/> <li> Erl&auml;utern Sie am Beispiel \(180:27\), warum sich auf diese Weise nicht alle Divisionsaufgaben l&ouml;sen lassen, selbst wenn man Stammbr&uuml;che der Form \(\frac {1}{2^n}\) zul&auml;sst. </li></ol><BR/> <EM>Sie k&ouml;nnen die L&ouml;sung in das Textfeld unten eintragen oder alternativ im Anschluss als Scan/Foto hochladen.</EM> </p>]]></text>
+  </questiontext>
+  <defaultgrade>6</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <responserequired>0</responserequired>
+  <responseformat>editor</responseformat>
+  <responsefieldlines>20</responsefieldlines>
+  <attachments>0</attachments>
+  <attachmentsrequired>0</attachmentsrequired>
+  <graderinfo format="html"><text><![CDATA[
+    Dieses Beispiel muss manuell nachgesehen werden, sorry!
+  ]]></text></graderinfo>
+  <responsetemplate format="html">
+    <text><![CDATA[<p><h2>Aufgabenteil a.):</h2><p><span style=&rdquo;font-size: medium;&rdquo;>(Bitte hier eintragen)<br><br></span></p><h2>Aufgabenteil b.):</h2><p><span style=&rdquo;font-family: &rsquo;courier new&rsquo;, courier, monospace; font-size: medium;&rdquo;>/1&nbsp;&nbsp;&nbsp;&nbsp;23<br>(Zwischenschritte hier eintragen)<br>--------<br>&nbsp;53&nbsp;1219</span></p><h2>Aufgabenteil c.):</h2><p><span style=&rdquo;font-size: medium;&rdquo;>(Bitte hier eintragen)<br><br></span></p></p>]]></text>
+  </responsetemplate>
+</question>
+<question type="essay">
+  <name>
+    <text>Aegyptische Rechenverfahren (2)</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p><CENTER>\[\begin {array}{rrr} / &1 & 659 \\ / &10 & 6590 \\ & 2 & 1318 \\ / &4 & 2636 \\ \hline & 15 & 9885 \end {array}\]</CENTER> </P><P><B>Alt-&Auml;gyptische Rechenverfahren</B><BR/><ol type=a><li> Erkl&auml;ren Sie am folgenden Beispiel, wie die alt-&auml;gyptische Methode zur Multiplikation von zwei Zahlen (im Beispiel: \(15\cdot 659\)) funktioniert. </P><P></li><BR/> <li> L&ouml;sen Sie mittels der alt-&auml;gyptischen Methode die Divisions-Aufgabe \(1007:19\). Die erste und die letzte Zeile der L&ouml;sung ist unten bereits vorgegeben. </li><BR/> <li> Erl&auml;utern Sie am Beispiel \(180:27\), warum sich auf diese Weise nicht alle Divisionsaufgaben l&ouml;sen lassen, selbst wenn man Stammbr&uuml;che der Form \(\frac {1}{2^n}\) zul&auml;sst. </li></ol><BR/> <EM>Sie k&ouml;nnen die L&ouml;sung in das Textfeld unten eintragen oder alternativ im Anschluss als Scan/Foto hochladen.</EM> </p>]]></text>
+  </questiontext>
+  <defaultgrade>6</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <responserequired>0</responserequired>
+  <responseformat>editor</responseformat>
+  <responsefieldlines>20</responsefieldlines>
+  <attachments>0</attachments>
+  <attachmentsrequired>0</attachmentsrequired>
+  <graderinfo format="html"><text><![CDATA[
+    Dieses Beispiel muss manuell nachgesehen werden, sorry!
+  ]]></text></graderinfo>
+  <responsetemplate format="html">
+    <text><![CDATA[<p><h2>Aufgabenteil a.):</h2><p><span style=&rdquo;font-size: medium;&rdquo;>(Bitte hier eintragen)<br><br></span></p><h2>Aufgabenteil b.):</h2><p><span style=&rdquo;font-family: &rsquo;courier new&rsquo;, courier, monospace; font-size: medium;&rdquo;>/1&nbsp;&nbsp;&nbsp;&nbsp;19<br>(Zwischenschritte hier eintragen)<br>--------<br>&nbsp;53&nbsp;1007</span></p><h2>Aufgabenteil c.):</h2><p><span style=&rdquo;font-size: medium;&rdquo;>(Bitte hier eintragen)<br><br></span></p></p>]]></text>
+  </responsetemplate>
+</question>
+<question type="essay">
+  <name>
+    <text>Aegyptische Rechenverfahren (3)</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p><CENTER>\[\begin {array}{rrr} / &1 & 659 \\ / &10 & 6590 \\ & 2 & 1318 \\ / &4 & 2636 \\ \hline & 15 & 9885 \end {array}\]</CENTER> </P><P><B>Alt-&Auml;gyptische Rechenverfahren</B><BR/><ol type=a><li> Erkl&auml;ren Sie am folgenden Beispiel, wie die alt-&auml;gyptische Methode zur Multiplikation von zwei Zahlen (im Beispiel: \(15\cdot 659\)) funktioniert. </P><P></li><BR/> <li> L&ouml;sen Sie mittels der alt-&auml;gyptischen Methode die Divisions-Aufgabe \(1127:23\). Die erste und die letzte Zeile der L&ouml;sung ist unten bereits vorgegeben. </li><BR/> <li> Erl&auml;utern Sie am Beispiel \(180:27\), warum sich auf diese Weise nicht alle Divisionsaufgaben l&ouml;sen lassen, selbst wenn man Stammbr&uuml;che der Form \(\frac {1}{2^n}\) zul&auml;sst. </li></ol><BR/> <EM>Sie k&ouml;nnen die L&ouml;sung in das Textfeld unten eintragen oder alternativ im Anschluss als Scan/Foto hochladen.</EM> </p>]]></text>
+  </questiontext>
+  <defaultgrade>6</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <responserequired>0</responserequired>
+  <responseformat>editor</responseformat>
+  <responsefieldlines>20</responsefieldlines>
+  <attachments>0</attachments>
+  <attachmentsrequired>0</attachmentsrequired>
+  <graderinfo format="html"><text><![CDATA[
+    Dieses Beispiel muss manuell nachgesehen werden, sorry!
+  ]]></text></graderinfo>
+  <responsetemplate format="html">
+    <text><![CDATA[<p><h2>Aufgabenteil a.):</h2><p><span style=&rdquo;font-size: medium;&rdquo;>(Bitte hier eintragen)<br><br></span></p><h2>Aufgabenteil b.):</h2><p><span style=&rdquo;font-family: &rsquo;courier new&rsquo;, courier, monospace; font-size: medium;&rdquo;>/1&nbsp;&nbsp;&nbsp;&nbsp;23<br>(Zwischenschritte hier eintragen)<br>--------<br>&nbsp;49&nbsp;1127</span></p><h2>Aufgabenteil c.):</h2><p><span style=&rdquo;font-size: medium;&rdquo;>(Bitte hier eintragen)<br><br></span></p></p>]]></text>
+  </responsetemplate>
+</question>
+<question type="essay">
+  <name>
+    <text>Aegyptische Rechenverfahren (4)</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p><CENTER>\[\begin {array}{rrr} / &1 & 659 \\ / &10 & 6590 \\ & 2 & 1318 \\ / &4 & 2636 \\ \hline & 15 & 9885 \end {array}\]</CENTER> </P><P><B>Alt-&Auml;gyptische Rechenverfahren</B><BR/><ol type=a><li> Erkl&auml;ren Sie am folgenden Beispiel, wie die alt-&auml;gyptische Methode zur Multiplikation von zwei Zahlen (im Beispiel: \(15\cdot 659\)) funktioniert. </P><P></li><BR/> <li> L&ouml;sen Sie mittels der alt-&auml;gyptischen Methode die Divisions-Aufgabe \(1073:37\). Die erste und die letzte Zeile der L&ouml;sung ist unten bereits vorgegeben. </li><BR/> <li> Erl&auml;utern Sie am Beispiel \(180:27\), warum sich auf diese Weise nicht alle Divisionsaufgaben l&ouml;sen lassen, selbst wenn man Stammbr&uuml;che der Form \(\frac {1}{2^n}\) zul&auml;sst. </li></ol><BR/> <EM>Sie k&ouml;nnen die L&ouml;sung in das Textfeld unten eintragen oder alternativ im Anschluss als Scan/Foto hochladen.</EM> </p>]]></text>
+  </questiontext>
+  <defaultgrade>6</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <responserequired>0</responserequired>
+  <responseformat>editor</responseformat>
+  <responsefieldlines>20</responsefieldlines>
+  <attachments>0</attachments>
+  <attachmentsrequired>0</attachmentsrequired>
+  <graderinfo format="html"><text><![CDATA[
+    Dieses Beispiel muss manuell nachgesehen werden, sorry!
+  ]]></text></graderinfo>
+  <responsetemplate format="html">
+    <text><![CDATA[<p><h2>Aufgabenteil a.):</h2><p><span style=&rdquo;font-size: medium;&rdquo;>(Bitte hier eintragen)<br><br></span></p><h2>Aufgabenteil b.):</h2><p><span style=&rdquo;font-family: &rsquo;courier new&rsquo;, courier, monospace; font-size: medium;&rdquo;>/1&nbsp;&nbsp;&nbsp;&nbsp;37<br>(Zwischenschritte hier eintragen)<br>--------<br>&nbsp;29&nbsp;1073</span></p><h2>Aufgabenteil c.):</h2><p><span style=&rdquo;font-size: medium;&rdquo;>(Bitte hier eintragen)<br><br></span></p></p>]]></text>
+  </responsetemplate>
+</question>
+<question type="essay">
+  <name>
+    <text>Aegyptische Rechenverfahren (5)</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p><CENTER>\[\begin {array}{rrr} & 1 & 479 \\ / &10 & 4790 \\ & 2 & 958 \\ & 4 & 1916 \\ / &8 & 3832 \\ \hline & 18 & 8622 \end {array}\]</CENTER> </P><P><B>Alt-&Auml;gyptische Rechenverfahren</B><BR/><ol type=a><li> Erkl&auml;ren Sie am folgenden Beispiel, wie die alt-&auml;gyptische Methode zur Multiplikation von zwei Zahlen (im Beispiel: \(18\cdot 479\)) funktioniert. </P><P></li><BR/> <li> L&ouml;sen Sie mittels der alt-&auml;gyptischen Methode die Divisions-Aufgabe \(1219:23\). Die erste und die letzte Zeile der L&ouml;sung ist unten bereits vorgegeben. </li><BR/> <li> Erl&auml;utern Sie am Beispiel \(180:27\), warum sich auf diese Weise nicht alle Divisionsaufgaben l&ouml;sen lassen, selbst wenn man Stammbr&uuml;che der Form \(\frac {1}{2^n}\) zul&auml;sst. </li></ol><BR/> <EM>Sie k&ouml;nnen die L&ouml;sung in das Textfeld unten eintragen oder alternativ im Anschluss als Scan/Foto hochladen.</EM> </p>]]></text>
+  </questiontext>
+  <defaultgrade>6</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <responserequired>0</responserequired>
+  <responseformat>editor</responseformat>
+  <responsefieldlines>20</responsefieldlines>
+  <attachments>0</attachments>
+  <attachmentsrequired>0</attachmentsrequired>
+  <graderinfo format="html"><text><![CDATA[
+    Dieses Beispiel muss manuell nachgesehen werden, sorry!
+  ]]></text></graderinfo>
+  <responsetemplate format="html">
+    <text><![CDATA[<p><h2>Aufgabenteil a.):</h2><p><span style=&rdquo;font-size: medium;&rdquo;>(Bitte hier eintragen)<br><br></span></p><h2>Aufgabenteil b.):</h2><p><span style=&rdquo;font-family: &rsquo;courier new&rsquo;, courier, monospace; font-size: medium;&rdquo;>/1&nbsp;&nbsp;&nbsp;&nbsp;23<br>(Zwischenschritte hier eintragen)<br>--------<br>&nbsp;53&nbsp;1219</span></p><h2>Aufgabenteil c.):</h2><p><span style=&rdquo;font-size: medium;&rdquo;>(Bitte hier eintragen)<br><br></span></p></p>]]></text>
+  </responsetemplate>
+</question>
+<question type="essay">
+  <name>
+    <text>Aegyptische Rechenverfahren (6)</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p><CENTER>\[\begin {array}{rrr} & 1 & 479 \\ / &10 & 4790 \\ & 2 & 958 \\ & 4 & 1916 \\ / &8 & 3832 \\ \hline & 18 & 8622 \end {array}\]</CENTER> </P><P><B>Alt-&Auml;gyptische Rechenverfahren</B><BR/><ol type=a><li> Erkl&auml;ren Sie am folgenden Beispiel, wie die alt-&auml;gyptische Methode zur Multiplikation von zwei Zahlen (im Beispiel: \(18\cdot 479\)) funktioniert. </P><P></li><BR/> <li> L&ouml;sen Sie mittels der alt-&auml;gyptischen Methode die Divisions-Aufgabe \(1007:19\). Die erste und die letzte Zeile der L&ouml;sung ist unten bereits vorgegeben. </li><BR/> <li> Erl&auml;utern Sie am Beispiel \(180:27\), warum sich auf diese Weise nicht alle Divisionsaufgaben l&ouml;sen lassen, selbst wenn man Stammbr&uuml;che der Form \(\frac {1}{2^n}\) zul&auml;sst. </li></ol><BR/> <EM>Sie k&ouml;nnen die L&ouml;sung in das Textfeld unten eintragen oder alternativ im Anschluss als Scan/Foto hochladen.</EM> </p>]]></text>
+  </questiontext>
+  <defaultgrade>6</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <responserequired>0</responserequired>
+  <responseformat>editor</responseformat>
+  <responsefieldlines>20</responsefieldlines>
+  <attachments>0</attachments>
+  <attachmentsrequired>0</attachmentsrequired>
+  <graderinfo format="html"><text><![CDATA[
+    Dieses Beispiel muss manuell nachgesehen werden, sorry!
+  ]]></text></graderinfo>
+  <responsetemplate format="html">
+    <text><![CDATA[<p><h2>Aufgabenteil a.):</h2><p><span style=&rdquo;font-size: medium;&rdquo;>(Bitte hier eintragen)<br><br></span></p><h2>Aufgabenteil b.):</h2><p><span style=&rdquo;font-family: &rsquo;courier new&rsquo;, courier, monospace; font-size: medium;&rdquo;>/1&nbsp;&nbsp;&nbsp;&nbsp;19<br>(Zwischenschritte hier eintragen)<br>--------<br>&nbsp;53&nbsp;1007</span></p><h2>Aufgabenteil c.):</h2><p><span style=&rdquo;font-size: medium;&rdquo;>(Bitte hier eintragen)<br><br></span></p></p>]]></text>
+  </responsetemplate>
+</question>
+<question type="essay">
+  <name>
+    <text>Aegyptische Rechenverfahren (7)</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p><CENTER>\[\begin {array}{rrr} & 1 & 479 \\ / &10 & 4790 \\ & 2 & 958 \\ & 4 & 1916 \\ / &8 & 3832 \\ \hline & 18 & 8622 \end {array}\]</CENTER> </P><P><B>Alt-&Auml;gyptische Rechenverfahren</B><BR/><ol type=a><li> Erkl&auml;ren Sie am folgenden Beispiel, wie die alt-&auml;gyptische Methode zur Multiplikation von zwei Zahlen (im Beispiel: \(18\cdot 479\)) funktioniert. </P><P></li><BR/> <li> L&ouml;sen Sie mittels der alt-&auml;gyptischen Methode die Divisions-Aufgabe \(1127:23\). Die erste und die letzte Zeile der L&ouml;sung ist unten bereits vorgegeben. </li><BR/> <li> Erl&auml;utern Sie am Beispiel \(180:27\), warum sich auf diese Weise nicht alle Divisionsaufgaben l&ouml;sen lassen, selbst wenn man Stammbr&uuml;che der Form \(\frac {1}{2^n}\) zul&auml;sst. </li></ol><BR/> <EM>Sie k&ouml;nnen die L&ouml;sung in das Textfeld unten eintragen oder alternativ im Anschluss als Scan/Foto hochladen.</EM> </p>]]></text>
+  </questiontext>
+  <defaultgrade>6</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <responserequired>0</responserequired>
+  <responseformat>editor</responseformat>
+  <responsefieldlines>20</responsefieldlines>
+  <attachments>0</attachments>
+  <attachmentsrequired>0</attachmentsrequired>
+  <graderinfo format="html"><text><![CDATA[
+    Dieses Beispiel muss manuell nachgesehen werden, sorry!
+  ]]></text></graderinfo>
+  <responsetemplate format="html">
+    <text><![CDATA[<p><h2>Aufgabenteil a.):</h2><p><span style=&rdquo;font-size: medium;&rdquo;>(Bitte hier eintragen)<br><br></span></p><h2>Aufgabenteil b.):</h2><p><span style=&rdquo;font-family: &rsquo;courier new&rsquo;, courier, monospace; font-size: medium;&rdquo;>/1&nbsp;&nbsp;&nbsp;&nbsp;23<br>(Zwischenschritte hier eintragen)<br>--------<br>&nbsp;49&nbsp;1127</span></p><h2>Aufgabenteil c.):</h2><p><span style=&rdquo;font-size: medium;&rdquo;>(Bitte hier eintragen)<br><br></span></p></p>]]></text>
+  </responsetemplate>
+</question>
+<question type="essay">
+  <name>
+    <text>Aegyptische Rechenverfahren (8)</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p><CENTER>\[\begin {array}{rrr} & 1 & 479 \\ / &10 & 4790 \\ & 2 & 958 \\ & 4 & 1916 \\ / &8 & 3832 \\ \hline & 18 & 8622 \end {array}\]</CENTER> </P><P><B>Alt-&Auml;gyptische Rechenverfahren</B><BR/><ol type=a><li> Erkl&auml;ren Sie am folgenden Beispiel, wie die alt-&auml;gyptische Methode zur Multiplikation von zwei Zahlen (im Beispiel: \(18\cdot 479\)) funktioniert. </P><P></li><BR/> <li> L&ouml;sen Sie mittels der alt-&auml;gyptischen Methode die Divisions-Aufgabe \(1073:37\). Die erste und die letzte Zeile der L&ouml;sung ist unten bereits vorgegeben. </li><BR/> <li> Erl&auml;utern Sie am Beispiel \(180:27\), warum sich auf diese Weise nicht alle Divisionsaufgaben l&ouml;sen lassen, selbst wenn man Stammbr&uuml;che der Form \(\frac {1}{2^n}\) zul&auml;sst. </li></ol><BR/> <EM>Sie k&ouml;nnen die L&ouml;sung in das Textfeld unten eintragen oder alternativ im Anschluss als Scan/Foto hochladen.</EM> </p>]]></text>
+  </questiontext>
+  <defaultgrade>6</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <responserequired>0</responserequired>
+  <responseformat>editor</responseformat>
+  <responsefieldlines>20</responsefieldlines>
+  <attachments>0</attachments>
+  <attachmentsrequired>0</attachmentsrequired>
+  <graderinfo format="html"><text><![CDATA[
+    Dieses Beispiel muss manuell nachgesehen werden, sorry!
+  ]]></text></graderinfo>
+  <responsetemplate format="html">
+    <text><![CDATA[<p><h2>Aufgabenteil a.):</h2><p><span style=&rdquo;font-size: medium;&rdquo;>(Bitte hier eintragen)<br><br></span></p><h2>Aufgabenteil b.):</h2><p><span style=&rdquo;font-family: &rsquo;courier new&rsquo;, courier, monospace; font-size: medium;&rdquo;>/1&nbsp;&nbsp;&nbsp;&nbsp;37<br>(Zwischenschritte hier eintragen)<br>--------<br>&nbsp;29&nbsp;1073</span></p><h2>Aufgabenteil c.):</h2><p><span style=&rdquo;font-size: medium;&rdquo;>(Bitte hier eintragen)<br><br></span></p></p>]]></text>
+  </responsetemplate>
+</question>
+ 
+</quiz>
