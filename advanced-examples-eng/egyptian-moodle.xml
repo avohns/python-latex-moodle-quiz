@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+ 
+<question type="category">
+  <category>
+    <text>$module$/Egyptian Calculations</text>
+  </category>
+</question>
+ 
+<question type="essay">
+  <name>
+    <text>Egytian Calculations (1)</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p><CENTER>\[\begin {array}{rrr} / &1 & 659 \\ / &10 & 6590 \\ & 2 & 1318 \\ / &4 & 2636 \\ \hline & 15 & 9885 \end {array}\]</CENTER> </P><P><B>Ancient Egytian Calculations</B><BR/><ol type=a><li> Use the following example to explain how the ancient Egyptian method of multiplying two numbers (in this case: \(15\cdot 659\)) works. </P><P></li><BR/> <li> Using the ancient Egyptian method, solve the division task \(1219:23\). The first and last line of the solution is already given below. </li><BR/> <li> Using \(180:27\) as an example, explain why not all division tasks can be solved in this way, even if you allow unit fractions in the form \(\frac {1}{2^n}\). </li></ol><BR/> </p>]]></text>
+  </questiontext>
+  <defaultgrade>6</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <responserequired>0</responserequired>
+  <responseformat>editor</responseformat>
+  <responsefieldlines>20</responsefieldlines>
+  <attachments>0</attachments>
+  <attachmentsrequired>0</attachmentsrequired>
+  <graderinfo format="html"><text><![CDATA[
+    This task has to be corrected manually, sorry!
+  ]]></text></graderinfo>
+  <responsetemplate format="html">
+    <text><![CDATA[<p><h2>Part a.):</h2><p><span style=&rdquo;font-size: medium;&rdquo;>(Write down your solution here)<br><br></span></p><h2>Part b.):</h2><p><span style=&rdquo;font-family: &rsquo;courier new&rsquo;, courier, monospace; font-size: medium;&rdquo;>/1&nbsp;&nbsp;&nbsp;&nbsp;23<br>(Write down the intermediate steps here)<br>--------<br>&nbsp;53&nbsp;1219</span></p><h2>Part c.):</h2><p><span style=&rdquo;font-size: medium;&rdquo;>(Write down your solution here)<br><br></span></p></p>]]></text>
+  </responsetemplate>
+</question>
+<question type="essay">
+  <name>
+    <text>Egytian Calculations (2)</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p><CENTER>\[\begin {array}{rrr} / &1 & 659 \\ / &10 & 6590 \\ & 2 & 1318 \\ / &4 & 2636 \\ \hline & 15 & 9885 \end {array}\]</CENTER> </P><P><B>Ancient Egytian Calculations</B><BR/><ol type=a><li> Use the following example to explain how the ancient Egyptian method of multiplying two numbers (in this case: \(15\cdot 659\)) works. </P><P></li><BR/> <li> Using the ancient Egyptian method, solve the division task \(1007:19\). The first and last line of the solution is already given below. </li><BR/> <li> Using \(180:27\) as an example, explain why not all division tasks can be solved in this way, even if you allow unit fractions in the form \(\frac {1}{2^n}\). </li></ol><BR/> </p>]]></text>
+  </questiontext>
+  <defaultgrade>6</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <responserequired>0</responserequired>
+  <responseformat>editor</responseformat>
+  <responsefieldlines>20</responsefieldlines>
+  <attachments>0</attachments>
+  <attachmentsrequired>0</attachmentsrequired>
+  <graderinfo format="html"><text><![CDATA[
+    This task has to be corrected manually, sorry!
+  ]]></text></graderinfo>
+  <responsetemplate format="html">
+    <text><![CDATA[<p><h2>Part a.):</h2><p><span style=&rdquo;font-size: medium;&rdquo;>(Write down your solution here)<br><br></span></p><h2>Part b.):</h2><p><span style=&rdquo;font-family: &rsquo;courier new&rsquo;, courier, monospace; font-size: medium;&rdquo;>/1&nbsp;&nbsp;&nbsp;&nbsp;19<br>(Write down the intermediate steps here)<br>--------<br>&nbsp;53&nbsp;1007</span></p><h2>Part c.):</h2><p><span style=&rdquo;font-size: medium;&rdquo;>(Write down your solution here)<br><br></span></p></p>]]></text>
+  </responsetemplate>
+</question>
+<question type="essay">
+  <name>
+    <text>Egytian Calculations (3)</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p><CENTER>\[\begin {array}{rrr} / &1 & 659 \\ / &10 & 6590 \\ & 2 & 1318 \\ / &4 & 2636 \\ \hline & 15 & 9885 \end {array}\]</CENTER> </P><P><B>Ancient Egytian Calculations</B><BR/><ol type=a><li> Use the following example to explain how the ancient Egyptian method of multiplying two numbers (in this case: \(15\cdot 659\)) works. </P><P></li><BR/> <li> Using the ancient Egyptian method, solve the division task \(1127:23\). The first and last line of the solution is already given below. </li><BR/> <li> Using \(180:27\) as an example, explain why not all division tasks can be solved in this way, even if you allow unit fractions in the form \(\frac {1}{2^n}\). </li></ol><BR/> </p>]]></text>
+  </questiontext>
+  <defaultgrade>6</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <responserequired>0</responserequired>
+  <responseformat>editor</responseformat>
+  <responsefieldlines>20</responsefieldlines>
+  <attachments>0</attachments>
+  <attachmentsrequired>0</attachmentsrequired>
+  <graderinfo format="html"><text><![CDATA[
+    This task has to be corrected manually, sorry!
+  ]]></text></graderinfo>
+  <responsetemplate format="html">
+    <text><![CDATA[<p><h2>Part a.):</h2><p><span style=&rdquo;font-size: medium;&rdquo;>(Write down your solution here)<br><br></span></p><h2>Part b.):</h2><p><span style=&rdquo;font-family: &rsquo;courier new&rsquo;, courier, monospace; font-size: medium;&rdquo;>/1&nbsp;&nbsp;&nbsp;&nbsp;23<br>(Write down the intermediate steps here)<br>--------<br>&nbsp;49&nbsp;1127</span></p><h2>Part c.):</h2><p><span style=&rdquo;font-size: medium;&rdquo;>(Write down your solution here)<br><br></span></p></p>]]></text>
+  </responsetemplate>
+</question>
+<question type="essay">
+  <name>
+    <text>Egytian Calculations (4)</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p><CENTER>\[\begin {array}{rrr} / &1 & 659 \\ / &10 & 6590 \\ & 2 & 1318 \\ / &4 & 2636 \\ \hline & 15 & 9885 \end {array}\]</CENTER> </P><P><B>Ancient Egytian Calculations</B><BR/><ol type=a><li> Use the following example to explain how the ancient Egyptian method of multiplying two numbers (in this case: \(15\cdot 659\)) works. </P><P></li><BR/> <li> Using the ancient Egyptian method, solve the division task \(1073:37\). The first and last line of the solution is already given below. </li><BR/> <li> Using \(180:27\) as an example, explain why not all division tasks can be solved in this way, even if you allow unit fractions in the form \(\frac {1}{2^n}\). </li></ol><BR/> </p>]]></text>
+  </questiontext>
+  <defaultgrade>6</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <responserequired>0</responserequired>
+  <responseformat>editor</responseformat>
+  <responsefieldlines>20</responsefieldlines>
+  <attachments>0</attachments>
+  <attachmentsrequired>0</attachmentsrequired>
+  <graderinfo format="html"><text><![CDATA[
+    This task has to be corrected manually, sorry!
+  ]]></text></graderinfo>
+  <responsetemplate format="html">
+    <text><![CDATA[<p><h2>Part a.):</h2><p><span style=&rdquo;font-size: medium;&rdquo;>(Write down your solution here)<br><br></span></p><h2>Part b.):</h2><p><span style=&rdquo;font-family: &rsquo;courier new&rsquo;, courier, monospace; font-size: medium;&rdquo;>/1&nbsp;&nbsp;&nbsp;&nbsp;37<br>(Write down the intermediate steps here)<br>--------<br>&nbsp;29&nbsp;1073</span></p><h2>Part c.):</h2><p><span style=&rdquo;font-size: medium;&rdquo;>(Write down your solution here)<br><br></span></p></p>]]></text>
+  </responsetemplate>
+</question>
+<question type="essay">
+  <name>
+    <text>Egytian Calculations (5)</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p><CENTER>\[\begin {array}{rrr} & 1 & 479 \\ / &10 & 4790 \\ & 2 & 958 \\ & 4 & 1916 \\ / &8 & 3832 \\ \hline & 18 & 8622 \end {array}\]</CENTER> </P><P><B>Ancient Egytian Calculations</B><BR/><ol type=a><li> Use the following example to explain how the ancient Egyptian method of multiplying two numbers (in this case: \(18\cdot 479\)) works. </P><P></li><BR/> <li> Using the ancient Egyptian method, solve the division task \(1219:23\). The first and last line of the solution is already given below. </li><BR/> <li> Using \(180:27\) as an example, explain why not all division tasks can be solved in this way, even if you allow unit fractions in the form \(\frac {1}{2^n}\). </li></ol><BR/> </p>]]></text>
+  </questiontext>
+  <defaultgrade>6</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <responserequired>0</responserequired>
+  <responseformat>editor</responseformat>
+  <responsefieldlines>20</responsefieldlines>
+  <attachments>0</attachments>
+  <attachmentsrequired>0</attachmentsrequired>
+  <graderinfo format="html"><text><![CDATA[
+    This task has to be corrected manually, sorry!
+  ]]></text></graderinfo>
+  <responsetemplate format="html">
+    <text><![CDATA[<p><h2>Part a.):</h2><p><span style=&rdquo;font-size: medium;&rdquo;>(Write down your solution here)<br><br></span></p><h2>Part b.):</h2><p><span style=&rdquo;font-family: &rsquo;courier new&rsquo;, courier, monospace; font-size: medium;&rdquo;>/1&nbsp;&nbsp;&nbsp;&nbsp;23<br>(Write down the intermediate steps here)<br>--------<br>&nbsp;53&nbsp;1219</span></p><h2>Part c.):</h2><p><span style=&rdquo;font-size: medium;&rdquo;>(Write down your solution here)<br><br></span></p></p>]]></text>
+  </responsetemplate>
+</question>
+<question type="essay">
+  <name>
+    <text>Egytian Calculations (6)</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p><CENTER>\[\begin {array}{rrr} & 1 & 479 \\ / &10 & 4790 \\ & 2 & 958 \\ & 4 & 1916 \\ / &8 & 3832 \\ \hline & 18 & 8622 \end {array}\]</CENTER> </P><P><B>Ancient Egytian Calculations</B><BR/><ol type=a><li> Use the following example to explain how the ancient Egyptian method of multiplying two numbers (in this case: \(18\cdot 479\)) works. </P><P></li><BR/> <li> Using the ancient Egyptian method, solve the division task \(1007:19\). The first and last line of the solution is already given below. </li><BR/> <li> Using \(180:27\) as an example, explain why not all division tasks can be solved in this way, even if you allow unit fractions in the form \(\frac {1}{2^n}\). </li></ol><BR/> </p>]]></text>
+  </questiontext>
+  <defaultgrade>6</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <responserequired>0</responserequired>
+  <responseformat>editor</responseformat>
+  <responsefieldlines>20</responsefieldlines>
+  <attachments>0</attachments>
+  <attachmentsrequired>0</attachmentsrequired>
+  <graderinfo format="html"><text><![CDATA[
+    This task has to be corrected manually, sorry!
+  ]]></text></graderinfo>
+  <responsetemplate format="html">
+    <text><![CDATA[<p><h2>Part a.):</h2><p><span style=&rdquo;font-size: medium;&rdquo;>(Write down your solution here)<br><br></span></p><h2>Part b.):</h2><p><span style=&rdquo;font-family: &rsquo;courier new&rsquo;, courier, monospace; font-size: medium;&rdquo;>/1&nbsp;&nbsp;&nbsp;&nbsp;19<br>(Write down the intermediate steps here)<br>--------<br>&nbsp;53&nbsp;1007</span></p><h2>Part c.):</h2><p><span style=&rdquo;font-size: medium;&rdquo;>(Write down your solution here)<br><br></span></p></p>]]></text>
+  </responsetemplate>
+</question>
+<question type="essay">
+  <name>
+    <text>Egytian Calculations (7)</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p><CENTER>\[\begin {array}{rrr} & 1 & 479 \\ / &10 & 4790 \\ & 2 & 958 \\ & 4 & 1916 \\ / &8 & 3832 \\ \hline & 18 & 8622 \end {array}\]</CENTER> </P><P><B>Ancient Egytian Calculations</B><BR/><ol type=a><li> Use the following example to explain how the ancient Egyptian method of multiplying two numbers (in this case: \(18\cdot 479\)) works. </P><P></li><BR/> <li> Using the ancient Egyptian method, solve the division task \(1127:23\). The first and last line of the solution is already given below. </li><BR/> <li> Using \(180:27\) as an example, explain why not all division tasks can be solved in this way, even if you allow unit fractions in the form \(\frac {1}{2^n}\). </li></ol><BR/> </p>]]></text>
+  </questiontext>
+  <defaultgrade>6</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <responserequired>0</responserequired>
+  <responseformat>editor</responseformat>
+  <responsefieldlines>20</responsefieldlines>
+  <attachments>0</attachments>
+  <attachmentsrequired>0</attachmentsrequired>
+  <graderinfo format="html"><text><![CDATA[
+    This task has to be corrected manually, sorry!
+  ]]></text></graderinfo>
+  <responsetemplate format="html">
+    <text><![CDATA[<p><h2>Part a.):</h2><p><span style=&rdquo;font-size: medium;&rdquo;>(Write down your solution here)<br><br></span></p><h2>Part b.):</h2><p><span style=&rdquo;font-family: &rsquo;courier new&rsquo;, courier, monospace; font-size: medium;&rdquo;>/1&nbsp;&nbsp;&nbsp;&nbsp;23<br>(Write down the intermediate steps here)<br>--------<br>&nbsp;49&nbsp;1127</span></p><h2>Part c.):</h2><p><span style=&rdquo;font-size: medium;&rdquo;>(Write down your solution here)<br><br></span></p></p>]]></text>
+  </responsetemplate>
+</question>
+<question type="essay">
+  <name>
+    <text>Egytian Calculations (8)</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p><CENTER>\[\begin {array}{rrr} & 1 & 479 \\ / &10 & 4790 \\ & 2 & 958 \\ & 4 & 1916 \\ / &8 & 3832 \\ \hline & 18 & 8622 \end {array}\]</CENTER> </P><P><B>Ancient Egytian Calculations</B><BR/><ol type=a><li> Use the following example to explain how the ancient Egyptian method of multiplying two numbers (in this case: \(18\cdot 479\)) works. </P><P></li><BR/> <li> Using the ancient Egyptian method, solve the division task \(1073:37\). The first and last line of the solution is already given below. </li><BR/> <li> Using \(180:27\) as an example, explain why not all division tasks can be solved in this way, even if you allow unit fractions in the form \(\frac {1}{2^n}\). </li></ol><BR/> </p>]]></text>
+  </questiontext>
+  <defaultgrade>6</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <responserequired>0</responserequired>
+  <responseformat>editor</responseformat>
+  <responsefieldlines>20</responsefieldlines>
+  <attachments>0</attachments>
+  <attachmentsrequired>0</attachmentsrequired>
+  <graderinfo format="html"><text><![CDATA[
+    This task has to be corrected manually, sorry!
+  ]]></text></graderinfo>
+  <responsetemplate format="html">
+    <text><![CDATA[<p><h2>Part a.):</h2><p><span style=&rdquo;font-size: medium;&rdquo;>(Write down your solution here)<br><br></span></p><h2>Part b.):</h2><p><span style=&rdquo;font-family: &rsquo;courier new&rsquo;, courier, monospace; font-size: medium;&rdquo;>/1&nbsp;&nbsp;&nbsp;&nbsp;37<br>(Write down the intermediate steps here)<br>--------<br>&nbsp;29&nbsp;1073</span></p><h2>Part c.):</h2><p><span style=&rdquo;font-size: medium;&rdquo;>(Write down your solution here)<br><br></span></p></p>]]></text>
+  </responsetemplate>
+</question>
+ 
+</quiz>
