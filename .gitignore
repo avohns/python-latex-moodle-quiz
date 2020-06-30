@@ -8,7 +8,10 @@
 *.enc
 *.gz
 *.bat
-dynamic-images-de/*.png
+advanced-examples-eng/*.png
+advanced-examples-de/*.png
+advanced-examples-eng/kolam/*.png
+advanced-examples-de/kolam/*.png
 simple-examples-de/python.sty
 simple-examples-en/python.sty
 
