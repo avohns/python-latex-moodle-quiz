@@ -109,4 +109,12 @@ Da das Paket `moodle`lediglich Standrad-Fragetypen von Moodle nutzt, sollten all
 
 Diese Fragetypen kommen mit ihren ganz eigenen Einschränkungen. Für MINT-Fächer möchten Sie unter Umständen Antworten auf algebraische Äquivalenz prüfen, was mit diesen Fragetypen schlicht unmöglich ist. Wenn Sie eine solche Überprüfung benötigen, sollten  Sie sich die Plugins [STACK](https://moodle.org/plugins/qtype_stack) or [WIRIS](https://moodle.org/plugins/view.php?id=26) ansehen.
 
+Danksagungen
+------------
+
+Diese Beispiele/Vorlagen wäre nicht möglich ohne:
+- Das `python`-Paket für LaTeX © 2012 James Brotchie
+- The `moodle`-Paket für LaTeX © 2016 Anders O. F. Hendrickson 
+
+Ich danke weiters Benjamin Hackl für die Idee, Multiline-f-Strings zu verwenden.
 
