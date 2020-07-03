@@ -113,5 +113,6 @@ Acknowledgements
 
 These examples/templates would not be possible without:
 - The `python`-Package for LaTeX © 2012 James Brotchie
-- The `moodle`-Pckage for LaTeX © 2016 Anders O. F. Hendrickson 
+- The `moodle`-Package for LaTeX © 2016 Anders O. F. Hendrickson 
+
 I would also like to thank Benjamin Hackl for suggesting the use of multiline-f-strings.
