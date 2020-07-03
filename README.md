@@ -107,3 +107,11 @@ Limitations inherited from the usable question types
 As the `moodle` package only uses standard moodle question types, the generated questions should be useable on any moodle installation, there are no additional plugins required whatsoever (the MathML filter should be set to active in your moodle installation if you want to display formulas written in TeX code).
 
 These question types come with their own set of limitations. For STEM subjects you might want to check answers for algebraic equivalence, which is simply not possible with these question types. You might want to check out the [STACK](https://moodle.org/plugins/qtype_stack) or [WIRIS](https://moodle.org/plugins/view.php?id=26) plugins for such purposes.
+
+Acknowledgements
+----------------
+
+These examples/templates would not be possible without:
+- The `python`-Package for LaTeX © 2012 James Brotchie
+- The `moodle`-Pckage for LaTeX © 2016 Anders O. F. Hendrickson 
+I would also like to thank Benjamin Hackl for suggesting the use of multiline-f-strings.
