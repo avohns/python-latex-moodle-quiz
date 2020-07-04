@@ -11,7 +11,7 @@ Voraussetzungen
 1. Eine lauffähige Installation von Python (>=3.6)
 1. Die folgenden Pakete müssen für LaTeX installiert sein:
    1. `moodle` see https://ctan.org/pkg/moodle
-   1. `python` see https://github.com/brotchie/python-sty (at least if you are working on Windows)
+   1. `python` see https://github.com/brotchie/python-sty (zumindest unter Windows benötigt)
 1. Wenn Sie in irgendeiner Art Bilder (statisch, dynamisch) einbinden wollen, dann benötigen Sie eine lauffähige Installation von [ImageMagick](https://imagemagick.org/index.php).
    
 Benutzung/Workflow

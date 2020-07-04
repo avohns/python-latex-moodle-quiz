@@ -10,7 +10,7 @@ Prerequisites
 1. Python (>=3.6) installed and working
 1. LaTeX packages installed and working:
    1. `moodle` see https://ctan.org/pkg/moodle
-   1. `python` see https://github.com/brotchie/python-sty (zumindest unter Windows benötigt)
+   1. `python` see https://github.com/brotchie/python-sty (at least if you are working on Windows)
 1. If you want to include any kind of images (static, dynamic), [ImageMagick](https://imagemagick.org/index.php) has to be installed and working.
    
 Usage/Workflow
