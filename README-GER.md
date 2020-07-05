@@ -21,7 +21,7 @@ Die Ordner `simple-examples-ger` und `simple-examples-eng` enthalten einfache De
 
 1. Machen Sie sich mit der Dokumentation des Paketes `moodle` vertraut, die Sie [hier](http://mirrors.ctan.org/macros/latex/contrib/moodle/moodle.pdf) finden können.
 1. Öffnen und bearbeiten Sie eines der TeX-Beispieldokumente in ihrem bevorzugten LaTeX-Editor.
-1. Kompilieren Sie die Datei mit `pdflatex`.
+1. Kompilieren Sie die Datei mit `pdflatex`. Dabei muss der Kommandozeilenparameter `--shell-escape` benutzt werden, um Python aufrufen zu können.
 1. Sie erhalten als Ergebnis eine intermediäre .py-Datei, eine .pdf-Datei und eine -moodle.xml Datei (und je nach Beispiel u.U. auch noch einige .png-Dateien). Für den Import nach Moodle benötigen Sie allerdings nur die -moodle.xml Datei.
 1. Importieren Sie die -moodle.xml Datei in Ihre Fragensammlung in Moodle. Falls nicht anders angegeben, werden alle Fragen automatisch in eine neue Kategorie importiert, deren Name mit dem Titel des Quizzes in der .tex-Datei übereinstimmt.
 1. Create a quiz activity and choose a random question from the respective category.
