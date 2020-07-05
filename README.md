@@ -20,7 +20,7 @@ The folders `simple-examples-ger` and `simple-examples-eng` contain more straigh
 
 1. Familiarize yourself with the documentation of the `moodle` package, which can be found [here](http://mirrors.ctan.org/macros/latex/contrib/moodle/moodle.pdf).
 1. Open and edit any of the example .tex files in your favourite LaTeX-Editor.
-1. Compile the file with `pdflatex`.
+1. Compile the file with `pdflatex`. You will have to set the `--shell-escape` flag because we are calling Python.
 1. You will get an intermediate .py file, a .pdf file and a -moodle.xml file as a result (and possibly some additional .png files depending on what example you work with). However, for importing your questions into moodle you will only need the -moodle.xml file.
 1. Import the -moodle.xml file into your question bank within moodle. If not specified otherwise, all questions will be stored inside a category which is named according to the quiz title used in the respective .tex file.
 1. Create a quiz activity and choose a random question from the respective category.
