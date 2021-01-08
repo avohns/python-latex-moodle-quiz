@@ -82,9 +82,11 @@ In my experience, it is advisable to strictly stick to png files, as the convers
 Encoding/Umlauts
 ----------------
 
-The `moodle`-package does not play nicely with utf-8 text encoding if you are using `pdflatex`. You can try to work around that by e.g. writing  German umlauts (Ä, Ö, Ü, ä, ö, ü, ß) in code (`\"A, \"O, \"U, \"a, \"o, \"u und \ss{}`).
+The `moodle`-package does not play nicely with utf-8 text encoding if you are using `pdflatex`. You can try to work around that by e.g. writing  German umlauts (Ä, Ö, Ü, ä, ö, ü, ß) in code (`\"A, \"O, \"U, \"a, \"o, \"u und \ss{}`). This may have been fixed in version 0.8 of the `moodle`-package.
 
-You should consider switching to `lualatex` which supports utf-8 encodings in combination with the `moodle`-package. On Windows you may still run into problems whit the `python`-package and utf-8 encoding, which can be resolved by manually resetting standard-i/o-encoding. Include this code snippet at the beginning of your `python` environment:
+If you experience encoing related problems, you should consider switching to `lualatex` which even supports utf-8 encodings in combination with older versions of the `moodle`-package. 
+
+On Windows you may still run into problems with the `python`-package and utf-8 encoding, which can be resolved by manually resetting standard-i/o-encoding. Include this code snippet at the beginning of your `python` environment:
 ````python
 import sys
 sys.stdin.reconfigure(encoding='utf-8')
@@ -119,6 +121,6 @@ Acknowledgements
 
 These examples/templates would not be possible without:
 - The `python`-Package for LaTeX © 2012 James Brotchie
-- The `moodle`-Package for LaTeX © 2016 Anders O. F. Hendrickson 
+- The `moodle`-Package for LaTeX © 2016 Anders O. F. Hendrickson, 2019–2021 Matthieu Guerquin-Kern
 
 I would also like to thank Benjamin Hackl for suggesting the use of multiline-f-strings.
