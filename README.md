@@ -93,12 +93,12 @@ sys.stdin.reconfigure(encoding='utf-8')
 sys.stdout.reconfigure(encoding='utf-8')
 ````
 
-Shuffling answers in embedded questions
----------------------------------------
+Shuffling answers in embedded questions (when using older versions of the moodle package)
+-----------------------------------------------------------------------------------------
 
-The `moodle` package was written before shuffling answers was introduced for subquestions inside embedded questions in moodle (>= 3.0). 
+The `moodle` package was originally written before shuffling answers was introduced for subquestions inside embedded questions in moodle (>= 3.0). As of version 0.8 of the moodle-package, shuffling answers inside embedded questions is the default behaviour.
 
-If you want to use shuffled answers for subquestions inside embedded questions, you have to include another `python` environment below the `quiz` environment inside the TeX document's body to change the questions type directly within the -moodle.xml file (please refer to https://bit.ly/2ZbQnTB for more details on the different types of subquestions). 
+If you want to use shuffled answers for subquestions inside embedded questions with older versions of the `moodle`-package, you have to include another `python` environment below the `quiz` environment inside the TeX document's body to change the questions type directly within the -moodle.xml file (please refer to https://bit.ly/2ZbQnTB for more details on the different types of subquestions). 
 
 Let us suppose our xml file is e.g. `example-moodle.xml`and we have a `MULICHOICE` question. We then need to change each occurence of `MULICHOICE` to `MULTICHOICE_S`, which can be achieved with the following bit of code:
 
